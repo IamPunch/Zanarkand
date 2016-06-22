@@ -1,0 +1,2116 @@
+
+ 
+ 
+ 
+&&X&C0?0p&
+ &U
+ Tª
+ U
+ Monster 0
+ Info window message
+ -
+ Scan window message
+ -
+ Raldo
+ Covered by a hard shell. Piercing weapons are the way to go.
+ -
+ Covered by a hard shell.
+Slow-moving, but has high
+physical and magic defense.
+Vulnerable to ice.
+Falls easily to piercing weapons.
+Have Auron slice it down the
+middle.
+ -
+ Bunyip
+ Covered by a hard shell. Piercing weapons are the way to go.
+ -
+ Covered by a hard shell.
+Slow-moving, but has high
+physical and magic defense.
+Vulnerable to ice and water.
+Falls easily to piercing weapons.
+ -
+ Murussu
+ Covered by a hard shell. Piercing weapons are the way to go. Watch out for slow.
+ -
+ Covered by a hard shell.
+Slow-moving, but has high
+physical and magic defense.
+Vulnerable to fire and lightning.
+Its Bash may inflict slow.
+ -
+ Mafdet
+ Covered by a hard shell. Piercing weapons are the way to go. Watch out for slow.
+ -
+ Covered by a hard shell.
+Slow-moving, but has high
+physical and magic defense.
+Vulnerable to lightning and ice.
+Its Bash may inflict slow.
+ -
+ Shred
+ Covered by a hard shell. Piercing weapons are the way to go. Watch out for slow.
+ -
+ Covered by a hard shell.
+Slow-moving, but has high
+physical and magic defense.
+Vulnerable to fire, but takes
+only half damage from other
+elements.
+Its Bash may inflict slow.
+ -
+ Gandarewa
+ Aerial. Resistant to magic.
+ -
+ Aerial and hard to hit.
+Casts Thunder.
+It's vulnerable to water, but
+has high magic defense.
+Use Wakka to knock it out of
+the sky.
+ -
+ Aerouge
+ Aerial. Resistant to magic.
+ -
+ Aerial and hard to hit.
+It's weak against water,
+but has high magic defense.
+The only attack it has is
+Thundara, so inflict silence
+to leave it powerless.
+ -
+ Imp
+ Aerial. Resistant to magic.
+ -
+ Aerial and hard to hit.
+It's weak against water,
+but has high magic defense.
+The only attack it has is
+Thundaga, so inflict silence
+to leave it powerless.
+ -
+ Dingo
+ Very nimble. Resistant to magic.
+ -
+ Very nimble and hard to hit.
+Magic defense is also high.
+Try to defeat it quickly to
+avoid damage.
+Attack swiftly with 0.
+ -
+ Mi'ihen Fang
+ Very nimble. Resistant to magic.
+ -
+ Very nimble and hard to hit.
+Magic defense is also high.
+It's vulnerable to fire- and
+water-based attacks, so use
+weapons with these elements
+to inflict greater damage.
+ -
+ Garm
+ Very nimble. Resistant to magic.
+ -
+ Very nimble and hard to hit.
+Magic defense is also high.
+Defeat it quickly to avoid
+damage.
+It's vulnerable to lightning
+and fire.
+ -
+ Snow Wolf
+ Very nimble. Resistant to magic.
+ -
+ Very nimble and hard to hit.
+Magic defense is also high.
+Defeat it quickly to avoid
+damage.
+It's vulnerable to fire.
+ -
+ Sand Wolf
+ Very nimble. Resistant to magic. Watch out for sleep and silence.
+ -
+ Very nimble and hard to hit.
+Magic defense is also high.
+Defeat it quickly to avoid
+damage.
+Vulnerable to fire and ice.
+Its attacks may cause sleep
+and silence.
+ -
+ Skoll
+ Very nimble. Resistant to magic. Watch out for sleep and silence.
+ -
+ Very nimble and hard to hit.
+Magic defense is also high.
+Defeat it quickly to avoid
+damage.
+Vulnerable to fire and lightning.
+Its attacks may cause sleep
+and silence.
+ -
+ Bandersnatch
+ Very nimble. Resistant to magic. Watch out for sleep and silence.
+ -
+ Very nimble and hard to hit.
+Magic defense is also high.
+Defeat it quickly to avoid
+damage.
+Vulnerable to fire.
+Its attacks may cause sleep
+and silence.
+ -
+ Water Flan
+ Water elemental. Vulnerable to opposing element. Resistant to physical attacks.
+ -
+ Water-based.
+So soft, it's hard to damage
+physically.
+Weak against lightning, so blast
+it with Lulu's Thunder spell.
+Don't use Water or it will
+recover HP.
+ -
+ Thunder Flan
+ Lightning elemental. Vulnerable to opposing element. Resistant to physical attacks.
+ -
+ Lightning-based.
+So soft, it's hard to damage
+physically.
+Weak against water, so blast
+it with Water.
+Don't use lightning or it will
+recover HP.
+ -
+ Snow Flan
+ Ice elemental. Vulnerable to opposing element. Resistant to physical attacks.
+ -
+ Ice-based.
+So soft, it's hard to damage
+physically.
+Weak against fire, but will
+absorb HP from ice.
+Casts Blizzard.
+ -
+ Ice Flan
+ Ice elemental. Vulnerable to opposing element. Resistant to physical attacks.
+ -
+ Ice-based.
+So soft, it's hard to damage
+physically.
+Weak against fire, but will
+absorb HP from ice.
+ -
+ Flame Flan
+ Fire elemental. Vulnerable to opposing element. Resistant to physical attacks.
+ -
+ Fire-based.
+So soft, it's hard to damage
+physically.
+Weak against ice, but absorbs
+HP from fire.
+Casts Firaga.
+ -
+ Dark Flan
+ No elemental weaknesses. Resistant to physical attacks.
+ -
+ Resistant to physical attacks
+and cuts all elemental damage
+by half.
+Casts non-elemental magic
+like Demi, Bio, Flare, Osmose,
+and Drain.
+
+Kimahri can learn White Wind.
+ -
+ Dinonix
+ Very nimble. Resistant to magic.
+ -
+ Very nimble and hard to hit.
+Magic defense is also high.
+Defeat it quickly to avoid
+damage.
+Vulnerable to ice.
+ -
+ Ipiria
+ Very nimble. Resistant to magic.
+ -
+ Very nimble and hard to hit.
+Magic defense is also high.
+Defeat it quickly to avoid
+damage.
+Takes only half damage from 
+fire, but vulnerable to ice.
+ -
+ Raptor
+ Very nimble. Resistant to magic.
+ -
+ Very nimble and hard to hit.
+Magic defense is also high.
+Defeat it quickly to avoid
+damage.
+Takes only half damage from
+fire and lightning, but is
+vulnerable to ice.
+ -
+ Melusine
+ Very nimble. Resistant to magic. Watch out for petrification and silence.
+ -
+ Very nimble and hard to hit.
+Magic defense is also high.
+Takes only half damage from
+fire and lightning.
+Attacks may cause petrification
+and silence.
+ -
+ Iguion
+ Very nimble. Resistant to magic. Watch out for petrification and silence.
+ -
+ Very nimble and hard to hit.
+Magic defense is also high.
+Takes only half damage from
+fire and water.
+Attacks may cause petrification
+and silence.
+ -
+ Yowie
+ Very nimble. Resistant to magic. Watch out for petrification and silence.
+ -
+ Very nimble and hard to hit.
+Magic defense is also high.
+Takes only half damage from
+fire, lightning, and water.
+Attacks may cause petrification
+and silence.
+ -
+ Condor
+ Aerial. Magic attacks are the way to go.
+ -
+ Aerial and hard to hit.
+Use Wakka's attack to knock it
+down.
+It's vulnerable to fire, so you
+can also use Lulu's Fire spell.
+ -
+ Simurgh
+ Aerial. Magic attacks are the way to go. Watch out for darkness.
+ -
+ Aerial and hard to hit.
+Magic attacks are effective.
+It's vulnerable to fire, so use
+Fira to achieve Overkill.
+Attacks may inflict darkness.
+ -
+ Alcyone
+ Aerial. Magic attacks are the way to go. Watch out for darkness.
+ -
+ Aerial and hard to hit.
+Magic attacks are effective.
+It's vulnerable to fire, so use
+Fira to achieve Overkill.
+Attacks may inflict darkness.
+ -
+ Killer Bee
+ Aerial. Vulnerable to ice. Watch out for poison.
+ -
+ Aerial and hard to hit.
+Use Wakka's attack to knock it
+down.
+It's vulnerable to ice, so Blizzard
+is also effective.
+Attacks may inflict poison.
+ -
+ Bite Bug
+ Aerial. Vulnerable to ice. Watch out for poison.
+ -
+ Aerial and hard to hit.
+Magic attacks are effective.
+It's vulnerable to ice, so cast
+Blizzard to achieve Overkill.
+Attacks may inflict poison.
+ -
+ Wasp
+ Aerial. Vulnerable to ice. Watch out for poison.
+ -
+ Aerial and hard to hit.
+Magic attacks are effective.
+It's vulnerable to ice, so cast
+Blizzara to achieve Overkill.
+Attacks may inflict poison.
+ -
+ Nebiros
+ Aerial. Vulnerable to ice. Watch out for poison.
+ -
+ Aerial and hard to hit.
+Magic attacks are effective.
+It's vulnerable to ice, so cast
+Blizzaga to achieve Overkill.
+Attacks may inflict poison.
+ -
+ Floating Eye
+ Aerial. Resistant to magic.
+ -
+ Aerial and hard to hit.
+Its weakness is lightning, but
+it has high magic defense.
+Use Wakka's attack to defeat it.
+ -
+ Buer
+ Aerial. Resistant to magic. Watch out for confusion.
+ -
+ Aerial and hard to hit.
+Its weakness is water, but
+it has high magic defense.
+Its Gaze may cause confusion.
+ -
+ Evil Eye
+ Aerial. Resistant to magic. Watch out for confusion.
+ -
+ Aerial and hard to hit.
+Its weakness is fire, but
+it has high magic defense.
+Its Gaze may cause confusion.
+ -
+ Ahriman
+ Aerial. Resistant to magic. Watch out for confusion.
+ -
+ Aerial and hard to hit.
+It has high magic defense and
+no elemental weaknesses.
+Its Gaze may cause confusion.
+It also has Ultrasonics, which
+strikes all characters.
+ -
+ Ragora
+ Vulnerable to fire.
+ -
+ Watch out for its powerful Seed
+Cannon.
+One bad hit will knock characters
+out.
+Plants tend to be weak against
+fire, so have Lulu cast Fira.
+
+Kimahri can learn Seed Cannon.
+ -
+ Grat
+ Vulnerable to fire.
+ -
+ Its Seed Cannon packs quite
+a punch.
+Seed Burst doesn't do much
+damage, but may inflict
+confusion on characters.
+Vulnerable to fire.
+
+Kimahri can learn Seed Cannon.
+ -
+ Sahagin
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Sahagin
+ Vulnerable to lightning. Slow on land.
+ -
+ Very nimble, but attacks are
+weak.
+HP is also low, so it's no threat
+when it appears alone.
+Vulnerable to lightning.
+Cripple it early by inflicting
+darkness or sleep on it.
+ -
+ Sahagin
+ Vulnerable to lightning. Slow on land.
+ -
+ Although it's slow on land,
+watch out for its Water Spurt.
+Vulnerable to lightning.
+Cripple it early by inflicting
+darkness or sleep on it.
+ -
+ Garuda
+ Dodging its attacks is easier after inflicting darkness.
+ -
+ It has high strength and
+tons of HP.
+Beware of Sonic Boom, which hits
+all characters.
+Dodge its attacks more easily by
+inflicting darkness.
+ -
+ Zu
+ Watch out for Sonic Boom when wings glow.
+ -
+ High HP. Aerial, but so big that
+it's easy to hit.
+Its wings will start flashing
+the turn before it unleashes
+Sonic Boom.
+
+Use Dark Buster and strong
+attacks, or else...
+ -
+ Sand Worm
+ Watch out for Earthquake, which hits all. Inflict darkness to avoid its head butt.
+ -
+ Watch out for its Earthquake,
+which hits all characters.
+If a character is Swallowed,
+he will be unavailable until the
+worm Regurgitates him back out.
+Try inflicting darkness and sleep.
+ -
+ Land Worm
+ Watch out for Earthquake, which hits all.  It'll be a long battle, so keep an eye on your HP.
+ -
+ Beware of its Earthquake,
+which hits all.
+Inflict sleep and darkness
+on it to hinder its attacks.
+Both its physical and magic
+defense are high, so use
+Armor Break and Mental Break.
+ -
+ Defender
+ Low magic defense.
+ -
+ Strength and defense are high.
+There is a 1/2 chance of the
+monster using Haymaker, so
+be sure to raise your defense.
+Use magic often, since its
+magic defense is low.
+ -
+ Defender Z
+ Mental Break works well.
+ -
+ Strength, physical, and magic
+defense are high.
+There is a 1/2 chance of the
+monster using Haymaker.
+When HP is low, it also releases
+Blast Punch, which delays turns.
+ -
+ Ghost
+ Casts Doom at the beginning of battle.
+ -
+ Casts Doom at the beginning of
+battle.
+Defeat it before the countdown
+runs out to avoid KO.
+Its elemental weaknesses change
+every battle.
+
+Kimahri can learn Doom.
+ -
+ Phlegyas
+ Watch out when it starts glowing. It releases Sonic Wave after the third pulse.
+ -
+ It starts glowing when hit.
+After the 3rd pulse, it attacks
+with a Sonic Wave that hits all.
+Put it to sleep to prevent it
+from glowing.
+It takes only half damage from
+water.
+Weak against lightning.
+ -
+ Achelous
+ Watch out when it starts glowing. It releases Sonic Wave after the third pulse.
+ -
+ It starts glowing when hit.
+After the 3rd pulse, it attacks
+with a Sonic Wave.
+Put it to sleep to prevent it
+from glowing.
+It takes no damage from water,
+but is weak against lightning.
+ -
+ Remora
+ Watch out for Maelstrom.
+ -
+ The more you attack it the
+sooner it casts Maelstrom.
+Takes half damage from water.
+Weak against lightning.
+Darkness and poison are the
+way to go.
+ -
+ Maelspike
+ Watch out for Maelstrom.
+ -
+ The more you attack it the
+sooner it casts Maelstrom.
+Immune to water and weak
+against lightning.
+Darkness and poison are the
+way to go.
+ -
+ Dual Horn
+ Inflict darkness to evade its attacks.
+ -
+ Its Gore is powerful, but
+inflict darkness or use Sleep
+Attack to avoid it easily.
+
+Kimahri can learn Fire Breath.
+ -
+ Valaha
+ Inflict darkness to evade its attacks.
+ -
+ Inflict darkness to hinder its
+attacks.
+Its Flame Ball is a powerful
+fire attack that hits all, but
+it needs to Charge before
+it's released.
+
+Kimahri can learn Fire Breath.
+ -
+ Grendel
+ Inflict darkness to evade its attacks. Piercing weapons are the way to go.
+ -
+ Inflict darkness to hinder its
+attacks.
+Its Flame Ball is a powerful fire
+attack that hits all, but it needs
+to Charge before it's released.
+Use poison and piercing weapons.
+
+Kimahri can learn Fire Breath.
+ -
+ Octopus
+ Head is covered by a hard shell.
+ -
+ Since it's covered by a hard
+shell, piercing weapons are the
+way to go.
+Magic defense is low, and it's
+also weak against lightning.
+Its attacks may inflict slow.
+ -
+ Vouivre
+ Covered with hard scales. Piercing weapons are the way to go.
+ -
+ Covered with hard scales, but
+piercing weapons can easily
+defeat it.
+Physical and magic defense are
+high, but it's weak against ice.
+Watch out for its Breath, which
+hits all.
+ -
+ Lamashtu
+ Covered with hard scales. Piercing weapons are the way to go.
+ -
+ Covered with hard scales.
+Physical and magic defense are
+high, but it's weak against fire.
+Its attack may cause slow.
+Watch out for its ice-based
+Breath, which hits all.
+ -
+ Kusariqqu
+ Covered with hard scales. Piercing weapons are the way to go. Watch out for slow.
+ -
+ Covered with hard scales.
+Physical and magic defense
+are high, but it's weak against
+water.
+Its attack may cause slow.
+Watch out for its lightning-
+based Breath, which hits all.
+ -
+ Mushussu
+ Covered with hard scales. Piercing weapons are the way to go. Watch out for slow.
+ -
+ Covered with hard scales.
+Physical and magic defense are
+high.
+It only takes half damage from
+fire, but it's weak against ice.
+Its attack may cause slow.
+Beware of its fire-based Breath,
+which hits all.
+ -
+ Nidhogg
+ Covered with hard scales. Piercing weapons are the way to go. Watch out for slow.
+ -
+ Covered with hard scales.
+Physical and magic defense are
+high.
+It only takes half damage from
+fire, but it's weak against ice.
+Its attack may cause slow.
+Beware of its fire-based Breath,
+which hits all.
+ -
+ Malboro
+ Watch out for its Bad Breath attack, which causes multiple status effects.
+ -
+ Its Bad Breath inflicts multiple
+status effects on all characters.
+Guard against the status effects
+with armor, and attack with fire.
+
+Kimahri can learn Bad Breath.
+ -
+ Great Malboro
+ Breathes Bad Breath 1/3 of the time. Be ready for anything.
+ -
+ Danger! There is a 1/3 chance
+of it attacking with Bad Breath.
+To avoid being wiped out, equip
+armor that guards against status
+effects and attack with fire.
+
+Kimahri can learn Bad Breath.
+ -
+ Ogre
+ Be careful if it puts up its dukes.
+ -
+ When it puts up its dukes, it
+will respond to physical attacks
+with a mighty counterattack.
+Fire-based attacks are the way
+to go.
+ -
+ Bashura
+ Be careful if it puts up its dukes.
+ -
+ When it puts up its dukes, it will
+respond to physical attacks
+with a mighty counter.
+Use magic and poison to soften
+it up.
+ -
+ Piranha
+ Low attack and HP.
+ -
+ Attacks by biting.
+Low HP and strength.
+It should be an easy
+enemy to handle.
+ -
+ Piranha
+ Attacks in packs of two.
+ -
+ Attacks by biting.
+Both HP and attack power
+are higher when they appear
+in pairs.
+ -
+ Piranha
+ Attacks in packs of three.
+ -
+ Attacks by biting.
+Both HP and attack power are
+higher when they appear in
+groups of three.
+ -
+ Splasher
+ Watch out for Self-Destruct.
+ -
+ When defeated, it sometimes
+inflicts damage on its attacker
+with Self-Destruct.
+ -
+ Splasher
+ Watch out for poison.
+ -
+ Acts in pairs.
+May inflict poison when it bites.
+ -
+ Splasher
+ Watch out for poison.
+ -
+ Acts in groups of three.
+May inflict poison when it bites.
+ -
+ Vepar
+ Watch out for Self-Destruct.
+ -
+ When defeated, it sometimes
+inflicts damage on its attacker
+with Self-Destruct.
+ -
+ Vepar
+ Watch out for poison.
+ -
+ Acts in pairs.
+May inflict poison when it bites.
+ -
+ Vepar
+ Watch out for poison.
+ -
+ Acts in groups of three.
+May inflict poison when it bites.
+ -
+ Yellow Element
+ Lightning elemental. Vulnerable to opposing element.
+ -
+ Casts Thunder.
+Physical attacks hardly hurt it.
+Absorbs lightning, so Water is
+the way to go.
+ -
+ White Element
+ Ice elemental. Vulnerable to opposing element.
+ -
+ Casts Blizzard.
+Physical attacks hardly hurt it.
+Absorbs ice, so Fire is the way
+to go.
+ -
+ Red Element
+ Fire elemental. Vulnerable to opposing element.
+ -
+ Casts Fire.
+Physical attacks hardly hurt it.
+Absorbs fire, so Blizzard is the
+way to go.
+ -
+ Gold Element
+ Lightning elemental. Vulnerable to opposing element.
+ -
+ Casts Thunder.
+Physical attacks hardly hurt it.
+Absorbs lightning, so use Watera
+for an Overkill.
+ -
+ Blue Element
+ Water elemental. Vulnerable to opposing element.
+ -
+ Casts Watera.
+Physical attacks hardly hurt it.
+Absorbs water, so Thundara is
+the way to go.
+ -
+ Dark Element
+ No elemental weaknesses. Casts Reflect on itself.
+ -
+ No elemental weaknesses, and
+physical attacks hardly hurt it.
+Casts Reflect on itself.
+If its Reflect is dispelled, it
+retaliates with Bio, Osmose, and
+Drain.
+ -
+ Black Element
+ Immune to sensors.
+ -
+ Preparing
+ -
+ Epaaj
+ Watch out for poison.
+ -
+ Very nimble.
+Its claws can inflict poison.
+Inflicting darkness or Threaten
+on it are the way to go.
+ -
+ Behemoth
+ Watch out for Heave.
+ -
+ Its Thundara, Heave, and claw
+attacks are deadly.
+One good hit will knock you out.
+
+Kimahri can learn Mighty Guard.
+ -
+ Behemoth King
+ Retaliates with Meteor when defeated.
+ -
+ Its claws, lightning, and Heave
+attacks are deadly.
+Watch out for the Meteor it casts
+before it dies.
+Cast Protect, or defend with
+0 to survive.
+
+Kimahri can learn Mighty Guard.
+ -
+ Chimera
+ Darkness and silence work well. Vulnerable to Threaten.
+ -
+ The snake casts Thundara, the bull
+Assaults, the hawk uses Aqua
+Breath, and the lion uses Megiddo
+Flame, in that order.
+Vulnerable to Threaten, darkness,
+and silence.
+
+Kimahri can learn Aqua Breath.
+ -
+ Chimera Brain
+ Darkness and silence work well. Vulnerable to Threaten.
+ -
+ The snake casts lightning magic,
+the bull Assaults, the hawk uses
+Aqua Breath, and the lion uses
+Megiddo Flame, in that order.
+Vulnerable to Threaten, darkness,
+and silence.
+
+Kimahri can learn Aqua Breath.
+ -
+ Coeurl
+ Casts Drain and Blaster when low on HP.
+ -
+ High magic attack and defense.
+Casts Thundara and Blizzara.
+Also casts Drain when HP is low.
+Beware of Blaster, since it's
+unblockable and causes
+petrification.
+ -
+ Master Coeurl
+ Casts Drain, Confusion, and Blaster when low on HP.
+ -
+ High magic attack and defense.
+Casts Thundaga and Blizzaga.
+Also casts Drain and Confuse
+when HP is low.
+Beware of Blaster, since it's
+unblockable and causes instant
+death.
+ -
+ Mech Guard
+ Steal to inflict terminal malfunction.
+ -
+ Same type of machina as the
+Workers at Luca.
+Stealing will cause a terminal
+malfunction, so leave it to Rikku.
+Vulnerable to lightning.
+ -
+ Mech Scouter
+ Steal to inflict terminal malfunction.
+ -
+ Higher HP and strength than the
+ones in the Sanubia Desert.
+Steal to cause a terminal
+malfunction.
+ -
+ Mech Scouter
+ Steal to inflict terminal malfunction.
+ -
+ Higher HP and strength than the
+ones in the Sanubia Desert.
+Steal to cause a terminal
+malfunction.
+ -
+ Mech Leader
+ Steal to inflict terminal malfunction.
+ -
+ Abandoned machina from ages past.
+Its Electrocute attack inflicts
+severe lightning damage.
+Steal to terminate immediately.
+ -
+ Demonolith
+ Beware of its Breath, which can petrify you.
+ -
+ Beware of its Pharaoh's Curse,
+which inflicts poison, silence,
+darkness, and curse.
+If attacked when petrified, the
+party member will be unable to
+return to battle.
+Also watch out for zombie.
+ -
+ Mech Gunner
+ Steal to inflict terminal malfunction.
+ -
+ Ancient machina.
+Has higher HP than the Mech Guard,
+but Stealing parts will destroy it
+in one shot, so leave it to Rikku.
+Weak against lightning.
+ -
+ Mech Hunter
+ Steal to inflict terminal malfunction.
+ -
+ Higher HP and strength than the
+ones in the Sanubia Desert.
+Steal to cause a terminal
+malfunction.
+ -
+ Mech Defender
+ Steal to inflict terminal malfunction.
+ -
+ Abandoned machina from ages past.
+Higher HP and defense than the
+Mech Leader.
+Steal to cause a terminal
+malfunction.
+ -
+ Ultima Weapon
+ Give it all you've got!
+ -
+ Scan not available.
+ -
+ Omega Weapon
+ Give it all you've got!
+ -
+ Scan not available.
+ -
+ Iron Giant
+ Dark Buster is effective, but beware its Reaper attack.
+ -
+ Targets character with lowest HP.
+Beware its Reaper attack, which
+hits all characters.
+No elemental weaknesses.
+Takes half damage from lightning.
+Use piercing weapons and Dark
+Buster.
+ -
+ Gemini
+ When paired together they unleash Double Reaper. Focus your attacks to defeat one quickly.
+ -
+ When paired, after receiving a certain
+amount of damage, they unleash a
+powerful synchronized attack,
+the Double Reaper.
+One absorbs lightning and fire,
+while the other absorbs water
+and ice.
+ -
+ Gemini
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Gemini
+ When paired together they unleash Double Reaper. Focus your attacks to defeat one quickly.
+ -
+ When paired, after receiving a certain
+amount of damage, they unleash a
+powerful synchronized attack,
+the Double Reaper.
+One absorbs lightning and fire,
+while the other absorbs water
+and ice.
+ -
+ Basilisk
+ Watch out for its Stone Gaze.
+ -
+ Beware the third eye. Its Stone
+Gaze may cause petrification.
+If petrified, restore with Esuna
+or Soft.
+
+Kimahri can learn Stone Breath.
+ -
+ Anacondaur
+ Watch out for its Stone Gaze.
+ -
+ The third eye's Stone Gaze
+often causes petrification.
+After taking multiple hits, it
+retaliates with Sonic Tail,
+which strikes all.
+
+Kimahri can learn Stone Breath.
+ -
+ Adamantoise
+ Covered by a hard shell.
+ -
+ Protected by a hard shell.
+Attacks mutliple targets with
+its fire-based Breath.
+Armor Break and Mental Break
+are the way to go.
+ -
+ Varuna
+ Resistant to all four elements.
+ -
+ Casts Haste on himself and
+attacks with magic, so use Dispel
+on him.
+After his Mana Focus, he'll cast
+Emblem of Fate.
+You can reduce damage with Shell,
+but he can cast Dispel on you, too.
+ -
+ Ochu
+ Vulnerable to fire.
+ -
+ When HP is low, it performs
+Ochu Dance, which inflicts
+darkness, silence, confusion,
+and slow.
+Beware of its poison claws.
+Vulnerable to fire.
+ -
+ Mandragora
+ Vulnerable to fire.
+ -
+ The more damage it takes, the
+sooner it uses Earthquake.
+Its Ochu Dance inflicts darkness,
+silence, confusion, and slow.
+Also beware of poison.
+Vulnerable to fire.
+ -
+ YAT-99
+ Close in to melee range by defeating frontline enemies first.
+ -
+ Forbidden machina secretly
+used by Yevon.
+Hits multiple targets when firing
+from a distance.
+ -
+ YAT-97
+ Close in to melee range by defeating frontline enemies first.
+ -
+ Hits multiple targets when firing
+from a distance.
+Immune to delay skills.
+ -
+ Bomb
+ Retaliates with Self-Destruct after receiving damage three times.
+ -
+ Retaliates with Self-Destruct
+against whoever deals damage to it
+a third time.
+Use NulBlaze if you can't defeat it
+before then.
+Vulnerable to ice, so use Blizzard.
+
+Kimahri can learn Self-Destruct.
+ -
+ Grenade
+ Retaliates with Self-Destruct after receiving damage three times.
+ -
+ Retaliates with Self-Destruct
+against whoever deals damage to it
+a third time.
+Weak against ice, but has high magic
+defense, so use Mental Break and
+your best ice magic.
+
+Kimahri can learn Self-Destruct.
+ -
+ YKT-63
+ If it's the last enemy standing, it will unleash a vicious Thrust Kick.
+ -
+ Forbidden machina secretly used
+by Yevon.
+If it's the last enemy standing,
+it throws a mean Thrust Kick that
+ejects the target from battle.
+
+Kimahri can learn Thrust Kick.
+ -
+ YKT-11
+ If it's the last enemy standing, it will unleash a vicious Thrust Kick.
+ -
+ If it's the last enemy standing,
+it throws a mean Thrust Kick
+that ejects the target from battle.
+Immune to delay techniques.
+
+Kimahri can learn Thrust Kick.
+ -
+ Warrior Monk
+ Attacks single targets with rifle.
+ -
+ St. Bevelle sentry and soldier
+of Yevon.
+Attacks single targets with his
+rifle.
+Sleep attacks are the way to go.
+ -
+ Fallen Monk
+ Zombie. Vulnerable to healing magic and items.
+ -
+ A soldier who continues to
+protect the Yevon Dome even
+after death.
+His rifle hits single targets.
+He can inflict zombie status,
+so watch out.
+ -
+ Warrior Monk
+ Attacks multiple targets with flamethrower.
+ -
+ St. Bevelle sentry and soldier
+of Yevon.
+Attacks all targets with his
+flamethrower for fire-based
+damage.
+Sleep attacks are the way to go.
+ -
+ Fallen Monk
+ Zombie. Vulnerable to healing magic and items.
+ -
+ A soldier who continues to
+protect the Yevon Dome even
+after death.
+Attacks all targets with his
+flamethrower for fire-based
+damage.
+ -
+ PuPu
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Magic Urn
+ Hit the correct eye for prizes!
+ -
+ Hit the correct target to win
+items.
+The wrong target ends the battle
+with a bang.
+Damage is substantial, so be sure
+to heal.
+Eight fabulous prizes in all,
+while supplies last.
+ -
+ Magic Urn
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Magic Urn
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Magic Urn
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Magic Urn
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Qactuar
+ You'll get a treat if you can defeat it before it gets away.
+ -
+ Beware of 1000 Needles, as it
+inflicts 1000 points of damage.
+Resistant to both physical and
+magical attacks.
+Runs away when HP is low.
+Threaten is recommended.
+ -
+ Cactuar
+ You'll get a treat if you can defeat it before it gets away.
+ -
+ Its 10000 Needles inflict
+10000 points of damage.
+Resistant to both physical
+and magical attacks.
+Runs away when HP is low.
+Hard to defeat, but worth
+a lot of AP.
+ -
+ Larva
+ Casts Thundara on itself to replenish HP and grow even more powerful.
+ -
+ When HP is halved, it casts
+Thundara on itself to recover
+HP and increase magic power.
+Silence it with Silence Attack.
+It's vulnerable to water,
+so Watera is the way to go.
+ -
+ Barbatos
+ Protected by tough armor. Try Armor Break.
+ -
+ Covered in thick armor.
+Armor Break works well, but
+watch out for a powerful
+counterattack.
+All of its attacks deal great
+damage, so beware.
+ -
+ ???
+ Steal to get the stuff inside.
+ -
+ Not ready yet.
+ -
+ Wendigo
+ Only uses physical attacks. Curing its berserk status will lower its strength...
+ -
+ Uses physical attacks only.
+Once it puts up its dukes,
+it'll retaliate to any physical
+attacks with a deadly
+counterattack.
+ -
+ Guado Guardian
+ Heals himself with Auto-Potion, so stop him from using items.
+ -
+ Try to stop him from healing
+himself with Auto-Potion.
+He sometimes casts Berserk
+on other enemies, making them
+stronger.
+ -
+ Funguar
+ Occasionally counters with Pollen, which induces sleep.
+ -
+ Casts Fire, so it's best to
+silence it.
+Occasionally retaliates with
+sleep-inducing Pollen.
+Putting it to sleep is effective.
+Vulnerable to fire.
+ -
+ Thorn
+ Counters physical attacks with Pollen, which induces sleep and darkness.
+ -
+ Casts Fira.
+Putting it to sleep is effective.
+Releases sleep- and darkness-
+inducing Pollen when hit by a
+weapon.
+Vulnerable to fire.
+ -
+ Exoray
+ Counters physical attacks with Pollen, which induces poison, silence, and darkness.
+ -
+ Casts Firaga, but Silence
+works well.
+Sometimes counters physical attacks
+with pollen that may cause poison,
+silence and darkness.
+Vulnerable to fire.
+ -
+ Xiphos
+ Occasionally succumbs to darkness.
+ -
+ Very nimble.
+Darkness works, but Threaten
+is the way to go.
+ -
+ Puroboros
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Spirit
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Wraith
+ Casts Doom at the beginning of battle.
+ -
+ Elemental strengths/weaknesses
+are different each encounter.
+Casts Doom in battle.
+If nobody is Doomed, it may
+unleash Death, so watch out.
+
+Kimahri can learn Doom.
+ -
+ Sandragora
+ Absorbs water.
+ -
+ Its Seed Burst doesn't hurt
+much, but may cause confusion.
+As a desert plant it absorbs
+water, but burns easily.
+ -
+ Guado Guardian
+ Tries to nullify Lulu's magic.
+ -
+ Controls fiends like Bombs
+and Chimeras.
+Tries to stop Lulu's magic
+with Silence and Confuse.
+Hit him with Silence Attack
+first to leave him helpless.
+ -
+ Tonberry
+ Advances closer four times. Defeat it before then, or else...
+ -
+ After four waddles, he stabs
+with his Chef's Knife.
+His counterattack Karma deals
+damage based on the number of
+enemies that character has
+defeated.
+ -
+ Master Tonberry
+ Advances closer four times. Defeat it before then, or else...
+ -
+ After four waddles, he stabs
+with his Chef's Knife.
+His counterattack Karma deals
+damage based on the number of
+enemies that character has
+defeated.
+ -
+ Evil Eye
+ Aerial creature with high magic defense. Beware of its confusion attack.
+ -
+ Aerial and hard to hit.
+Vulnerable to fire, but
+has high magic defense.
+Its Gaze may cause
+confusion.
+ -
+ Bomb
+ Retaliates with Self-Destruct when attacked three times.
+ -
+ Retaliates with Self-Destruct
+against whoever attacks it a third
+time.
+Use NulBlaze if you can't defeat it
+before then.
+Vulnerable to ice, so use Blizzara.
+
+Kimahri can learn Self-Destruct.
+ -
+ Chimera
+ Darkness and silence work well. Vulnerable to Threaten.
+ -
+ The snake casts Thundara, the bull
+Assaults, the hawk uses Aqua
+Breath, and the lion uses Megiddo
+Flame, in that order.
+Vulnerable to Threaten, darkness,
+and silence.
+
+Kimahri can learn Aqua Breath.
+ -
+ Dual Horn
+ Inflict darkness to evade its attacks.
+ -
+ Its Gore is powerful, but
+inflict darkness or use Sleep
+Attack to avoid it easily.
+
+Kimahri can learn Fire Breath.
+ -
+ Defender X
+ Made of stone. Resistant to physical attacks.
+ -
+ Boasts very high physical attack
+and defense.
+Its counterattack Blast Punch
+delays target and causes damage.
+Casts Mighty Guard and Slowga.
+ -
+ Garuda
+ Dodging its attacks is easier after inflicting darkness.
+ -
+ It has high strength and
+tons of HP.
+Beware of Sonic Boom, which hits
+all characters.
+Dodge its attacks more easily by
+inflicting darkness.
+ -
+ Dingo
+ Very nimble. Resistant to magic.
+ -
+ Very nimble and hard to hit.
+High magic defense.
+Must defeat it quickly
+or be attacked.
+Have 0 beat it
+pronto.
+ -
+ Water Flan
+ Water elemental. Vulnerable to opposing element. Resistant to physical attacks.
+ -
+ Water-based.
+So soft, it's hard to damage
+physically.
+Weak against lightning, so blast
+it with Lulu's Thunder spell.
+Don't use Water or it will
+recover HP.
+ -
+ Condor
+ Aerial. Magic attacks are the way to go.
+ -
+ Aerial and hard to hit.
+Have Wakka shoot it down
+or let Lulu toast it with Fire.
+ -
+ Ragora
+ Vulnerable to fire.
+ -
+ Beware the powerful Seed Cannon.
+It can KO in a single shot.
+Most plant fiends burn easily,
+so have Lulu cast Fira.
+
+Kimahri can learn Seed Cannon.
+ -
+ Raldo
+ Covered by a hard shell. Piercing weapons are the way to go.
+ -
+ Covered by a hard shell.
+Slow-moving, but has high physical
+and magic defense.
+Vulnerable to ice.
+Falls easily to piercing weapons.
+Have Auron slice it down the middle.
+ -
+ Bunyip
+ Covered by a hard shell. Piercing weapons are the way to go.
+ -
+ Covered by a hard shell.
+Slow-moving, but has high physical
+and magic defense.
+Vulnerable to ice and water.
+Falls easily to piercing weapons.
+ -
+ ???
+ ???
+ -
+ Not ready yet.
+ -
+ Zu
+ Beware the Sonic Boom when its wings glow.
+ -
+ High HP. Aerial, but so big that
+it's easy to hit.
+Its wings will start flashing
+the turn before it unleashes
+Sonic Boom.
+
+Use Dark Buster and strong
+attacks, or else...
+ -
+ Zaurus
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Halma
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Aqua Flan
+ Water elemental. Vulnerable to opposing element. Resistant to physical attacks.
+ -
+ Water-based.
+So soft, it's hard to damage
+physically.
+Weak against lightning, so blast
+it with Thunder.
+Water attacks heal it, so avoid
+using them.
+ -
+ Floating Death
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Maze Larva
+ Casts Watera on itself to replenish HP and grow even more powerful.
+ -
+ When HP is halved, it casts
+Watera on itself to recover HP
+and raise magic power.
+Use Silence Attack to silence it.
+Vulnerable to lightning, so
+Thundaga is the way to go.
+ -
+ Machea
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Cave Iguion
+ Very nimble. Resistant to magic.
+ -
+ Very nimble and hard to hit.
+It has high magic defense
+and takes half damage from
+fire and water.
+ -
+ Swamp Mafdet
+ Covered by a hard shell. Piercing weapons are the way to go.
+ -
+ Covered by a hard shell.
+Slow-moving, but has high
+physical and magic defense.
+Vulnerable to lightning and ice.
+ -
+ Bat Eye
+ Aerial. Resistant to magic.
+ -
+ Aerial and hard to hit.
+Vulnerable to fire, but has high
+magic defense.
+Its Gaze can inflict confusion.
+ -
+ Isaaru
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Mira
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Belgemine
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Mimic
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Mimic
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Mimic
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Wing
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Magic Urn
+ Hit the correct eye for prizes!
+ -
+ Hit the correct target to win
+items.
+The wrong target ends the battle
+with a bang.
+Damage is substantial, so be sure
+to heal.
+Eight fabulous prizes in all,
+while supplies last.
+ -
+ Mimic
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Mimic Parts
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Valefor
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Ifrit
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Mimic Parts
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Mimic Parts
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Mimic Parts
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Rifle
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Fire Rifle
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Anima
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Koma Inu
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Anima
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Anima
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Katana
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Kozuka
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Shuriken
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Head
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Arm
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Nishida
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Sword
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Nemesis
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Catastrophe
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ None
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Earth Eater
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Ultima Buster
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Greater Sphere
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Th'uban
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Shinryu
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Fist
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Ixion
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Shiva
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Sword
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Yojimbo
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Sandy
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Cindy
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Mindy
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Tanket
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Vidatu
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Fenrir
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Jumbo Flan
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Ornitholestes
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Pteryx
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Hornet
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ One-Eye
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Stratoavis
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Abyss Worm
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Juggernaut
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Fafnir
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Malboro Menace
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Kottos
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Nega Elemental
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Catoblepas
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Chimerageist
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Coeurlregina
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Ironclad
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Jormungand
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Abaddon
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Bomb King
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Cactuar King
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Vorban
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Sleep Sprout
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Don Tonberry
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Espada
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Bomb
+ Retaliates with Self-Destruct when attacked three times.
+ -
+ Scan not available.
+ -
+ Dual Horn
+ Afflict it with darkness so it can't hit you.
+ -
+ Scan not available.
+ -
+ Vulture
+ Once it succumbs to darkness, its attacks miss.
+ -
+ Scan not available.
+ -
+ Basilisk
+ Watch out for its Stone Gaze.
+ -
+ Scan not available.
+ -
+ Ochu
+ Vulnerable to fire.
+ -
+ Scan not available.
+ -
+ Larva
+ -
+ Scan not available.
+ -
+ Iron Giant
+ -
+ Scan not available.
+ -
+ Chimera
+ -
+ Scan not available.
+ -
+ Monster 84
+ -
+ Scan not available.
+ -
+ Qactuar
+ You'll get a treat if you can defeat it before it gets away.
+ -
+ Scan not available.
+ -
+ Zu
+ -
+ Scan not available.
+ -
+ Sand Worm
+ -
+ Scan not available.
+ -
+ Ghost
+ -
+ Scan not available.
+ -
+ Malboro
+ -
+ Scan not available.
+ -
+ Bashura
+ -
+ Scan not available.
+ -
+ Dark Valefor
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Dark Ifrit
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Dark Ixion
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Dark Shiva
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Dark Bahamut
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Dark Anima
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Dark Yojimbo
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Dark Cindy
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Dark Sandy
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Dark Mindy
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Penance
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Right Arm
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Left Arm
+ Immune to sensors.
+ -
+ Scan not available.
+ -
+ Unknown
+ ?
+ -
+ ?
+ -
+ Unknown
+ ?
+ -
+ ?
+ -
+ Unknown
+ ?
+ -
+ ?
+ -
+ Unknown
+ ?
+ -
+ ?
+ -
+ Unknown
+ ?
+ -
+ ?
+ -
+ Unknown
+ ?
+ -
+ ?
+ -
+ Unknown
+ ?
+ -
+ ?
+ -
+ Unknown
+ ?
+ -
+ ?
+ -
+ Unknown
+ ?
+ -
+ ?
+ -
+ Unknown
+ ?
+ -
+ ?
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -

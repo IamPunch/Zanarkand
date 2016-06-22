@@ -1,0 +1,1280 @@
+Attack
+ -
+ Attack an enemy with equipped weapon.
+ -
+ Item
+ -
+ Use an item.
+ -
+ Switch
+ -
+ Switch party members in and out of battle.
+ -
+ Escape
+ -
+ Run away from battle.
+ -
+ Weapon
+ -
+ Change equipped weapon.
+ -
+ Armor
+ -
+ Change equipped armor.
+ -
+ Delay Attack
+ -
+ Delays action of an enemy.
+ -
+ Delay Buster
+ -
+ Greatly delays action of an enemy.
+ -
+ Sleep Attack
+ -
+ Puts an enemy to sleep for 3 turns.
+ -
+ Silence Attack
+ -
+ Silences an enemy for 3 turns.
+ -
+ Dark Attack
+ -
+ Inflicts darkness on an enemy for 3 turns.
+ -
+ Zombie Attack
+ -
+ Inflicts an enemy with zombie status.
+ -
+ Sleep Buster
+ -
+ Almost always puts an enemy to sleep for 1 turn.
+ -
+ Silence Buster
+ -
+ Almost always silences an enemy for 1 turn.
+ -
+ Dark Buster
+ -
+ Almost always inflicts darkness on an enemy for 1 turn.
+ -
+ Triple Foul
+ -
+ Sleep, silence, and darkness on an enemy for 3 turns.
+ -
+ Power Break
+ -
+ Lowers an enemy's Strength.
+ -
+ Magic Break
+ -
+ Lowers an enemy's Magic.
+ -
+ Armor Break
+ -
+ Lowers an enemy's Defense and nullifies armored.
+ -
+ Mental Break
+ -
+ Lowers an enemy's Magic Defense.
+ -
+ Mug
+ -
+ Attack and steal at the same time.
+ -
+ Quick Hit
+ -
+ Strike quickly with reduced recovery time.
+ -
+ Steal
+ -
+ Steal items from enemy.
+ -
+ Use
+ -
+ Use special items.
+ -
+ Flee
+ -
+ Aid party's escape from battle.
+ -
+ Pray
+ -
+ Restores some HP to all allies.
+ -
+ Cheer
+ -
+ Raises party's Strength and Defense.
+ -
+ Aim
+ -
+ Raises party's Accuracy.
+ -
+ Focus
+ -
+ Raises party's Magic and Magic Defense.
+ -
+ Reflex
+ -
+ Raises party's Evasion.
+ -
+ Luck
+ -
+ Raises party's Luck.
+ -
+ Jinx
+ -
+ Lowers all enemies' Luck.
+ -
+ Lancet
+ -
+ Absorb HP & MP from an enemy.
+ -
+ Defend
+ -
+ Reduces damage from physical attacks.
+ -
+ Guard
+ -
+ Take damage for an ally.
+ -
+ Sentinel
+ -
+ Guard allies while in defensive stance.
+ -
+ Spare Change
+ -
+ Attack by throwing gil.
+ -
+ Threaten
+ -
+ Immobilize an enemy with fear.
+ -
+ Provoke
+ -
+ Draw an enemy's attacks towards you.
+ -
+ Entrust
+ -
+ Contribute your Overdrive charge to an ally's gauge.
+ -
+ Copycat
+ -
+ Mimic an ally's previous action.
+ -
+ Doublecast
+ -
+ Cast two black magic spells in a row.
+ -
+ Bribe
+ -
+ Pay enemies gil to go away.
+ -
+ Cure
+ -
+ Restores some HP.
+ -
+ Cura
+ -
+ Restores a lot of HP.
+ -
+ Curaga
+ -
+ Restores a massive amount of HP.
+ -
+ NulFrost
+ -
+ Nullifies one ice attack on party.
+ -
+ NulBlaze
+ -
+ Nullifies one fire attack on party.
+ -
+ NulShock
+ -
+ Nullifies one lightning attack on party.
+ -
+ NulTide
+ -
+ Nullifies one water attack on party.
+ -
+ Scan
+ -
+ View an enemy's data.
+ -
+ Esuna
+ -
+ Cures a character's status ailments.
+ -
+ Life
+ -
+ Revives a KO'd character.
+ -
+ Full-Life
+ -
+ Revives a KO'd character and fully restores HP.
+ -
+ Haste
+ -
+ Speeds up one character.
+ -
+ Hastega
+ -
+ Speeds up party.
+ -
+ Slow
+ -
+ Slows an enemy down.
+ -
+ Slowga
+ -
+ Slows all enemies down.
+ -
+ Shell
+ -
+ Raises a character's Magic Defense.
+ -
+ Protect
+ -
+ Raises a character's Defense.
+ -
+ Reflect
+ -
+ Target reflects spells towards enemy.
+ -
+ Dispel
+ -
+ Negates all spell effects on an enemy.
+ -
+ Regen
+ -
+ Target gradually recovers HP for a time.
+ -
+ Holy
+ -
+ Deals holy damage to an enemy.
+ -
+ Auto-Life
+ -
+ Target is automatically revived once when KO'd.
+ -
+ Blizzard
+ -
+ Deals ice damage to an enemy.
+ -
+ Fire
+ -
+ Deals fire damage to an enemy.
+ -
+ Thunder
+ -
+ Deals lightning damage to an enemy.
+ -
+ Water
+ -
+ Deals water damage to an enemy.
+ -
+ Fira
+ -
+ Deals fire damage to an enemy.
+ -
+ Blizzara
+ -
+ Deals ice damage to an enemy.
+ -
+ Thundara
+ -
+ Deals lightning damage to an enemy.
+ -
+ Watera
+ -
+ Deals water damage to an enemy.
+ -
+ Firaga
+ -
+ Deals fire damage to an enemy.
+ -
+ Blizzaga
+ -
+ Deals ice damage to an enemy.
+ -
+ Thundaga
+ -
+ Deals lightning damage to an enemy.
+ -
+ Waterga
+ -
+ Deals water damage to an enemy.
+ -
+ Bio
+ -
+ Poisons an enemy.
+ -
+ Demi
+ -
+ Reduces HP of all enemies by 1/4.
+ -
+ Death
+ -
+ Can instantly KO an enemy.
+ -
+ Drain
+ -
+ Absorb HP from an enemy.
+ -
+ Osmose
+ -
+ Absorb MP from an enemy.
+ -
+ Flare
+ -
+ Deals non-elemental damage to an enemy.
+ -
+ Ultima
+ -
+ Deals non-elemental damage to all enemies.
+ -
+ Shield
+ -
+ Take less damage, but Overdrive gauge won't charge.
+ -
+ Boost
+ -
+ Take more damage, but charge Overdrive gauge faster.
+ -
+ Dismiss
+ -
+ Send aeon away.
+ -
+ Dismiss
+ -
+ Send aeon away.
+ -
+ Pilfer Gil
+ -
+ Steal gil from enemy.
+ -
+ Full Break
+ -
+ Inflicts Power, Magic, Armor, and Mental Break.
+ -
+ Extract Power
+ -
+ Makes one enemy drop Power Spheres.
+ -
+ Extract Mana
+ -
+ Makes one enemy drop Mana Spheres.
+ -
+ Extract Speed
+ -
+ Makes one enemy drop Speed Spheres.
+ -
+ Extract Ability
+ -
+ Makes one enemy drop Ability Spheres.
+ -
+ Nab Gil
+ -
+ Attack and steal gil at the same time.
+ -
+ Quick Pockets
+ -
+ Swiftly use items.
+ -
+ Spiral Cut
+ -
+ Damages an enemy.
+ -
+ Slice & Dice
+ -
+ Damages all enemies.
+ -
+ Energy Rain
+ -
+ Damages all enemies.
+ -
+ Blitz Ace
+ -
+ Damages an enemy.
+ -
+ Shooting Star
+ -
+ Damages an enemy.
+ -
+ Dragon Fang
+ -
+ Damages all enemies.
+ -
+ Banishing Blade
+ -
+ Damages an enemy.
+ -
+ Tornado
+ -
+ Damages all enemies.
+ -
+ Jump
+ -
+ Damages an enemy.
+ -
+ Fire Breath
+ -
+ Deals fire damage to all enemies.
+ -
+ Seed Cannon
+ -
+ Damages an enemy.
+ -
+ Self-Destruct
+ -
+ Sacrifice life to heavily damage an enemy.
+ -
+ Thrust Kick
+ -
+ Deals damage and ejects enemy from battle.
+ -
+ Stone Breath
+ -
+ Petrifies all enemies.
+ -
+ Aqua Breath
+ -
+ Deals water damage to all enemies.
+ -
+ Doom
+ -
+ Counts down to an enemy's doom.
+ -
+ White Wind
+ -
+ Restores party's HP.
+ -
+ Bad Breath
+ -
+ Inflicts status ailments on all enemies.
+ -
+ Mighty Guard
+ -
+ Cast defensive spells on party.
+ -
+ Nova
+ -
+ Damages all enemies.
+ -
+ Element Reels
+ -
+ Spins elemental damage slots.
+ -
+ Attack Reels
+ -
+ Spins multiple attack slots.
+ -
+ Status Reels
+ -
+ Spins status ailment slots.
+ -
+ Aurochs Reels
+ -
+ Spins Aurochs custom slots.
+ -
+ Blizzard Fury
+ -
+ Cast multiple ice spells.
+ -
+ Fire Fury
+ -
+ Cast multiple fire spells.
+ -
+ Thunder Fury
+ -
+ Cast multiple lightning spells.
+ -
+ Water Fury
+ -
+ Cast multiple water spells.
+ -
+ Fira Fury
+ -
+ Cast multiple fire spells.
+ -
+ Blizzara Fury
+ -
+ Cast multiple ice spells.
+ -
+ Thundara Fury
+ -
+ Cast multiple lightning spells.
+ -
+ Watera Fury
+ -
+ Cast multiple water spells.
+ -
+ Firaga Fury
+ -
+ Cast multiple fire spells.
+ -
+ Blizzaga Fury
+ -
+ Cast multiple ice spells.
+ -
+ Thundaga Fury
+ -
+ Cast multiple lightning spells.
+ -
+ Waterga Fury
+ -
+ Cast multiple water spells.
+ -
+ Bio Fury
+ -
+ Cast multiple poison spells.
+ -
+ Demi Fury
+ -
+ Cast multiple spells that each reduce HP by 1/8.
+ -
+ Death Fury
+ -
+ Cast multiple Death spells.
+ -
+ Drain Fury
+ -
+ Cast multiple spells that absorb HP.
+ -
+ Osmose Fury
+ -
+ Cast multiple spells that absorb MP.
+ -
+ Flare Fury
+ -
+ Cast multiple non-elemental damage spells.
+ -
+ Ultima Fury
+ -
+ Cast multiple non-elemental damage spells.
+ -
+ Grenade
+ -
+ Damages all enemies.
+ -
+ Frag Grenade
+ -
+ Damage and Armor Break to all enemies.
+ -
+ Pineapple
+ -
+ Damages all enemies.
+ -
+ Potato Masher
+ -
+ Damages all enemies.
+ -
+ Cluster Bomb
+ -
+ Damages all enemies.
+ -
+ Tallboy
+ -
+ Damages all enemies.
+ -
+ Blaster Mine
+ -
+ Damage and status ailments to all enemies.
+ -
+ Hazardous Shell
+ -
+ Damage and status ailments to all enemies.
+ -
+ Calamity Bomb
+ -
+ Damage and status ailments to all enemies.
+ -
+ Chaos Grenade
+ -
+ Damage and status ailments to all enemies.
+ -
+ Heat Blaster
+ -
+ Deals fire damage to all enemies.
+ -
+ Firestorm
+ -
+ Deals fire damage to all enemies.
+ -
+ Burning Soul
+ -
+ Deals fire damage to all enemies.
+ -
+ Brimstone
+ -
+ Fire damage and status ailments to all enemies.
+ -
+ Abaddon Flame
+ -
+ Fire damage and status ailments to all enemies.
+ -
+ Snow Flurry
+ -
+ Deals ice damage to all enemies.
+ -
+ Icefall
+ -
+ Deals ice damage to all enemies.
+ -
+ Winter Storm
+ -
+ Deals ice damage to all enemies.
+ -
+ Black Ice
+ -
+ Ice damage and status ailments to all enemies.
+ -
+ Krysta
+ -
+ Ice damage and status ailments to all enemies.
+ -
+ Thunderbolt
+ -
+ Deals lightning damage to all enemies.
+ -
+ Rolling Thunder
+ -
+ Deals lightning damage to all enemies.
+ -
+ Lightning Bolt
+ -
+ Deals lightning damage to all enemies.
+ -
+ Electroshock
+ -
+ Lightning damage and status ailments to all enemies.
+ -
+ Thunderblast
+ -
+ Lightning damage and status ailments to all enemies.
+ -
+ Waterfall
+ -
+ Deals water damage to all enemies.
+ -
+ Flash Flood
+ -
+ Deals water damage to all enemies.
+ -
+ Tidal Wave
+ -
+ Deals water damage to all enemies.
+ -
+ Aqua Toxin
+ -
+ Water damage and status ailments to all enemies.
+ -
+ Dark Rain
+ -
+ Water damage and status ailments to all enemies.
+ -
+ Nega Burst
+ -
+ Reduces HP of all enemies by 3/4.
+ -
+ Black Hole
+ -
+ Reduces HP of all enemies by 15/16.
+ -
+ Sunburst
+ -
+ Deals damage to all enemies.
+ -
+ Ultra Potion
+ -
+ Restores HP of party.
+ -
+ Panacea
+ -
+ Cures party of all status ailments.
+ -
+ Ultra Cure
+ -
+ Restores HP and cures all status ailments of party.
+ -
+ Mega Phoenix
+ -
+ Revives party from KO status.
+ -
+ Final Phoenix
+ -
+ Revives party from KO status and fully restores HP.
+ -
+ Elixir
+ -
+ Fully restores HP & MP of one character.
+ -
+ Megalixir
+ -
+ Fully restores HP & MP of party.
+ -
+ Super Elixir
+ -
+ Full HP & MP to party and cures all status ailments.
+ -
+ Final Elixir
+ -
+ Restores party to full health.
+ -
+ NulAll
+ -
+ Defends a character from all elements.
+ -
+ Mega NulAll
+ -
+ Defends party from all elements.
+ -
+ Hyper NulAll
+ -
+ Defends party from all elements. Adds Cheer & Focus.
+ -
+ Ultra NulAll
+ -
+ Defends party from all elements and raises attributes.
+ -
+ Mighty Wall
+ -
+ Casts Shell and Protect on party.
+ -
+ Mighty G
+ -
+ Casts Shell, Protect, and Haste on party.
+ -
+ Super Mighty G
+ -
+ Casts Mighty G and Regen on party.
+ -
+ Hyper Mighty G
+ -
+ Casts Mighty G, Regen, and Auto-Life on party.
+ -
+ Vitality
+ -
+ Doubles max HP of one character.
+ -
+ Mega Vitality
+ -
+ Doubles max HP of party.
+ -
+ Hyper Vitality
+ -
+ Doubles max HP and bestows Cheer on party.
+ -
+ Mana
+ -
+ Doubles max MP of one character.
+ -
+ Mega Mana
+ -
+ Doubles max MP of party.
+ -
+ Hyper Mana
+ -
+ Doubles max MP and bestows Focus on party.
+ -
+ Freedom
+ -
+ Reduces MP cost of one character's abilities to 0.
+ -
+ Freedom X
+ -
+ Reduces MP cost of party's abilities to 0.
+ -
+ Quartet of 9
+ -
+ Augments one character's attacks to 9999 damage.
+ -
+ Trio of 9999
+ -
+ Augments party's attacks to 9999 damage.
+ -
+ Hero Drink
+ -
+ Allows character's attacks to deal critical damage.
+ -
+ Miracle Drink
+ -
+ Allows party's attacks to deal critical damage.
+ -
+ Hot Spurs
+ -
+ Accelerates party's Overdrive gauges.
+ -
+ Eccentrick
+ -
+ Hyper-accelerates party's Overdrive gauges.
+ -
+ Attack
+ -
+ Attack an enemy.
+ -
+ Sonic Wings
+ -
+ Damages an enemy and delays its turn.
+ -
+ Energy Blast
+ -
+ Deals non-elemental damage to all enemies.
+ -
+ Energy Ray
+ -
+ Deals non-elemental damage to all enemies.
+ -
+ Attack
+ -
+ Attack an enemy.
+ -
+ Meteor Strike
+ -
+ Damages an enemy.
+ -
+ Hellfire
+ -
+ Deals fire damage to all enemies.
+ -
+ Attack
+ -
+ Attack an enemy.
+ -
+ Aerospark
+ -
+ Damages an enemy and negates all spell effects.
+ -
+ Thor's Hammer
+ -
+ Deals lightning damage to all enemies.
+ -
+ Attack
+ -
+ Attack an enemy.
+ -
+ Heavenly Strike
+ -
+ Damages an enemy and delays its movement.
+ -
+ Diamond Dust
+ -
+ Deals ice damage to all enemies.
+ -
+ Attack
+ -
+ Attack an enemy.
+ -
+ Impulse
+ -
+ Damages all enemies.
+ -
+ Mega Flare
+ -
+ Deals non-elemental damage to all enemies.
+ -
+ Attack
+ -
+ Attack an enemy.
+ -
+ Pain
+ -
+ Deals damage and Death to an enemy.
+ -
+ Oblivion
+ -
+ Deals non-elemental damage to all enemies.
+ -
+ Daigoro
+ -
+ -
+ -
+ Kozuka
+ -
+ -
+ -
+ Wakizashi
+ -
+ -
+ -
+ Wakizashi
+ -
+ -
+ -
+ Zanmato
+ -
+ -
+ -
+ Requiem
+ -
+ Damages all enemies.
+ -
+ Attack
+ -
+ -
+ -
+ Camisade
+ -
+ -
+ -
+ Attack
+ -
+ -
+ -
+ Razzia
+ -
+ -
+ -
+ Attack
+ -
+ -
+ -
+ Passado
+ -
+ -
+ -
+ Delta Attack
+ -
+ The Magus Sisters' combined attack.
+ -
+ -
+ -
+ Damages an enemy.
+ -
+ -
+ -
+ Damages all enemies.
+ -
+ -
+ -
+ Damages all enemies.
+ -
+ -
+ -
+ Damages an enemy.
+ -
+ Fire Shot
+ -
+ Wakka personal skill 1
+ -
+ Fire Shot
+ -
+ Wakka personal skill 2
+ -
+ Ice Shot
+ -
+ Wakka personal skill 3
+ -
+ Ice Shot
+ -
+ Wakka personal skill 4
+ -
+ Water Shot
+ -
+ Wakka personal skill 5
+ -
+ Water Shot
+ -
+ Wakka personal skill 6
+ -
+ Thunder Shot
+ -
+ Wakka personal skill 7
+ -
+ Thunder Shot
+ -
+ Wakka personal skill 8
+ -
+ Havoc Shot
+ -
+ Wakka personal skill 9
+ -
+ Havoc Shot
+ -
+ Wakka personal skill 10
+ -
+ Time Shot
+ -
+ Wakka personal skill 11
+ -
+ Time Shot
+ -
+ Wakka personal skill 12
+ -
+ Break Shot
+ -
+ Wakka personal skill 13
+ -
+ Break Shot
+ -
+ Wakka personal skill 14
+ -
+ Aurochs Shot
+ -
+ Wakka personal skill 15
+ -
+ Power Shot
+ -
+ Wakka personal skill 16
+ -
+ Magus Sisters
+ -
+ Summon the Magus Sisters.
+ -
+ Summon Aeon
+ -
+ Summon aeon.
+ -
+ Pincer Attack
+ -
+ Attack enemy from both sides.
+ -
+ Use crane
+ -
+ Activate crane.
+ -
+ Move
+ -
+ Move to an empty spot.
+ -
+ Stand by
+ -
+ Wait while recovering HP.
+ -
+ Talk
+ -
+ Talk to enemy.
+ -
+ Move in
+ -
+ Ask Cid to close in on the enemy.
+ -
+ Pull back
+ -
+ Ask Cid to move away from the enemy.
+ -
+ Cancel
+ -
+ Cancel movement.
+ -
+ Struggle
+ -
+ Attack enemy from inside.
+ -
+ -
+ -
+ Damages an enemy.
+ -
+ -
+ -
+ Damages all enemies.
+ -
+ -
+ -
+ Damages an enemy.
+ -
+ -
+ -
+ Damages all enemies.
+ -
+ -
+ -
+ Damages an enemy.
+ -
+ -
+ -
+ Damages all enemies.
+ -
+ -
+ -
+ Damages an enemy.
+ -
+ -
+ -
+ Damages all enemies.
+ -
+ -
+ -
+ Damages an enemy.
+ -
+ Skill
+ -
+ Use Skills.
+ -
+ Special
+ -
+ Use Special Abilities.
+ -
+ Blk Magic
+ -
+ Cast black magic spells.
+ -
+ Wht Magic
+ -
+ Cast white magic spells.
+ -
+ Summon
+ -
+ Summon an aeon.
+ -
+ Grand Summon
+ -
+ Summon an aeon in Overdrive!
+ -
+ Swordplay
+ -
+ Press button at the right time for extra damage!
+ -
+ Ronso Rage
+ -
+ Use fiends' skills against them!
+ -
+ Bushido
+ -
+ Enter commands for a lethal sword attack!
+ -
+ Slots
+ -
+ Get the right combination for the ultimate shot!
+ -
+ Fury
+ -
+ Unleash a barrage of spells on the enemy!
+ -
+ Mix
+ -
+ Combine items for various effects!
+ -
+ Auto-Life
+ -
+ -
+ -
+ Death
+ -
+ -
+ -
+ Gil
+ -
+ -
+ -
+ Gil
+ -
+ -
+ -
+ Pay
+ -
+ Pay $ for his services.
+ -
+ Do as you will.
+ -
+ Let the Sisters do as they please.
+ -
+ One more time.
+ -
+ Ask the Sisters to repeat their previous action.
+ -
+ Fight!
+ -
+ Ask the Sisters to physically attack.
+ -
+ Go, go!
+ -
+ Ask the Sisters to use offensive magic and skills.
+ -
+ Help each other!
+ -
+ Ask the Sisters to use healing magic on each other.
+ -
+ Combine powers!
+ -
+ Ask the Sisters for their combined attack.
+ -
+ Defense!
+ -
+ Ask the Sisters to use defensive and support magic.
+ -
+ Are you all right?
+ -
+ Ask the Sisters to absorb HP and MP from the enemy.
+ -
+ Taking a break...
+ -
+ -
+ -
+ NulAll
+ -
+ -
+ -
+ Attack Reels
+ -
+ Wakka personal skill 16
+ -
+ Open lock
+ -
+ Open gate lock.
+ -
+ Extra 24
+ -
+ -
+ -
+ Extra 25
+ -
+ -
+ -
+ Extra 26
+ -
+ -
+ -
+ Extra 27
+ -
+ -
+ -
+ Extra 28
+ -
+ -
+ -
+ Extra 29
+ -
+ -
+ -
+ Extra 30
+ -
+ -
+ -
+ Extra 31
+ -
+ -
+ -
+ Extra 32
+ -
+ -
+ -
+ Extra 33
+ -
+ -
+ -
+ Extra 34
+ -
+ -
+ -
+ Extra 35
+ -
+ -
+ -
+ Extra 36
+ -
+ -
+ -
+ Extra 37
+ -
+ -
+ -
+ Extra 38
+ -
+ -
+ -
+ Extra 39
+ -
+ -
+ -

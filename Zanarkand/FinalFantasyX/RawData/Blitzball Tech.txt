@@ -1,0 +1,160 @@
+Jecht Shot
+ Jecht Shot 2
+ Sphere Shot
+ Invisible Shot
+ Venom Shot
+ Venom Shot 2
+ Venom Shot 3
+ Nap Shot
+ Nap Shot 2
+ Nap Shot 3
+ Wither Shot
+ Wither Shot 2
+ Wither Shot 3
+ Venom Pass
+ Venom Pass 2
+ Venom Pass 3
+ Nap Pass
+ Nap Pass 2
+ Nap Pass 3
+ Wither Pass
+ Wither Pass 2
+ Wither Pass 3
+ Volley Shot
+ Volley Shot 2
+ Volley Shot 3
+ Venom Tackle
+ Venom Tackle 2
+ Venom Tackle 3
+ Nap Tackle
+ Nap Tackle 2
+ Nap Tackle 3
+ Wither Tackle
+ Wither Tackle 2
+ Wither Tackle 3
+ Drain Tackle
+ Drain Tackle 2
+ Drain Tackle 3
+ Tackle Slip
+ Tackle Slip 2
+ Anti-Venom
+ Anti-Venom 2
+ Anti-Nap
+ Anti-Nap 2
+ Anti-Wither
+ Anti-Wither 2
+ Anti-Drain
+ Anti-Drain 2
+ Spin Ball
+ Grip Gloves
+ Elite Defense
+ Brawler
+ Pile Venom
+ Pile Wither
+ Regen
+ Good Morning!
+ Hi-Risk
+ Golden Arm
+ Gamble
+ Super Goalie
+ Aurochs Spirit
+ Normal
+ Counter
+ Center Attack
+ Right Side
+ Left Side
+ Flat Line
+ Double Sides
+ All-Out Defense
+ Mark Mode
+ Luca Goers
+ Kilika Beasts
+ Al Bhed Psyches
+ Ronso Fangs
+ Guado Glories
+ Besaid Aurochs
+ Free
+ ---
+ 78
+ 79
+ 80
+ 81
+ 82
+ 83
+ 84
+ 85
+ Tech Find
+ Attack Reels
+ Status Reels
+ Aurochs Reels
+ Normal
+ Counter
+ Center Attack
+ Right Side
+ Left Side
+ Flat Line
+ Double Sides
+ All-Out Defense
+ Mark Mode
+  
+ - - - - - - -
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy
+ Dummy

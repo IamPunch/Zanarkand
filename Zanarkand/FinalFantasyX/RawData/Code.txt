@@ -1,0 +1,2799 @@
+Final Fantasy X (ENG)
+1606 Codes
+
+
+(Mastercode)
+0E3C7DF2 1853E59E
+EE842FEE BCD67D0A
+
+Full hp
+CEAD1436 BCA9C292
+Tidus
+Full mp
+CEAD1432 BCA99E6A
+Tidus
+Max hp
+CEAD143E BCA9C292
+Tidus
+Max mp
+CEAD143A BCA99E6A
+Tidus
+Max strengh
+FEAD14C3 BCA99B82
+Tidus
+Max defence
+FEAD14C2 BCA99B82
+Tidus
+Max magic
+FEAD14CD BCA99B82
+Tidus
+Max magic def
+FEAD14CC BCA99B82
+Tidus
+Max agility
+FEAD14CF BCA99B82
+Tidus
+Max luck
+FEAD14CE BCA99B82
+Tidus
+Max evasion
+FEAD14C9 BCA99B82
+Tidus
+Max accuracy
+FEAD14C8 BCA99B82
+Tidus
+Max stats
+FEAD14C3 BCA99B82
+DEAD14C2 BBA89A82
+CEAD14CE BCA99A82
+FEAD14C8 BCA99B82
+Tidus
+Max sphere level
+FEAD14D7 BCA99B82
+Tidus
+All skills & specials, white magic & black magic
+CEAD14D0 BCA99A82
+DEAD14D2 BBA89A82
+DEAD14DE BBA89A82
+CEAD14DA BCA99A82
+Tidus
+Full hp
+CEAD0B42 BCA9C292
+Yuna
+Full mp
+CEAD0B4E BCA99E6A
+Yuna
+Max hp
+CEAD0B4A BCA9C292
+Yuna
+Max mp
+CEAD0B56 BCA99E6A
+Yuna
+Max strengh
+FEAD0B5F BCA99B82
+Yuna
+Max defence
+FEAD0B5E BCA99B82
+Yuna
+Max magic
+FEAD0B59 BCA99B82
+Yuna
+Max magic def
+FEAD0B58 BCA99B82
+Yuna
+Max agility
+FEAD0B5B BCA99B82
+Yuna
+Max luck
+FEAD0B5A BCA99B82
+Yuna
+Max evasion
+FEAD0B65 BCA99B82
+Yuna
+Max accuracy
+FEAD0B64 BCA99B82
+Yuna
+Max stats
+FEAD0B5F BCA99B82
+DEAD0B5E BBA89A82
+CEAD0B58 BCA99A82
+FEAD0B5B BCA99B82
+Yuna
+Max sphere level
+FEAD0B63 BCA99B82
+Yuna
+All skills & specials, white magic & black magic
+CEAD0B6C BCA99A82
+DEAD0B6E BBA89A82
+DEAD0B6A BBA89A82
+CEAD0B76 BCA99A82
+Yuna
+Max hp
+CEAD0BE6 BCA9C292
+Auron
+Full hp
+CEAD0BDE BCA9C292
+Auron
+Max mp
+CEAD0BE2 BCA99E6A
+Auron
+Full mp
+CEAD0BDA BCA99E6A
+Auron
+Max strengh
+FEAD0BEB BCA99B82
+Auron
+Max defence
+FEAD0BEA BCA99B82
+Auron
+Max magic
+FEAD0BF5 BCA99B82
+Auron
+Max magic def
+FEAD0BF4 BCA99B82
+Auron
+Max agility
+FEAD0BF7 BCA99B82
+Auron
+Max luck
+FEAD0BF6 BCA99B82
+Auron
+Max evasion
+FEAD0BF1 BCA99B82
+Auron
+Max accuracy
+FEAD0BF0 BCA99B82
+Auron
+Max stats
+FEAD0BEB BCA99B82
+DEAD0BEA BBA89A82
+CEAD0BF6 BCA99A82
+FEAD0BF0 BCA99B82
+Auron
+Max sphere level
+FEAD0BFF BCA99B82
+Auron
+All skills & specials, white magic & black magic
+CEAD0AF8 BCA99A82
+DEAD0AFA BBA89A82
+DEAD0A86 BBA89A82
+CEAD0A80 BCA99A82
+Auron
+Max hp
+CEAD0A72 BCA9C292
+Kimarhi
+Full hp
+CEAD0A6A BCA9C292
+Kimarhi
+Max mp
+CEAD0A7E BCA99E6A
+Kimarhi
+Full mp
+CEAD0A76 BCA99E6A
+Kimarhi
+Max strength
+FEAD0A07 BCA99B82
+Kimarhi
+Max defence
+FEAD0A06 BCA99B82
+Kimarhi
+Max magic
+FEAD0A01 BCA99B82
+Kimarhi
+Max magic def
+FEAD0A00 BCA99B82
+Kimarhi
+Max agility
+FEAD0A03 BCA99B82
+Kimarhi
+Max luck
+FEAD0A02 BCA99B82
+Kimarhi
+Max evasion
+FEAD0A0D BCA99B82
+Kimarhi
+Max accuracy
+FEAD0A0C BCA99B82
+Kimarhi
+Max stats
+FEAD0A07 BCA99B82
+DEAD0A06 BBA89A82
+CEAD0A02 BCA99A82
+FEAD0A0C BCA99B82
+Kimarhi
+Max sphere level
+FEAD0A0B BCA99B82
+Kimarhi
+All skills & specials, white magic & black magic
+CEAD0A14 BCA99A82
+DEAD0A16 BBA89A82
+DEAD0A12 BBA89A82
+CEAD0A1E BCA99A82
+Kimarhi
+Max hp
+CEAD098E BCA9C292
+Wakka
+Full hp
+CEAD0986 BCA9C292
+Wakka
+Max mp
+CEAD098A BCA99E6A
+Wakka
+Full mp
+CEAD0982 BCA99E6A
+Wakka
+Max strength
+FEAD0993 BCA99B82
+Wakka
+Max defence
+FEAD0992 BCA99B82
+Wakka
+Max magic
+FEAD099D BCA99B82
+Wakka
+Max magic def
+FEAD099C BCA99B82
+Wakka
+Max agility
+FEAD099F BCA99B82
+Wakka
+Max luck
+FEAD099E BCA99B82
+Wakka
+Max evasion
+FEAD0999 BCA99B82
+Wakka
+Max accuracy
+FEAD0998 BCA99B82
+Wakka
+Max stats
+FEAD0993 BCA99B82
+DEAD0992 BBA89A82
+CEAD099E BCA99A82
+FEAD0998 BCA99B82
+Wakka
+Max sphere level
+FEAD09A7 BCA99B82
+Wakka
+All skills & specials, white magic & black magic
+CEAD09A0 BCA99A82
+DEAD09A2 BBA89A82
+DEAD09AE BBA89A82
+CEAD09AA BCA99A82
+Wakka
+Max hp
+CEAD091A BCA9C292
+Lulu
+Full hp
+CEAD0912 BCA9C292
+Lulu
+Max mp
+CEAD0926 BCA99E6A
+Lulu
+Full mp
+CEAD091E BCA99E6A
+Lulu
+Max strength
+FEAD092F BCA99B82
+Lulu
+Max defence
+FEAD092E BCA99B82
+Lulu
+Max magic
+FEAD0929 BCA99B82
+Lulu
+Max magic def
+FEAD0928 BCA99B82
+Lulu
+Max agility
+FEAD092B BCA99B82
+Lulu
+Max luck
+FEAD092A BCA99B82
+Lulu
+Max evasion
+FEAD0935 BCA99B82
+Lulu
+Max accuracy
+FEAD0934 BCA99B82
+Lulu
+Max stats
+FEAD092F BCA99B82
+DEAD092E BBA89A82
+CEAD092A BCA99A82
+FEAD0934 BCA99B82
+Lulu
+Max sphere level
+FEAD0933 BCA99B82
+Lulu
+All skills & specials, white magic & black magic
+CEAD093C BCA99A82
+DEAD093E BBA89A82
+DEAD093A BBA89A82
+CEAD09C6 BCA99A82
+Lulu
+Max hp
+CEAD08B6 BCA9C292
+Rikku
+Full hp
+CEAD08AE BCA9C292
+Rikku
+Max mp
+CEAD08B2 BCA99E6A
+Rikku
+Full mp
+CEAD08AA BCA99E6A
+Rikku
+Max strength
+FEAD08BB BCA99B82
+Rikku
+Max defence
+FEAD08BA BCA99B82
+Rikku
+Max magic
+FEAD0845 BCA99B82
+Rikku
+Max magic def
+FEAD0844 BCA99B82
+Rikku
+Max agility
+FEAD0847 BCA99B82
+Rikku
+Max luck
+FEAD0846 BCA99B82
+Rikku
+Max accuracy
+FEAD0840 BCA99B82
+Rikku
+Max evasion
+FEAD0841 BCA99B82
+Rikku
+Max stats
+FEAD08BB BCA99B82
+DEAD08BA BBA89A82
+CEAD0846 BCA99A82
+FEAD0840 BCA99B82
+Rikku
+Max sphere level
+FEAD084F BCA99B82
+Rikku
+All skills & specials, white magic & black magic
+CEAD0848 BCA99A82
+DEAD084A BBA89A82
+DEAD0856 BBA89A82
+CEAD0852 BCA99A82
+Rikku
+Max hp
+CEAD0F5E BCA9C292
+Valefor
+Full hp
+CEAD0F56 BCA9C292
+Valefor
+Max mp
+CEAD0F5A BCA99E6A
+Valefor
+Full mp
+CEAD0F52 BCA99E6A
+Valefor
+Max strength
+FEAD0F63 BCA99B82
+Valefor
+Max defence
+FEAD0F62 BCA99B82
+Valefor
+Max magic
+FEAD0F6D BCA99B82
+Valefor
+Max magic def
+FEAD0F6C BCA99B82
+Valefor
+Max agility
+FEAD0F6F BCA99B82
+Valefor
+Max luck
+FEAD0F6E BCA99B82
+Valefor
+Max evasion
+FEAD0F69 BCA99B82
+Valefor
+Max accuracy
+FEAD0F68 BCA99B82
+Valefor
+Max stats
+FEAD0F63 BCA99B82
+DEAD0F62 BBA89A82
+CEAD0F6E BCA99A82
+FEAD0F68 BCA99B82
+Valefor
+Bat. go to 0
+CEAD0F76 BCA99B83
+Valefor
+
+
+Max hp
+CEAD0FEA BCA9C292
+Ifrit
+Full hp
+CEAD0FE2 BCA9C292
+Ifrit
+Max mp
+CEAD0FF6 BCA99E6A
+Ifrit
+Full mp
+CEAD0FEE BCA99E6A
+Ifrit
+Max strength
+FEAD0FFF BCA99B82
+Ifrit
+Max defence
+FEAD0EFE BCA99B82
+Ifrit
+Max magic
+FEAD0EF9 BCA99B82
+Ifrit
+Max magic def
+FEAD0EF8 BCA99B82
+Ifrit
+Max agility
+FEAD0EFB BCA99B82
+Ifrit
+Max luck
+FEAD0EFA BCA99B82
+Ifrit
+Max evasion
+FEAD0E85 BCA99B82
+Ifrit
+Max accuracy
+FEAD0E84 BCA99B82
+Ifrit
+Max stats
+FEAD0FFF BCA99B82
+DEAD0EFE BBA89A82
+CEAD0EFA BCA99A82
+FEAD0E84 BCA99B82
+Ifrit
+Bat. go to 0
+CEAD0E82 BCA99B83
+Ifrit
+Max hp
+CEAD0E06 BCA9C292
+Ixion
+Full hp
+CEAD0E7E BCA9C292
+Ixion
+Max mp
+CEAD0E02 BCA99E6A
+Ixion
+Full mp
+CEAD0E7A BCA99E6A
+Ixion
+Max strength
+FEAD0E0B BCA99B82
+Ixion
+Max defence
+FEAD0E0A BCA99B82
+Ixion
+Max magic
+FEAD0E15 BCA99B82
+Ixion
+Max magic def
+FEAD0E14 BCA99B82
+Ixion
+Max agility
+FEAD0E17 BCA99B82
+Ixion
+Max luck
+FEAD0E16 BCA99B82
+Ixion
+Max evasion
+FEAD0E11 BCA99B82
+Ixion
+Max accuracy
+FEAD0E10 BCA99B82
+Ixion
+Max stats
+FEAD0E0B BCA99B82
+DEAD0E0A BBA89A82
+CEAD0E16 BCA99A82
+FEAD0E10 BCA99B82
+Ixion
+Bat. go to 0
+CEAD0E1E BCA99B83
+Ixion
+Max hp
+CEAD0D92 BCA9C292
+Shiva
+Full hp
+CEAD0D8A BCA9C292
+
+Max mp
+CEAD0D9E BCA99E6A
+Shiva
+Full mp
+CEAD0D96 BCA99E6A
+Shiva
+Max strength
+FEAD0DA7 BCA99B82
+Shiva
+Max defence
+FEAD0DA6 BCA99B82
+Shiva
+Max magic
+FEAD0DA1 BCA99B82
+Shiva
+Max magic def
+FEAD0DA0 BCA99B82
+Shiva
+Max agility
+FEAD0DA3 BCA99B82
+Shiva
+Max luck
+FEAD0DA2 BCA99B82
+Shiva
+Max evasion
+FEAD0DAD BCA99B82
+Shiva
+Max accuracy
+FEAD0DAC BCA99B82
+Shiva
+Max stats
+FEAD0DA7 BCA99B82
+DEAD0DA6 BBA89A82
+CEAD0DA2 BCA99A82
+FEAD0DAC BCA99B82
+Shiva
+Bat. go to 0
+CEAD0DAA BCA99B83
+Shiva
+Max hp
+CEAD0D2E BCA9C292
+Bahamut
+Full hp
+CEAD0D26 BCA9C292
+Bahamut
+Max mp
+CEAD0D2A BCA99E6A
+Bahamut
+Full mp
+CEAD0D22 BCA99E6A
+Bahamut
+Max strength
+FEAD0D33 BCA99B82
+Bahamut
+Max defence
+FEAD0D32 BCA99B82
+Bahamut
+Max magic
+FEAD0D3D BCA99B82
+Bahamut
+Max magic def
+FEAD0D3C BCA99B82
+Bahamut
+Max agility
+FEAD0D3F BCA99B82
+Bahamut
+Max luck
+FEAD0D3E BCA99B82
+Bahamut
+Max evasion
+FEAD0D39 BCA99B82
+Bahamut
+Max accuracy
+FEAD0D38 BCA99B82
+Bahamut
+Max stats
+FEAD0D33 BCA99B82
+DEAD0D32 BBA89A82
+CEAD0D3E BCA99A82
+FEAD0D38 BCA99B82
+Bahamut
+Bat. go to 0
+CEAD0DC6 BCA99B83
+Bahamut
+Max hp
+CEAD0CD6 BCA9C292
+Yojimbo
+Full hp
+CEAD0CCE BCA9C292
+Yojimbo
+Max mp
+CEAD0CD2 BCA99E6A
+Yojimbo
+Full mp
+CEAD0CCA BCA99E6A
+Yojimbo
+Max strength
+FEAD0CDB BCA99B82
+Yojimbo
+Max defence
+FEAD0CDA BCA99B82
+Yojimbo
+Max magic
+FEAD0CE5 BCA99B82
+Yojimbo
+Max magic def
+FEAD0CE4 BCA99B82
+Yojimbo
+Max agility
+FEAD0CE7 BCA99B82
+Yojimbo
+Max luck
+FEAD0CE6 BCA99B82
+Yojimbo
+Max evasion
+FEAD0CE1 BCA99B82
+Yojimbo
+Max accuracy
+FEAD0CE0 BCA99B82
+Yojimbo
+Max stats
+FEAD0CDB BCA99B82
+DEAD0CDA BBA89A82
+CEAD0CE4 BCA99A82
+FEAD0CE7 BCA99B82
+Yojimbo
+Max hp
+CEAD0CBA BCA9C292
+Anima
+Full hp
+CEAD0CB2 BCA9C292
+Anima
+Max mp
+CEAD0C46 BCA99E6A
+Anima
+Full mp
+CEAD0CBE BCA99E6A
+Anima
+Max strength
+FEAD0C4F BCA99B82
+Anima
+Max defence
+FEAD0C4E BCA99B82
+Anima
+Max magic
+FEAD0C49 BCA99B82
+Anima
+Max agility
+FEAD0C4B BCA99B82
+
+Max magic def
+FEAD0C48 BCA99B82
+Anima
+Max luck
+FEAD0C4A BCA99B82
+Anima
+Max evasion
+FEAD0C55 BCA99B82
+Anima
+Max accuracy
+FEAD0C54 BCA99B82
+Anima
+Max stats
+FEAD0C4F BCA99B82
+DEAD0C4E BBA89A82
+CEAD0C4A BCA99A82
+FEAD0C54 BCA99B82
+Anima
+Max hp
+CEAD0362 BCA9C292
+Cindy
+Full hp
+CEAD035A BCA9C292
+Cindy
+Max mp
+CEAD036E BCA99E6A
+Cindy
+Full mp
+CEAD0366 BCA99E6A
+Cindy
+Max strength
+FEAD0377 BCA99B82
+Cindy
+Max defence
+FEAD0376 BCA99B82
+Cindy
+Max magic
+FEAD0371 BCA99B82
+Cindy
+Max magic def
+FEAD0370 BCA99B82
+Cindy
+Max agility
+FEAD0373 BCA99B82
+Cindy
+Max luck
+FEAD0372 BCA99B82
+Cindy
+Max evasion
+FEAD037D BCA99B82
+Cindy
+Max accuracy
+FEAD037C BCA99B82
+Cindy
+Max stats
+FEAD0377 BCA99B82
+DEAD0376 BBA89A82
+CEAD0372 BCA99A82
+FEAD0372 BCA99B82
+Cindy
+Max hp
+CEAD02FE BCA9C292
+Sandy
+Full hp
+CEAD03F6 BCA9C292
+Sandy
+Max mp
+CEAD02FA BCA99E6A
+Sandy
+Full mp
+CEAD03F2 BCA99E6A
+Sandy
+Max strength
+FEAD0283 BCA99B82
+Sandy
+Max defence
+FEAD0282 BCA99B82
+Sandy
+Max magic
+FEAD028D BCA99B82
+Sandy
+Max magic def
+FEAD028C BCA99B82
+Sandy
+Max agility
+FEAD028F BCA99B82
+Sandy
+Max luck
+FEAD028E BCA99B82
+Sandy
+Max evasion
+FEAD0289 BCA99B82
+Sandy
+Max accuracy
+FEAD0288 BCA99B82
+Sandy
+Max stats
+FEAD0283 BCA99B82
+DEAD0282 BBA89A82
+CEAD028E BCA99A82
+FEAD0288 BCA99B82
+Sandy
+Max hp
+CEAD020A BCA9C292
+Mindy
+Full hp
+CEAD0202 BCA9C292
+Mindy
+Max mp
+CEAD0216 BCA99E6A
+Mindy
+Full mp
+CEAD020E BCA99E6A
+Mindy
+Max strength
+FEAD021F BCA99B82
+Mindy
+Max defence
+FEAD021E BCA99B82
+Mindy
+Max magic
+FEAD0219 BCA99B82
+Mindy
+Max magic def
+FEAD0218 BCA99B82
+Mindy
+Max agility
+FEAD021B BCA99B82
+Mindy
+Max luck
+FEAD021A BCA99B82
+Mindy
+Max evasion
+FEAD0225 BCA99B82
+Mindy
+Max accuracy
+FEAD0224 BCA99B82
+Mindy
+Max stats
+FEAD021F BCA99B82
+DEAD021E BBA89A82
+CEAD021A BCA99A82
+FEAD0224 BCA99B82
+Mindy
+
+
+
+Yuna in party
+FEAD0B52 BCA99B94
+Activate after Kilika Woods
+Auron in party
+FEAD0BEE BCA99B94
+Activate after Kilika Woods
+Kimahri in party
+FEAD0A7A BCA99B94
+Activate after Kilika Woods
+Wakka in party
+FEAD0996 BCA99B94
+Activate after Kilika Woods
+Lulu in party
+FEAD0922 BCA99B94
+Activate after Kilika Woods
+Rikku in party
+FEAD08BE BCA99B94
+Activate after Kilika Woods
+Seymour in party
+FEAD08CA BCA99B94
+Activate after Kilika Woods
+All Aeons in party
+FEAD0FF2 BCA99B94
+FEAD0E0E BCA99B94
+FEAD0D9A BCA99B94
+FEAD0D36 BCA99B94
+FEAD0C42 BCA99B94
+FEAD0CDE BCA99B94
+FEAD036A BCA99B94
+FEAD0286 BCA99B94
+FEAD0212 BCA99B94
+Activate after Kilika Woods
+Yuna locked
+FEAD0B52 BCA99B83
+Stops character appearing in battle
+Auron locked
+FEAD0BEE BCA99B83
+Stops character appearing in battle
+Kimahri locked
+FEAD0A7A BCA99B83
+Stops character appearing in battle
+Lulu locked
+FEAD0922 BCA99B83
+Stops character appearing in battle
+Wakka locked
+FEAD0996 BCA99B83
+Stops character appearing in battle
+Rikku locked
+FEAD08BE BCA99B83
+Stops character appearing in battle
+Seymour locked
+FEAD08CA BCA99B83
+Stops character appearing in battle
+Ifrit locked
+FEAD0FF2 BCA99B83
+Stops character appearing in battle
+Ixion locked
+FEAD0E0E BCA99B83
+Stops character appearing in battle
+Shiva locked
+FEAD0D9A BCA99B83
+Stops character appearing in battle
+Bahamut locked
+FEAD0D36 BCA99B83
+Stops character appearing in battle
+Anima locked
+FEAD0C42 BCA99B83
+Stops character appearing in battle
+Yojimbo locked
+FEAD0CDE BCA99B83
+Stops character appearing in battle
+Magus sisters locked
+FEAD036A BCA99B83
+FEAD0286 BCA99B83
+FEAD0212 BCA99B83
+Stops character appearing in battle
+
+
+Al Bhed translated
+DEAD2DDE BFA89A82
+
+All normal overdrive
+DEAD2CB2 BBA89A82
+DEAD2CBE BBA89A82
+DEAD2CBA BBA89A82
+
+All key items
+DEAD2552 BBA89A82
+DEAD255E BCB89A7E
+CEAD66B2 BCA99C84
+
+Infinite gil
+DEAD2C96 C19E5541
+
+No random battles
+FEAD83F7 BCA99B83
+
+Have all items at infinite
+DE8FFFAE 529C9B83
+DE8FFFB6 E21C9B84
+DE8FFFB2 629C9B85
+DE8FFFBE 4B4B9B83
+DE8FFF46 C4B2CD38
+DE9A34C2 C4AC9A4F
+DE9A35CA E0BA9BE6
+DE9A35DE 5E7A9B83
+DEAD2312 DCAABB83
+
+Hypermode
+CE8D491A BCA99B86
+DE470002 FFA99B83
+
+Show endings
+CEAD62CE BCA99C09
+
+Zoom out - select+up
+0E664878 BCA99A71
+DEADB3FA FA978972
+0E664878 BCA99A71
+DEADB3FE FA756750
+
+Zoom in - select+down
+0E664878 BCA99A41
+DEADB3FE FB556750
+0E664878 BCA99A41
+DEADB3FA FB778972
+
+Zoom X2 - select+right
+0E664878 BCA99A61
+DEADB3FE FCB78972
+0E664878 BCA99A61
+DEADB3FA FCD78972
+
+No zoom - select+left
+0E664878 BCA99A01
+DEADB3FA FB178972
+0E664878 BCA99A01
+DEADB3FE FBF56750
+
+Must be active for grow and shrink codes
+DE8FFF4E F8AB9BB3
+0E8FFF4A BCA99B83
+DE8FFF4A CCA99B88
+DE8FFF52 48ECA123
+DE8FFF66 68ECA123
+DE8FFF6E E0AC9BF3
+DE8FFF6A C4B4130F
+DE911CA2 C4AC9A57
+0E664878 BCA99A82
+DE8FFF4A CCA99B88
+
+R1+L1+R2+L2+up - grow
+0E664878 BCA98B72
+DE8FFF5A E00CEB83
+0E664878 BCA98B72
+DE8FFF4A CCA99B83
+Main character size modifier
+R1+L1+R2+R2+down - shrink
+0E664878 BCA98B42
+DE8FFF5A E00C3A82
+0E664878 BCA98B42
+DE8FFF4A CCA99B83
+Main character size modifier
+
+
+Always Win Blitzball
+FEAD4B8C BCA99BE6
+FEAD4B69 BCA99BE6
+FEAD4B8F BCA99B83
+Blitzball code
+Tidus-5 Tech Slots
+FEAD544C BCA99B88
+Blitzball code
+Datto-5 Tech Slots
+FEAD544E BCA99B88
+Blitzball code
+Letty-5 Tech Slots
+FEAD5449 BCA99B88
+Blitzball code
+Jassu-5 Tech Slots
+FEAD5448 BCA99B88
+Blitzball code
+Botta-5 Tech Slots
+FEAD544B BCA99B88
+Blitzball code
+Keepa-5 Tech Slots
+FEAD544A BCA99B88
+Blitzball code
+Tidus-Tech Abilities
+DEAD8032 BBA89A82
+DEAD8722 BBA89A82
+Blitzball code
+Tidus-Max Level (BB)
+FEAD5400 BCA99B82
+Blitzball code
+Tidus-Max EXP (BB)
+CEAD4A9A BCA9C292
+Blitzball code
+
+
+
+Must be on
+DE8FF87A 48EB9D17
+DE8FF87E C4AF870C
+DE834C9E C4AC9A03
+
+One hit kill
+DE8FF896 E0AA9B82
+DE8FF892 5CEA9DED
+DE8FF89E 5CEA9DEB
+
+Inf health all team+summons
+DE8FF8FE F8AAAB83
+DE8FF8FA 68EA9D13
+
+Inf mp all...
+DE8FF882 E0AA9E6A
+DE8FF88E 68EA9D17
+
+Low damage all...
+DE8FF89A E0AA9B82
+DE8FF8A6 5CEA9DEC
+DE8FF8A2 5CEA9DEE
+
+Stats maxed all...
+DE8FF8AA E0AA9A82
+DE8FF8B6 68EA9DEB
+DE8FF8B2 68EA9DEF
+
+Max overdrive
+DE8FF8BA E0AA9BE7
+DE8FF846 5CEA9DFF
+
+
+
+1st slot 2nd ability: Have sensor
+CEAD2572 BCA91B83
+
+1st slot 2nd ability: First strike
+CEAD2572 BCA91B84
+
+1st slot 2nd ability: Initiative
+CEAD2572 BCA91B85
+
+1st slot 2nd ability: Counter attack
+CEAD2572 BCA91B86
+
+1st slot 2nd ability: Evade and counter
+CEAD2572 BCA91B87
+
+1st slot 2nd ability: Magic counter
+CEAD2572 BCA91B88
+
+1st slot 2nd ability: Magic booster
+CEAD2572 BCA91B89
+
+1st slot 2nd ability: Alchemy
+CEAD2572 BCA91B8A
+
+1st slot 2nd ability: Auto potion
+CEAD2572 BCA91B8B
+
+1st slot 2nd ability: Auto-med
+CEAD2572 BCA91B8C
+
+1st slot 2nd ability: Auto-phoenix
+CEAD2572 BCA91B8D
+
+1st slot 2nd ability: Piercing
+CEAD2572 BCA91B8E
+
+1st slot 2nd ability: Half mp cost
+CEAD2572 BCA91B8F
+
+1st slot 2nd ability: One mp cost
+CEAD2572 BCA91B90
+
+1st slot 2nd ability: Double overdrive
+CEAD2572 BCA91B91
+
+1st slot 2nd ability: Triple overdrive
+CEAD2572 BCA91B92
+
+1st slot 2nd ability: SOS overdrive
+CEAD2572 BCA91B93
+
+1st slot 2nd ability: Overdrive AP
+CEAD2572 BCA91B94
+
+1st slot 2nd ability: Double AP
+CEAD2572 BCA91B95
+
+1st slot 2nd ability: Triple AP
+CEAD2572 BCA91B96
+
+1st slot 2nd ability: No AP
+CEAD2572 BCA91B97
+
+1st slot 2nd ability: Pickpocket
+CEAD2572 BCA91B98
+
+1st slot 2nd ability: Master thief
+CEAD2572 BCA91B99
+
+1st slot 2nd ability: Break hp limit
+CEAD2572 BCA91B9A
+
+1st slot 2nd ability: Break mp limit
+CEAD2572 BCA91B9B
+
+1st slot 2nd ability: Break damage limit
+CEAD2572 BCA91B9C
+
+1st slot 2nd ability: Gillionaire
+CEAD2572 BCA91B9D
+
+1st slot 2nd ability: Hp stroll
+CEAD2572 BCA91B9E
+
+1st slot 2nd ability: Mp stroll
+CEAD2572 BCA91B9F
+
+1st slot 2nd ability: No encounters
+CEAD2572 BCA91BA0
+
+1st slot 2nd ability: Firestrike
+CEAD2572 BCA91BA1
+
+1st slot 2nd ability: Fireward
+CEAD2572 BCA91BA2
+
+1st slot 2nd ability: Fireproof
+CEAD2572 BCA91BA3
+
+1st slot 2nd ability: Fire eater
+CEAD2572 BCA91BA4
+
+1st slot 2nd ability: Icestrike
+CEAD2572 BCA91BA5
+
+1st slot 2nd ability: Ice ward
+CEAD2572 BCA91BA6
+
+1st slot 2nd ability: Ice proof
+CEAD2572 BCA91BA7
+
+1st slot 2nd ability: Ice eater
+CEAD2572 BCA91BA8
+
+1st slot 2nd ability: Lightstrike
+CEAD2572 BCA91BA9
+
+1st slot 2nd ability: Lightward
+CEAD2572 BCA91BAA
+
+1st slot 2nd ability: Lightproof
+CEAD2572 BCA91BAB
+
+1st slot 2nd ability: Light eater
+CEAD2572 BCA91BAC
+
+1st slot 2nd ability: Waterstrike
+CEAD2572 BCA91BAD
+
+1st slot 2nd ability: Waterward
+CEAD2572 BCA91BAE
+
+1st slot 2nd ability: Waterproof
+CEAD2572 BCA91BAF
+
+1st slot 2nd ability: Watereater
+CEAD2572 BCA91BB0
+
+1st slot 2nd ability: Deathstrike
+CEAD2572 BCA91BB1
+
+1st slot 2nd ability: Deathtouch
+CEAD2572 BCA91BB2
+
+1st slot 2nd ability: Deathproof
+CEAD2572 BCA91BB3
+
+1st slot 2nd ability: Deathward
+CEAD2572 BCA91BB4
+
+1st slot 2nd ability: Zombiestrike
+CEAD2572 BCA91BB5
+
+1st slot 2nd ability: Zombietouch
+CEAD2572 BCA91BB6
+
+1st slot 2nd ability: Zombieproof
+CEAD2572 BCA91BB7
+
+1st slot 2nd ability: Zombieward
+CEAD2572 BCA91BB8
+
+1st slot 2nd ability: Stonestrike
+CEAD2572 BCA91BB9
+
+1st slot 2nd ability: Stonetouch
+CEAD2572 BCA91BBA
+
+1st slot 2nd ability: Stoneproof
+CEAD2572 BCA91BBB
+
+1st slot 2nd ability: Stoneward
+CEAD2572 BCA91BBC
+
+1st slot 2nd ability: Poisonstrike
+CEAD2572 BCA91BBD
+
+1st slot 2nd ability: Poisontouch
+CEAD2572 BCA91BBE
+
+1st slot 2nd ability: Poisonproof
+CEAD2572 BCA91BBF
+
+1st slot 2nd ability: Poisonward
+CEAD2572 BCA91BC0
+
+1st slot 2nd ability: Sleepstrike
+CEAD2572 BCA91BC1
+
+1st slot 2nd ability: Sleeptouch
+CEAD2572 BCA91BC2
+
+1st slot 2nd ability: Sleepproof
+CEAD2572 BCA91BC3
+
+1st slot 2nd ability: Sleepward
+CEAD2572 BCA91BC4
+
+1st slot 2nd ability: Silencestrike
+CEAD2572 BCA91BC5
+
+1st slot 2nd ability: Silencetouch
+CEAD2572 BCA91BC6
+
+1st slot 2nd ability: Silenceproof
+CEAD2572 BCA91BC7
+
+1st slot 2nd ability: Silence ward
+CEAD2572 BCA91BC8
+
+1st slot 2nd ability: Darkstrike
+CEAD2572 BCA91BC9
+
+1st slot 2nd ability: Darktouch
+CEAD2572 BCA91BCA
+
+1st slot 2nd ability: Darkproof
+CEAD2572 BCA91BCB
+
+1st slot 2nd ability: Darkward
+CEAD2572 BCA91BCC
+
+1st slot 2nd ability: Slowstrike
+CEAD2572 BCA91BCD
+
+1st slot 2nd ability: Slowtouch
+CEAD2572 BCA91BCE
+
+1st slot 2nd ability: Slowproof
+CEAD2572 BCA91BCF
+
+1st slot 2nd ability: Slowward
+CEAD2572 BCA91BD0
+
+1st slot 2nd ability: Confuseproof
+CEAD2572 BCA91BD1
+
+1st slot 2nd ability: Confuseward
+CEAD2572 BCA91BD2
+
+1st slot 2nd ability: Bersekproof
+CEAD2572 BCA91BD3
+
+1st slot 2nd ability: Berserkward
+CEAD2572 BCA91BD4
+
+1st slot 2nd ability: Curseproof
+CEAD2572 BCA91BD5
+
+1st slot 2nd ability: Curseward
+CEAD2572 BCA91BD6
+
+1st slot 2nd ability: Auto-shell
+CEAD2572 BCA91BD7
+
+1st slot 2nd ability: Auto-protect
+CEAD2572 BCA91BD8
+
+1st slot 2nd ability: Auto-haste
+CEAD2572 BCA91BD9
+
+1st slot 2nd ability: Auto-regen
+CEAD2572 BCA91BDA
+
+1st slot 2nd ability: Auto-haste
+CEAD2572 BCA91BDB
+
+1st slot 2nd ability: SOS shell
+CEAD2572 BCA91BDC
+
+1st slot 2nd ability: SOS protect
+CEAD2572 BCA91BDD
+
+1st slot 2nd ability: SOS haste
+CEAD2572 BCA91BDE
+
+1st slot 2nd ability: SOS regen
+CEAD2572 BCA91BDF
+
+1st slot 2nd ability: SOS reflect
+CEAD2572 BCA91BE0
+
+1st slot 2nd ability: SOS nulltide
+CEAD2572 BCA91BE1
+
+1st slot 2nd ability: SOS nullfrost
+CEAD2572 BCA91BE2
+
+1st slot 2nd ability: SOS nullshock
+CEAD2572 BCA91BE3
+
+1st slot 2nd ability: SOS nullblaze
+CEAD2572 BCA91BE4
+
+1st slot 2nd ability: Strength +3
+CEAD2572 BCA91BE5
+
+1st slot 2nd ability: Strength +5
+CEAD2572 BCA91BE6
+
+1st slot 2nd ability: Strength +10
+CEAD2572 BCA91BE7
+
+1st slot 2nd ability: Strength +20
+CEAD2572 BCA91BE8
+
+1st slot 2nd ability: Magic +3
+CEAD2572 BCA91BE9
+
+1st slot 2nd ability: Magic +5
+CEAD2572 BCA91BEA
+
+1st slot 2nd ability: Magic +10
+CEAD2572 BCA91BEB
+
+1st slot 2nd ability: Magic +20
+CEAD2572 BCA91BEC
+
+1st slot 2nd ability: Def +3
+CEAD2572 BCA91BED
+
+1st slot 2nd ability: Def +5
+CEAD2572 BCA91BEE
+
+1st slot 2nd ability: Def +10
+CEAD2572 BCA91BEF
+
+1st slot 2nd ability: Def +20
+CEAD2572 BCA91BF0
+
+1st slot 2nd ability: Mag Def +3
+CEAD2572 BCA91BF1
+
+1st slot 2nd ability: Mag Def +5
+CEAD2572 BCA91BF2
+
+1st slot 2nd ability: Mag Def +10
+CEAD2572 BCA91BF3
+
+1st slot 2nd ability: Mag Def +20
+CEAD2572 BCA91BF4
+
+1st slot 2nd ability: HP +5
+CEAD2572 BCA91BF5
+
+1st slot 2nd ability: HP +10
+CEAD2572 BCA91BF6
+
+1st slot 2nd ability: HP +20
+CEAD2572 BCA91BF7
+
+1st slot 2nd ability: HP +30
+CEAD2572 BCA91BF8
+
+1st slot 2nd ability: MP +5
+CEAD2572 BCA91BF9
+
+1st slot 2nd ability: MP +10
+CEAD2572 BCA91BFA
+
+1st slot 2nd ability: MP +20
+CEAD2572 BCA91BFB
+
+1st slot 2nd ability: MP +30
+CEAD2572 BCA91BFC
+
+1st slot 2nd ability: Capture
+CEAD2572 BCA91BFD
+
+1st slot 2nd ability: Distil power
+CEAD2572 BCA91BFF
+
+1st slot 2nd ability: Distil mana
+CEAD2572 BCA91B00
+
+1st slot 2nd ability: Distil speed
+CEAD2572 BCA91B01
+
+1st slot 2nd ability: Distil ability
+CEAD2572 BCA91B02
+
+1st slot 2nd ability: Ribbon
+CEAD2572 BCA91B03
+
+1st slot 3rd ability: Have sensor
+CEAD257C BCA91B83
+
+1st slot 3rd ability: First strike
+CEAD257C BCA91B84
+
+1st slot 3rd ability: Initiative
+CEAD257C BCA91B85
+
+1st slot 3rd ability: Counter attack
+CEAD257C BCA91B86
+
+1st slot 3rd ability: Evade and counter
+CEAD257C BCA91B87
+
+1st slot 3rd ability: Magic counter
+CEAD257C BCA91B88
+
+1st slot 3rd ability: Magic booster
+CEAD257C BCA91B89
+
+1st slot 3rd ability: Alchemy
+CEAD257C BCA91B8A
+
+1st slot 3rd ability: Auto potion
+CEAD257C BCA91B8B
+
+1st slot 3rd ability: Auto-med
+CEAD257C BCA91B8C
+
+1st slot 3rd ability: Auto-phoenix
+CEAD257C BCA91B8D
+
+1st slot 3rd ability: Piercing
+CEAD257C BCA91B8E
+
+1st slot 3rd ability: Half mp cost
+CEAD257C BCA91B8F
+
+1st slot 3rd ability: One mp cost
+CEAD257C BCA91B90
+
+1st slot 3rd ability: Double overdrive
+CEAD257C BCA91B91
+
+1st slot 3rd ability: Triple overdrive
+CEAD257C BCA91B92
+
+1st slot 3rd ability: SOS overdrive
+CEAD257C BCA91B93
+
+1st slot 3rd ability: Overdrive AP
+CEAD257C BCA91B94
+
+1st slot 3rd ability: Double AP
+CEAD257C BCA91B95
+
+1st slot 3rd ability: Triple AP
+CEAD257C BCA91B96
+
+1st slot 3rd ability: No AP
+CEAD257C BCA91B97
+
+1st slot 3rd ability: Pickpocket
+CEAD257C BCA91B98
+
+1st slot 3rd ability: Master thief
+CEAD257C BCA91B99
+
+1st slot 3rd ability: Break hp limit
+CEAD257C BCA91B9A
+
+1st slot 3rd ability: Break mp limit
+CEAD257C BCA91B9B
+
+1st slot 3rd ability: Break damage limit
+CEAD257C BCA91B9C
+
+1st slot 3rd ability: Gillionaire
+CEAD257C BCA91B9D
+
+1st slot 3rd ability: Hp stroll
+CEAD257C BCA91B9E
+
+1st slot 3rd ability: Mp stroll
+CEAD257C BCA91B9F
+
+1st slot 3rd ability: No encounters
+CEAD257C BCA91BA0
+
+1st slot 3rd ability: Firestrike
+CEAD257C BCA91BA1
+
+1st slot 3rd ability: Fireward
+CEAD257C BCA91BA2
+
+1st slot 3rd ability: Fireproof
+CEAD257C BCA91BA3
+
+1st slot 3rd ability: Fire eater
+CEAD257C BCA91BA4
+
+1st slot 3rd ability: Icestrike
+CEAD257C BCA91BA5
+
+1st slot 3rd ability: Ice ward
+CEAD257C BCA91BA6
+
+1st slot 3rd ability: Ice proof
+CEAD257C BCA91BA7
+
+1st slot 3rd ability: Ice eater
+CEAD257C BCA91BA8
+
+1st slot 3rd ability: Lightstrike
+CEAD257C BCA91BA9
+
+1st slot 3rd ability: Lightward
+CEAD257C BCA91BAA
+
+1st slot 3rd ability: Lightproof
+CEAD257C BCA91BAB
+
+1st slot 3rd ability: Light eater
+CEAD257C BCA91BAC
+
+1st slot 3rd ability: Waterstrike
+CEAD257C BCA91BAD
+
+1st slot 3rd ability: Waterward
+CEAD257C BCA91BAE
+
+1st slot 3rd ability: Waterproof
+CEAD257C BCA91BAF
+
+1st slot 3rd ability: Watereater
+CEAD257C BCA91BB0
+
+1st slot 3rd ability: Deathstrike
+CEAD257C BCA91BB1
+
+1st slot 3rd ability: Deathtouch
+CEAD257C BCA91BB2
+
+1st slot 3rd ability: Deathproof
+CEAD257C BCA91BB3
+
+1st slot 3rd ability: Deathward
+CEAD257C BCA91BB4
+
+1st slot 3rd ability: Zombiestrike
+CEAD257C BCA91BB5
+
+1st slot 3rd ability: Zombietouch
+CEAD257C BCA91BB6
+
+1st slot 3rd ability: Zombieproof
+CEAD257C BCA91BB7
+
+1st slot 3rd ability: Zombieward
+CEAD257C BCA91BB8
+
+1st slot 3rd ability: Stonestrike
+CEAD257C BCA91BB9
+
+1st slot 3rd ability: Stonetouch
+CEAD257C BCA91BBA
+
+1st slot 3rd ability: Stoneproof
+CEAD257C BCA91BBB
+
+1st slot 3rd ability: Stoneward
+CEAD257C BCA91BBC
+
+1st slot 3rd ability: Poisonstrike
+CEAD257C BCA91BBD
+
+1st slot 3rd ability: Poisontouch
+CEAD257C BCA91BBE
+
+1st slot 3rd ability: Poisonproof
+CEAD257C BCA91BBF
+
+1st slot 3rd ability: Poisonward
+CEAD257C BCA91BC0
+
+1st slot 3rd ability: Sleepstrike
+CEAD257C BCA91BC1
+
+1st slot 3rd ability: Sleeptouch
+CEAD257C BCA91BC2
+
+1st slot 3rd ability: Sleepproof
+CEAD257C BCA91BC3
+
+1st slot 3rd ability: Sleepward
+CEAD257C BCA91BC4
+
+1st slot 3rd ability: Silencestrike
+CEAD257C BCA91BC5
+
+1st slot 3rd ability: Silencetouch
+CEAD257C BCA91BC6
+
+1st slot 3rd ability: Silenceproof
+CEAD257C BCA91BC7
+
+1st slot 3rd ability: Silenceward
+CEAD257C BCA91BC8
+
+1st slot 3rd ability: Darkstrike
+CEAD257C BCA91BC9
+
+1st slot 3rd ability: Darktouch
+CEAD257C BCA91BCA
+
+1st slot 3rd ability: Darkproof
+CEAD257C BCA91BCB
+
+1st slot 3rd ability: Darkward
+CEAD257C BCA91BCC
+
+1st slot 3rd ability: Slowstrike
+CEAD257C BCA91BCD
+
+1st slot 3rd ability: Slowtouch
+CEAD257C BCA91BCE
+
+1st slot 3rd ability: Slowproof
+CEAD257C BCA91BCF
+
+1st slot 3rd ability: Slowward
+CEAD257C BCA91BD0
+
+1st slot 3rd ability: Confuseproof
+CEAD257C BCA91BD1
+
+1st slot 3rd ability: Confuseward
+CEAD257C BCA91BD2
+
+1st slot 3rd ability: Bersekproof
+CEAD257C BCA91BD3
+
+1st slot 3rd ability: Berserkward
+CEAD257C BCA91BD4
+
+1st slot 3rd ability: Curseproof
+CEAD257C BCA91BD5
+
+1st slot 3rd ability: Curseward
+CEAD257C BCA91BD6
+
+1st slot 3rd ability: Auto-shell
+CEAD257C BCA91BD7
+
+1st slot 3rd ability: Auto-protect
+CEAD257C BCA91BD8
+
+1st slot 3rd ability: Auto-haste
+CEAD257C BCA91BD9
+
+1st slot 3rd ability: Auto-regen
+CEAD257C BCA91BDA
+
+1st slot 3rd ability: Auto-haste
+CEAD257C BCA91BDB
+
+1st slot 3rd ability: SOS shell
+CEAD257C BCA91BDC
+
+1st slot 3rd ability: SOS protect
+CEAD257C BCA91BDD
+
+1st slot 3rd ability: SOS haste
+CEAD257C BCA91BDE
+
+1st slot 3rd ability: SOS regen
+CEAD257C BCA91BDF
+
+1st slot 3rd ability: SOS reflect
+CEAD257C BCA91BE0
+
+1st slot 3rd ability: SOS nulltide
+CEAD257C BCA91BE1
+
+1st slot 3rd ability: SOS nullfrost
+CEAD257C BCA91BE2
+
+1st slot 3rd ability: SOS nullshock
+CEAD257C BCA91BE3
+
+1st slot 3rd ability: SOS nullblaze
+CEAD257C BCA91BE4
+
+1st slot 3rd ability: Strength +20
+CEAD257C BCA91BE8
+
+1st slot 3rd ability: Magic +20
+CEAD257C BCA91BEC
+
+1st slot 3rd ability: Def +20
+CEAD257C BCA91BF0
+
+1st slot 3rd ability: Mag Def +20
+CEAD257C BCA91BF4
+
+1st slot 3rd ability: HP +30
+CEAD257C BCA91BF8
+
+1st slot 3rd ability: MP +30
+CEAD257C BCA91BFC
+
+1st slot 3rd ability: Capture
+CEAD257C BCA91BFD
+
+1st slot 3rd ability: Distil power
+CEAD257C BCA91BFF
+
+1st slot 3rd ability: Distil mana
+CEAD257C BCA91B00
+
+1st slot 3rd ability: Distil speed
+CEAD257C BCA91B01
+
+1st slot 3rd ability: Distil ability
+CEAD257C BCA91B02
+
+1st slot 3rd ability: Ribbon
+CEAD257C BCA91B03
+
+
+
+2nd slot 2nd ability: Have sensor
+CEAD2508 BCA91B83
+
+2nd slot 2nd ability: First strike
+CEAD2508 BCA91B84
+
+2nd slot 2nd ability: Initiative
+CEAD2508 BCA91B85
+
+2nd slot 2nd ability: Counter attack
+CEAD2508 BCA91B86
+
+2nd slot 2nd ability: Evade and counter
+CEAD2508 BCA91B87
+
+2nd slot 2nd ability: Magic counter
+CEAD2508 BCA91B88
+
+2nd slot 2nd ability: Magic booster
+CEAD2508 BCA91B89
+
+2nd slot 2nd ability: Alchemy
+CEAD2508 BCA91B8A
+
+2nd slot 2nd ability: Auto potion
+CEAD2508 BCA91B8B
+
+2nd slot 2nd ability: Auto-med
+CEAD2508 BCA91B8C
+
+2nd slot 2nd ability: Auto-phoenix
+CEAD2508 BCA91B8D
+
+2nd slot 2nd ability: Piercing
+CEAD2508 BCA91B8E
+
+2nd slot 2nd ability: Half mp cost
+CEAD2508 BCA91B8F
+
+2nd slot 2nd ability: One mp cost
+CEAD2508 BCA91B90
+
+2nd slot 2nd ability: Double overdrive
+CEAD2508 BCA91B91
+
+2nd slot 2nd ability: Triple overdrive
+CEAD2508 BCA91B92
+
+2nd slot 2nd ability: SOS overdrive
+CEAD2508 BCA91B93
+
+2nd slot 2nd ability: Overdrive AP
+CEAD2508 BCA91B94
+
+2nd slot 2nd ability: Double AP
+CEAD2508 BCA91B95
+
+2nd slot 2nd ability: Triple AP
+CEAD2508 BCA91B96
+
+2nd slot 2nd ability: No AP
+CEAD2508 BCA91B97
+
+2nd slot 2nd ability: Pickpocket
+CEAD2508 BCA91B98
+
+2nd slot 2nd ability: Master thief
+CEAD2508 BCA91B99
+
+2nd slot 2nd ability: Break hp limit
+CEAD2508 BCA91B9A
+
+2nd slot 2nd ability: Break mp limit
+CEAD2508 BCA91B9B
+
+2nd slot 2nd ability: Break damage limit
+CEAD2508 BCA91B9C
+
+2nd slot 2nd ability: Gillionaire
+CEAD2508 BCA91B9D
+
+2nd slot 2nd ability: Hp stroll
+CEAD2508 BCA91B9E
+
+2nd slot 2nd ability: Mp stroll
+CEAD2508 BCA91B9F
+
+2nd slot 2nd ability: No encounters
+CEAD2508 BCA91BA0
+
+2nd slot 2nd ability: Firestrike
+CEAD2508 BCA91BA1
+
+2nd slot 2nd ability: Fireward
+CEAD2508 BCA91BA2
+
+2nd slot 2nd ability: Fireproof
+CEAD2508 BCA91BA3
+
+2nd slot 2nd ability: Fire eater
+CEAD2508 BCA91BA4
+
+2nd slot 2nd ability: Icestrike
+CEAD2508 BCA91BA5
+
+2nd slot 2nd ability: Ice ward
+CEAD2508 BCA91BA6
+
+2nd slot 2nd ability: Ice proof
+CEAD2508 BCA91BA7
+
+2nd slot 2nd ability: Ice eater
+CEAD2508 BCA91BA8
+
+2nd slot 2nd ability: Lightstrike
+CEAD2508 BCA91BA9
+
+2nd slot 2nd ability: Lightward
+CEAD2508 BCA91BAA
+
+2nd slot 2nd ability: Lightproof
+CEAD2508 BCA91BAB
+
+2nd slot 2nd ability: Light eater
+CEAD2508 BCA91BAC
+
+2nd slot 2nd ability: Waterstrike
+CEAD2508 BCA91BAD
+
+2nd slot 2nd ability: Waterward
+CEAD2508 BCA91BAE
+
+2nd slot 2nd ability: Waterproof
+CEAD2508 BCA91BAF
+
+2nd slot 2nd ability: Watereater
+CEAD2508 BCA91BB0
+
+2nd slot 2nd ability: Deathstrike
+CEAD2508 BCA91BB1
+
+2nd slot 2nd ability: Deathtouch
+CEAD2508 BCA91BB2
+
+2nd slot 2nd ability: Deathproof
+CEAD2508 BCA91BB3
+
+2nd slot 2nd ability: Deathward
+CEAD2508 BCA91BB4
+
+2nd slot 2nd ability: Zombiestrike
+CEAD2508 BCA91BB5
+
+2nd slot 2nd ability: Zombietouch
+CEAD2508 BCA91BB6
+
+2nd slot 2nd ability: Zombieproof
+CEAD2508 BCA91BB7
+
+2nd slot 2nd ability: Zombieward
+CEAD2508 BCA91BB8
+
+2nd slot 2nd ability: Stonestrike
+CEAD2508 BCA91BB9
+
+2nd slot 2nd ability: Stonetouch
+CEAD2508 BCA91BBA
+
+2nd slot 2nd ability: Stoneproof
+CEAD2508 BCA91BBB
+
+2nd slot 2nd ability: Stoneward
+CEAD2508 BCA91BBC
+
+2nd slot 2nd ability: Poisonstrike
+CEAD2508 BCA91BBD
+
+2nd slot 2nd ability: Poisontouch
+CEAD2508 BCA91BBE
+
+2nd slot 2nd ability: Poisonproof
+CEAD2508 BCA91BBF
+
+2nd slot 2nd ability: Poisonward
+CEAD2508 BCA91BC0
+
+2nd slot 2nd ability: Sleepstrike
+CEAD2508 BCA91BC1
+
+2nd slot 2nd ability: Sleeptouch
+CEAD2508 BCA91BC2
+
+2nd slot 2nd ability: Sleepproof
+CEAD2508 BCA91BC3
+
+2nd slot 2nd ability: Sleepward
+CEAD2508 BCA91BC4
+
+2nd slot 2nd ability: Silencestrike
+CEAD2508 BCA91BC5
+
+2nd slot 2nd ability: Silencetouch
+CEAD2508 BCA91BC6
+
+2nd slot 2nd ability: Silenceproof
+CEAD2508 BCA91BC7
+
+2nd slot 2nd ability: Silence ward
+CEAD2508 BCA91BC8
+
+2nd slot 2nd ability: Darkstrike
+CEAD2508 BCA91BC9
+
+2nd slot 2nd ability: Darktouch
+CEAD2508 BCA91BCA
+
+2nd slot 2nd ability: Darkproof
+CEAD2508 BCA91BCB
+
+2nd slot 2nd ability: Darkward
+CEAD2508 BCA91BCC
+
+2nd slot 2nd ability: Slowstrike
+CEAD2508 BCA91BCD
+
+2nd slot 2nd ability: Slowtouch
+CEAD2508 BCA91BCE
+
+2nd slot 2nd ability: Slowproof
+CEAD2508 BCA91BCF
+
+2nd slot 2nd ability: Slow ward
+CEAD2508 BCA91BD0
+
+2nd slot 2nd ability: Confuseproof
+CEAD2508 BCA91BD1
+
+2nd slot 2nd ability: Confuse ward
+CEAD2508 BCA91BD2
+
+2nd slot 2nd ability: Bersekproof
+CEAD2508 BCA91BD3
+
+2nd slot 2nd ability: Berserkward
+CEAD2508 BCA91BD4
+
+2nd slot 2nd ability: Curseproof
+CEAD2508 BCA91BD5
+
+2nd slot 2nd ability: Curseward
+CEAD2508 BCA91BD6
+
+2nd slot 2nd ability: Auto-shell
+CEAD2508 BCA91BD7
+
+2nd slot 2nd ability: Auto-protect
+CEAD2508 BCA91BD8
+
+2nd slot 2nd ability: Auto-haste
+CEAD2508 BCA91BD9
+
+2nd slot 2nd ability: Auto-regen
+CEAD2508 BCA91BDA
+
+2nd slot 2nd ability: Auto-haste
+CEAD2508 BCA91BDB
+
+2nd slot 2nd ability: SOS shell
+CEAD2508 BCA91BDC
+
+2nd slot 2nd ability: SOS protect
+CEAD2508 BCA91BDD
+
+2nd slot 2nd ability: SOS haste
+CEAD2508 BCA91BDE
+
+2nd slot 2nd ability: SOS regen
+CEAD2508 BCA91BDF
+
+2nd slot 2nd ability: SOS reflect
+CEAD2508 BCA91BE0
+
+2nd slot 2nd ability: SOS nulltide
+CEAD2508 BCA91BE1
+
+2nd slot 2nd ability: SOS nullfrost
+CEAD2508 BCA91BE2
+
+2nd slot 2nd ability: SOS nullshock
+CEAD2508 BCA91BE3
+
+2nd slot 2nd ability: SOS nullblaze
+CEAD2508 BCA91BE4
+
+2nd slot 2nd ability: Strength +3
+CEAD2508 BCA91BE5
+
+2nd slot 2nd ability: Strength +5
+CEAD2508 BCA91BE6
+
+2nd slot 2nd ability: Strength +10
+CEAD2508 BCA91BE7
+
+2nd slot 2nd ability: Strength +20
+CEAD2508 BCA91BE8
+
+2nd slot 2nd ability: Magic +3
+CEAD2508 BCA91BE9
+
+2nd slot 2nd ability: Magic +5
+CEAD2508 BCA91BEA
+
+2nd slot 2nd ability: Magic +10
+CEAD2508 BCA91BEB
+
+2nd slot 2nd ability: Magic +20
+CEAD2508 BCA91BEC
+
+2nd slot 2nd ability: Def +3
+CEAD2508 BCA91BED
+
+2nd slot 2nd ability: Def +5
+CEAD2508 BCA91BEE
+
+2nd slot 2nd ability: Def +10
+CEAD2508 BCA91BEF
+
+2nd slot 2nd ability: Def +20
+CEAD2508 BCA91BF0
+
+2nd slot 2nd ability: Mag Def +3
+CEAD2508 BCA91BF1
+
+2nd slot 2nd ability: Mag Def +5
+CEAD2508 BCA91BF2
+
+2nd slot 2nd ability: Mag Def +10
+CEAD2508 BCA91BF3
+
+2nd slot 2nd ability: Mag Def +20
+CEAD2508 BCA91BF4
+
+2nd slot 2nd ability: HP +5
+CEAD2508 BCA91BF5
+
+2nd slot 2nd ability: HP +10
+CEAD2508 BCA91BF6
+
+2nd slot 2nd ability: HP +20
+CEAD2508 BCA91BF7
+
+2nd slot 2nd ability: HP +30
+CEAD2508 BCA91BF8
+
+2nd slot 2nd ability: MP +5
+CEAD2508 BCA91BF9
+
+2nd slot 2nd ability: MP +10
+CEAD2508 BCA91BFA
+
+2nd slot 2nd ability: MP +20
+CEAD2508 BCA91BFB
+
+2nd slot 2nd ability: MP +30
+CEAD2508 BCA91BFC
+
+2nd slot 2nd ability: Capture
+CEAD2508 BCA91BFD
+
+2nd slot 2nd ability: Distil power
+CEAD2508 BCA91BFF
+
+2nd slot 2nd ability: Distil mana
+CEAD2508 BCA91B00
+
+2nd slot 2nd ability: Distil speed
+CEAD2508 BCA91B01
+
+2nd slot 2nd ability: Distil ability
+CEAD2508 BCA91B02
+
+2nd slot 2nd ability: Ribbon
+CEAD2508 BCA91B03
+
+2nd slot 3rd ability: Have sensor
+CEAD250A BCA91B83
+
+2nd slot 3rd ability: First strike
+CEAD250A BCA91B84
+
+2nd slot 3rd ability: Initiative
+CEAD250A BCA91B85
+
+2nd slot 3rd ability: Counter attack
+CEAD250A BCA91B86
+
+2nd slot 3rd ability: Evade and counter
+CEAD250A BCA91B87
+
+2nd slot 3rd ability: Magic counter
+CEAD250A BCA91B88
+
+2nd slot 3rd ability: Magic booster
+CEAD250A BCA91B89
+
+2nd slot 3rd ability: Alchemy
+CEAD250A BCA91B8A
+
+2nd slot 3rd ability: Auto potion
+CEAD250A BCA91B8B
+
+2nd slot 3rd ability: Auto-med
+CEAD250A BCA91B8C
+
+2nd slot 3rd ability: Auto-phoenix
+CEAD250A BCA91B8D
+
+2nd slot 3rd ability: Piercing
+CEAD250A BCA91B8E
+
+2nd slot 3rd ability: Half mp cost
+CEAD250A BCA91B8F
+
+2nd slot 3rd ability: One mp cost
+CEAD250A BCA91B90
+
+2nd slot 3rd ability: Double overdrive
+CEAD250A BCA91B91
+
+2nd slot 3rd ability: Triple overdrive
+CEAD250A BCA91B92
+
+2nd slot 3rd ability: SOS overdrive
+CEAD250A BCA91B93
+
+2nd slot 3rd ability: Overdrive AP
+CEAD250A BCA91B94
+
+2nd slot 3rd ability: Double AP
+CEAD250A BCA91B95
+
+2nd slot 3rd ability: Triple AP
+CEAD250A BCA91B96
+
+2nd slot 3rd ability: No AP
+CEAD250A BCA91B97
+
+2nd slot 3rd ability: Pickpocket
+CEAD250A BCA91B98
+
+2nd slot 3rd ability: Master thief
+CEAD250A BCA91B99
+
+2nd slot 3rd ability: Break hp limit
+CEAD250A BCA91B9A
+
+2nd slot 3rd ability: Break mp limit
+CEAD250A BCA91B9B
+
+2nd slot 3rd ability: Break damage limit
+CEAD250A BCA91B9C
+
+2nd slot 3rd ability: Gillionaire
+CEAD250A BCA91B9D
+
+2nd slot 3rd ability: Hp stroll
+CEAD250A BCA91B9E
+
+2nd slot 3rd ability: Mp stroll
+CEAD250A BCA91B9F
+
+2nd slot 3rd ability: No encounters
+CEAD250A BCA91BA0
+
+2nd slot 3rd ability: Firestrike
+CEAD250A BCA91BA1
+
+2nd slot 3rd ability: Fireward
+CEAD250A BCA91BA2
+
+2nd slot 3rd ability: Fireproof
+CEAD250A BCA91BA3
+
+2nd slot 3rd ability: Fire eater
+CEAD250A BCA91BA4
+
+2nd slot 3rd ability: Icestrike
+CEAD250A BCA91BA5
+
+2nd slot 3rd ability: Ice ward
+CEAD250A BCA91BA6
+
+2nd slot 3rd ability: Ice proof
+CEAD250A BCA91BA7
+
+2nd slot 3rd ability: Ice eater
+CEAD250A BCA91BA8
+
+2nd slot 3rd ability: Lightstrike
+CEAD250A BCA91BA9
+
+2nd slot 3rd ability: Lightward
+CEAD250A BCA91BAA
+
+2nd slot 3rd ability: Lightproof
+CEAD250A BCA91BAB
+
+2nd slot 3rd ability: Lighteater
+CEAD250A BCA91BAC
+
+2nd slot 3rd ability: Waterstrike
+CEAD250A BCA91BAD
+
+2nd slot 3rd ability: Waterward
+CEAD250A BCA91BAE
+
+2nd slot 3rd ability: Waterproof
+CEAD250A BCA91BAF
+
+2nd slot 3rd ability: Watereater
+CEAD250A BCA91BB0
+
+2nd slot 3rd ability: Deathstrike
+CEAD250A BCA91BB1
+
+2nd slot 3rd ability: Deathtouch
+CEAD250A BCA91BB2
+
+2nd slot 3rd ability: Deathproof
+CEAD250A BCA91BB3
+
+2nd slot 3rd ability: Deathward
+CEAD250A BCA91BB4
+
+2nd slot 3rd ability: Zombiestrike
+CEAD250A BCA91BB5
+
+2nd slot 3rd ability: Zombietouch
+CEAD250A BCA91BB6
+
+2nd slot 3rd ability: Zombieproof
+CEAD250A BCA91BB7
+
+2nd slot 3rd ability: Zombieward
+CEAD250A BCA91BB8
+
+2nd slot 3rd ability: Stonestrike
+CEAD250A BCA91BB9
+
+2nd slot 3rd ability: Stonetouch
+CEAD250A BCA91BBA
+
+2nd slot 3rd ability: Stoneproof
+CEAD250A BCA91BBB
+
+2nd slot 3rd ability: Stoneward
+CEAD250A BCA91BBC
+
+2nd slot 3rd ability: Poisonstrike
+CEAD250A BCA91BBD
+
+2nd slot 3rd ability: Poisontouch
+CEAD250A BCA91BBE
+
+2nd slot 3rd ability: Poisonproof
+CEAD250A BCA91BBF
+
+2nd slot 3rd ability: Poisonward
+CEAD250A BCA91BC0
+
+2nd slot 3rd ability: Sleepstrike
+CEAD250A BCA91BC1
+
+2nd slot 3rd ability: Sleeptouch
+CEAD250A BCA91BC2
+
+2nd slot 3rd ability: Sleepproof
+CEAD250A BCA91BC3
+
+2nd slot 3rd ability: Sleepward
+CEAD250A BCA91BC4
+
+2nd slot 3rd ability: Silencestrike
+CEAD250A BCA91BC5
+
+2nd slot 3rd ability: Silencetouch
+CEAD250A BCA91BC6
+
+2nd slot 3rd ability: Silenceproof
+CEAD250A BCA91BC7
+
+2nd slot 3rd ability: Silence ward
+CEAD250A BCA91BC8
+
+2nd slot 3rd ability: Darkstrike
+CEAD250A BCA91BC9
+
+2nd slot 3rd ability: Darktouch
+CEAD250A BCA91BCA
+
+2nd slot 3rd ability: Darkproof
+CEAD250A BCA91BCB
+
+2nd slot 3rd ability: Darkward
+CEAD250A BCA91BCC
+
+2nd slot 3rd ability: Slowstrike
+CEAD250A BCA91BCD
+
+2nd slot 3rd ability: Slowtouch
+CEAD250A BCA91BCE
+
+2nd slot 3rd ability: Slowproof
+CEAD250A BCA91BCF
+
+2nd slot 3rd ability: Slow ward
+CEAD250A BCA91BD0
+
+2nd slot 3rd ability: Confuseproof
+CEAD250A BCA91BD1
+
+2nd slot 3rd ability: Confuse ward
+CEAD250A BCA91BD2
+
+2nd slot 3rd ability: Bersekproof
+CEAD250A BCA91BD3
+
+2nd slot 3rd ability: Berserkward
+CEAD250A BCA91BD4
+
+2nd slot 3rd ability: Curseproof
+CEAD250A BCA91BD5
+
+2nd slot 3rd ability: Curseward
+CEAD250A BCA91BD6
+
+2nd slot 3rd ability: Auto-shell
+CEAD250A BCA91BD7
+
+2nd slot 3rd ability: Auto-protect
+CEAD250A BCA91BD8
+
+2nd slot 3rd ability: Auto-haste
+CEAD250A BCA91BD9
+
+2nd slot 3rd ability: Auto-regen
+CEAD250A BCA91BDA
+
+2nd slot 3rd ability: Auto-haste
+CEAD250A BCA91BDB
+
+2nd slot 3rd ability: SOS shell
+CEAD250A BCA91BDC
+
+2nd slot 3rd ability: SOS protect
+CEAD250A BCA91BDD
+
+2nd slot 3rd ability: SOS haste
+CEAD250A BCA91BDE
+
+2nd slot 3rd ability: SOS regen
+CEAD250A BCA91BDF
+
+2nd slot 3rd ability: SOS reflect
+CEAD250A BCA91BE0
+
+2nd slot 3rd ability: SOS nulltide
+CEAD250A BCA91BE1
+
+2nd slot 3rd ability: SOS nullfrost
+CEAD250A BCA91BE2
+
+2nd slot 3rd ability: SOS nullshock
+CEAD250A BCA91BE3
+
+2nd slot 3rd ability: SOS nullblaze
+CEAD250A BCA91BE4
+
+2nd slot 3rd ability: Strength +20
+CEAD250A BCA91BE8
+
+2nd slot 3rd ability: Magic +20
+CEAD250A BCA91BEC
+
+2nd slot 3rd ability: Def +20
+CEAD250A BCA91BF0
+
+2nd slot 3rd ability: Mag Def +20
+CEAD250A BCA91BF5
+
+2nd slot 3rd ability: HP +30
+CEAD250A BCA91BF8
+
+2nd slot 3rd ability: MP +30
+CEAD250A BCA91BFC
+
+2nd slot 3rd ability: Capture
+CEAD250A BCA91BFD
+
+2nd slot 3rd ability: Distil power
+CEAD250A BCA91BFF
+
+2nd slot 3rd ability: Distil mana
+CEAD250A BCA91B00
+
+2nd slot 3rd ability: Distil speed
+CEAD250A BCA91B01
+
+2nd slot 3rd ability: Distil ability
+CEAD250A BCA91B02
+
+2nd slot 3rd ability: Ribbon
+CEAD250A BCA91B03
+
+
+1st slot: Weapon has 4 abilities available
+FEAD2577 BCA99B87
+
+1st slot: Weapon usable by Tidus
+FEAD256E BCA99B83
+
+1st slot: Weapon usable by Yuna
+FEAD256E BCA99B84
+
+1st slot: Weapon usable by Auron
+FEAD256E BCA99B85
+
+1st slot: Weapon usable by Ronso
+FEAD256E BCA99B86
+
+1st slot: Weapon usable by Wakka
+FEAD256E BCA99B87
+
+1st slot: Weapon usable by Lulu
+FEAD256E BCA99B88
+
+1st slot: Weapon usable by Rikku
+FEAD256E BCA99B89
+
+1st slot: Graphic is Tidus' 1st weapon
+CEAD2576 BCA9DB84
+
+1st slot: Graphic is Tidus' 2nd weapon
+CEAD2576 BCA9DB85
+
+1st slot: Graphic is Tidus' 3rd weapon
+CEAD2576 BCA9DB86
+
+1st slot: Graphic is Tidus' 4th weapon
+CEAD2576 BCA9DB87
+
+1st slot: Graphic is Tidus' 5th weapon
+CEAD2576 BCA9DB88
+
+1st slot: Graphic is Tidus' 6th weapon
+CEAD2576 BCA9DB89
+
+1st slot: Graphic is Tidus' 7th weapon
+CEAD2576 BCA9DB8A
+
+1st slot: Graphic is Auron's weapon
+CEAD2576 BCA9DB8B
+
+1st slot: Graphic is Yuna's 1st weapon
+CEAD2576 BCA9DB8E
+
+1st slot: Graphic is Yuna's 2nd weapon
+CEAD2576 BCA9DB8F
+
+1st slot: Graphic is Yuna's 3rd weapon
+CEAD2576 BCA9DB90
+
+1st slot: Graphic is Yuna's 4th weapon
+CEAD2576 BCA9DB91
+
+1st slot: Graphic is Yuna's 5th weapon
+CEAD2576 BCA9DB92
+
+1st slot: Graphic is Yuna's 6th weapon
+CEAD2576 BCA9DB93
+
+1st slot: Graphic is Ronso's 1st weapon
+CEAD2576 BCA9DB98
+
+1st slot: Graphic is Ronso's 2nd weapon
+CEAD2576 BCA9DB99
+
+1st slot: Graphic is Ronso's 3rd weapon
+CEAD2576 BCA9DB9A
+
+1st slot: Graphic is Ronso's 4th weapon
+CEAD2576 BCA9DB9B
+
+1st slot: Graphic is Ronso's 5th weapon
+CEAD2576 BCA9DB9C
+
+1st slot: Graphic is Kimarhi's 1st weapon
+CEAD2576 BCA9DBA2
+
+1st slot: Graphic is Kimarhi's 2nd weapon
+CEAD2576 BCA9DBA3
+
+1st slot: Graphic is Kimarhi's 3rd weapon
+CEAD2576 BCA9DBA4
+
+1st slot: Graphic is Kimarhi's 4th weapon
+CEAD2576 BCA9DBA5
+
+1st slot: Graphic is Kimarhi's 5th weapon
+CEAD2576 BCA9DBA6
+
+1st slot: Graphic is Kimarhi's 6th weapon
+CEAD2576 BCA9DBA7
+
+1st slot: Graphic is Wakka's 1st weapon
+CEAD2576 BCA9DBAC
+
+1st slot: Graphic is Wakka's 2nd weapon
+CEAD2576 BCA9DBAD
+
+1st slot: Graphic is Wakka's 3rd weapon
+CEAD2576 BCA9DBAE
+
+1st slot: Graphic is Wakka's 4th weapon
+CEAD2576 BCA9DBAF
+
+1st slot: Graphic is Wakka's 5th weapon
+CEAD2576 BCA9DBB0
+
+1st slot: Graphic is Wakka's 6th weapon
+CEAD2576 BCA9DBB0
+
+1st slot: Graphic is Lulu's 1st weapon
+CEAD2576 BCA9DBB6
+
+1st slot: Graphic is Lulu's 2nd weapon
+CEAD2576 BCA9DBB7
+
+1st slot: Graphic is Lulu's 3rd weapon
+CEAD2576 BCA9DBB8
+
+1st slot: Graphic is Lulu's 4rth weapon
+CEAD2576 BCA9DBB9
+
+1st slot: Graphic is Lulu's 5th weapon
+CEAD2576 BCA9DBBA
+
+1st slot: Graphic is Lulu's 7th weapon
+CEAD2576 BCA9DBBB
+
+1st slot 1st ability: Have sensor
+CEAD2570 BCA91B83
+
+1st slot 1st ability: First strike
+CEAD2570 BCA91B84
+
+1st slot 1st ability: Initiative
+CEAD2570 BCA91B85
+
+1st slot 1st ability: Counter attack
+CEAD2570 BCA91B86
+
+1st slot 1st ability: Evade and counter
+CEAD2570 BCA91B87
+
+1st slot 1st ability: Magic counter
+CEAD2570 BCA91B88
+
+1st slot 1st ability: Magic booster
+CEAD2570 BCA91B89
+
+1st slot 1st ability: Alchemy
+CEAD2570 BCA91B8A
+
+1st slot 1st ability: Auto potion
+CEAD2570 BCA91B8B
+
+1st slot 1st ability: Auto-med
+CEAD2570 BCA91B8C
+
+1st slot 1st ability: Auto-phoenix
+CEAD2570 BCA91B8D
+
+1st slot 1st ability: Piercing
+CEAD2570 BCA91B8E
+
+1st slot 1st ability: Half mp cost
+CEAD2570 BCA91B8F
+
+1st slot 1st ability: One mp cost
+CEAD2570 BCA91B90
+
+1st slot 1st ability: Double overdrive
+CEAD2570 BCA91B91
+
+1st slot 1st ability: Triple overdrive
+CEAD2570 BCA91B92
+
+1st slot 1st ability: SOS overdrive
+CEAD2570 BCA91B93
+
+1st slot 1st ability: Overdrive AP
+CEAD2570 BCA91B94
+
+1st slot 1st ability: Double AP
+CEAD2570 BCA91B95
+
+1st slot 1st ability: Triple AP
+CEAD2570 BCA91B96
+
+1st slot 1st ability: No AP
+CEAD2570 BCA91B97
+
+1st slot 1st ability: Pickpocket
+CEAD2570 BCA91B98
+
+1st slot 1st ability: Master thief
+CEAD2570 BCA91B99
+
+1st slot 1st ability: Break hp limit
+CEAD2570 BCA91B9A
+
+1st slot 1st ability: Break mp limit
+CEAD2570 BCA91B9B
+
+1st slot 1st ability: Break damage limit
+CEAD2570 BCA91B9C
+
+1st slot 1st ability: Gillionaire
+CEAD2570 BCA91B9D
+
+1st slot 1st ability: Hp stroll
+CEAD2570 BCA91B9E
+
+1st slot 1st ability: Mp stroll
+CEAD2570 BCA91B9F
+
+1st slot 1st ability: No encounters
+CEAD2570 BCA91BA0
+
+1st slot 1st ability: Firestrike
+CEAD2570 BCA91BA1
+
+1st slot 1st ability: Fireward
+CEAD2570 BCA91BA2
+
+1st slot 1st ability: Fireproof
+CEAD2570 BCA91BA3
+
+1st slot 1st ability: Fire eater
+CEAD2570 BCA91BA4
+
+1st slot 1st ability: Icestrike
+CEAD2570 BCA91BA5
+
+1st slot 1st ability: Ice ward
+CEAD2570 BCA91BA6
+
+1st slot 1st ability: Ice proof
+CEAD2570 BCA91BA7
+
+1st slot 1st ability: Ice eater
+CEAD2570 BCA91BA8
+
+1st slot 1st ability: Lightstrike
+CEAD2570 BCA91BA9
+
+1st slot 1st ability: Lightward
+CEAD2570 BCA91BAA
+
+1st slot 1st ability: Lightproof
+CEAD2570 BCA91BAB
+
+1st slot 1st ability: Lighteater
+CEAD2570 BCA91BAC
+
+1st slot 1st ability: Waterstrike
+CEAD2570 BCA91BAD
+
+1st slot 1st ability: Waterward
+CEAD2570 BCA91BAE
+
+1st slot 1st ability: Waterproof
+CEAD2570 BCA91BAF
+
+1st slot 1st ability: Watereater
+CEAD2570 BCA91BB0
+
+1st slot 1st ability: Deathstrike
+CEAD2570 BCA91BB1
+
+1st slot 1st ability: Deathtouch
+CEAD2570 BCA91BB2
+
+1st slot 1st ability: Deathproof
+CEAD2570 BCA91BB3
+
+1st slot 1st ability: Deathward
+CEAD2570 BCA91BB4
+
+1st slot 1st ability: Zombiestrike
+CEAD2570 BCA91BB5
+
+1st slot 1st ability: Zombietouch
+CEAD2570 BCA91BB6
+
+1st slot 1st ability: Zombieproof
+CEAD2570 BCA91BB7
+
+1st slot 1st ability: Zombieward
+CEAD2570 BCA91BB8
+
+1st slot 1st ability: Stonestrike
+CEAD2570 BCA91BB9
+
+1st slot 1st ability: Stonetouch
+CEAD2570 BCA91BBA
+
+1st slot 1st ability: Stoneproof
+CEAD2570 BCA91BBB
+
+1st slot 1st ability: Stoneward
+CEAD2570 BCA91BBC
+
+1st slot 1st ability: Poisonstrike
+CEAD2570 BCA91BBD
+
+1st slot 1st ability: Poisontouch
+CEAD2570 BCA91BBE
+
+1st slot 1st ability: Poisonproof
+CEAD2570 BCA91BBF
+
+1st slot 1st ability: Poisonward
+CEAD2570 BCA91BC0
+
+1st slot 1st ability: Sleepstrike
+CEAD2570 BCA91BC1
+
+1st slot 1st ability: Sleeptouch
+CEAD2570 BCA91BC2
+
+1st slot 1st ability: Sleeppro

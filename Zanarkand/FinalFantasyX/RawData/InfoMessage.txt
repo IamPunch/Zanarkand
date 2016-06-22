@@ -1,0 +1,142 @@
+ -
+ -
+ 0Preemptive strike!
+ -
+ 0Ambushed!
+ -
+ -
+ 0Stole 0!
+ -
+ 0Stole 0 x1!
+ -
+ 0Couldn't steal anything.
+ -
+ 0Nothing to steal.
+ -
+ -
+ 00 captured!
+ -
+ 00 capture limit already reached.
+ -
+ 00 cannot be captured.
+ -
+ 00 has learned 1!
+ -
+ 0Out of range!
+ -
+ 00 has learned Overdrive mode 1!
+ -
+ 0Press 1 at the right time!
+ -
+ 0Enter the commands in time!
+ -
+ 0Rotate the right stick round and round!
+ -
+ 0Stop the reels with 1!
+ -
+ 0How much?
+ -
+ 0Gil left:
+ -
+ 0Copycat failed!
+ -
+ 0Mix failed!
+ -
+ 0Stole 0 gil!
+ -
+ 0Couldn't steal any gil!
+ -
+ 0Out of gil!
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -

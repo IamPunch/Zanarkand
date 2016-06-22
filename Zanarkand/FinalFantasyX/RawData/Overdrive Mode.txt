@@ -1,0 +1,78 @@
+ Warrior
+ 
+ Charges when character damages enemy.
+ -
+ Comrade
+ 
+ Charges when allies take damage.
+ -
+ Stoic
+ 
+ Charges when character takes damage.
+ -
+ Healer
+ 
+ Charges when character heals allies.
+ -
+ Tactician
+ 
+ Charges when status attack succeeds.
+ -
+ Victim
+ 
+ Charges when character hit with status attack.
+ -
+ Dancer
+ 
+ Charges when character evades attack.
+ -
+ Avenger
+ 
+ Charges when allies are KO'd.
+ -
+ Slayer
+ 
+ Charges when character defeats an enemy.
+ -
+ Hero
+ 
+ Charges when character defeats powerful enemy.
+ -
+ Rook
+ 
+ Charges when character magically blocks attack.
+ -
+ Victor
+ 
+ Charges when party wins a battle.
+ -
+ Coward
+ 
+ Charges when character flees from battle.
+ -
+ Ally
+ 
+ Charges on character's turn.
+ -
+ Sufferer
+ 
+ Charges while character suffers status ailments.
+ -
+ Daredevil
+ 
+ Charges while character fights with low HP.
+ -
+ Loner
+ 
+ Charges when character fights alone.
+ -
+ 
+ -
+ 
+ -
+ Aeons Only
+ 
+ -
+ Boss
+ 
+ -

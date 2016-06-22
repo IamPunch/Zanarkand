@@ -1,0 +1,2103 @@
+
+ Warrior / Comrade
+
+ Stoic / Healer
+
+ Tactician / Victim
+
+ Dancer / Avenger
+
+ Slayer / Hero
+
+ Rook / Victor
+
+ Coward / Ally
+
+ Sufferer / Daredevil
+
+ Loner
+
+ Auto-Abilities: Page 1 of 8
+
+ Auto-Abilities: Page 1 of 8
+
+ Auto-Abilities: Page 2 of 8
+
+ Auto-Abilities: Page 2 of 8
+
+ Auto-Abilities: Page 3 of 8
+
+ Auto-Abilities: Page 3 of 8
+
+ Auto-Abilities: Page 4 of 8
+
+ Auto-Abilities: Page 4 of 8
+
+ Auto-Abilities: Page 5 of 8
+
+ Auto-Abilities: Page 5 of 8
+
+ Auto-Abilities: Page 6 of 8
+
+ Auto-Abilities: Page 6 of 8
+
+ Auto-Abilities: Page 7 of 8
+
+ Auto-Abilities: Page 7 of 8
+
+ Auto-Abilities: Page 8 of 8
+
+ Auto-Abilities: Page 8 of 8
+
+ Sensor / Piercing
+
+ First Strike / Initiative
+
+ Firestrike / Fire Ward
+
+ Fireproof / Fire Eater
+
+ Lightningstrike / Lightning Ward
+
+ Lightningproof / Lightning Eater
+
+ Waterstrike / Water Ward
+
+ Waterproof / Water Eater
+
+ Icestrike / Ice Ward
+
+ Iceproof / Ice Eater
+
+ Darktouch / Darkstrike
+
+ Dark Ward / Darkproof
+
+ Silencetouch / Silencestrike
+
+ Silence Ward / Silenceproof
+
+ Sleeptouch / Sleepstrike
+
+ Sleep Ward / Sleepproof
+
+ Poisontouch / Poisonstrike
+
+ Poison Ward / Poisonproof
+
+ Stonetouch / Stonestrike
+
+ Stone Ward / Stoneproof
+
+ Deathtouch / Deathstrike
+
+ Death Ward / Deathproof
+
+ Zombietouch / Zombiestrike
+
+ Zombie Ward / Zombieproof
+
+ Slowtouch / Slowstrike
+
+ Slow Ward / Slowproof
+
+ Confuse Ward / Confuseproof
+
+ Berserk Ward / Berserkproof
+
+ Curseproof
+
+ SOS NulBlaze / SOS NulShock
+
+ SOS NulTide / SOS NulFrost
+
+ SOS Shell / SOS Protect
+
+ SOS Reflect / SOS Haste
+
+ SOS Regen / Auto-Reflect
+
+ Strength +3% / +5% / +10% / +20%
+
+ Magic +3% / +5% / +10% / +20%
+
+ Defense +3% / +5% / +10% / +20%
+
+ Magic Def +3% / +5% / +10% / +20%
+
+ HP +5% / +10% / +20% / +30%
+
+ MP +5% / +10% / +20% / +30%
+
+ Counter-Attack / Evade & Counter
+
+ Magic Counter / Magic Booster
+
+ Auto-Potion / Auto-Med
+
+ Auto-Phoenix / Alchemy
+
+ Half MP Cost / One MP Cost
+
+ Double AP / Triple AP
+
+ Overdrive ? AP / SOS Overdrive
+
+ Double Overdrive / Triple Overdrive / Gillionaire
+
+ Pickpocket / Master Thief
+
+ HP Stroll / MP Stroll / No Encounters
+
+ Break HP Limit / Break MP Limit
+
+ Break Damage Limit / Capture
+
+ Auto-Shell / Auto-Protect
+
+ Auto-Haste / Auto-Regen
+
+ Sensor
+
+ Piercing
+
+ First Strike
+
+ Initiative
+
+ Firestrike
+
+ Fire Ward
+
+ Fireproof
+
+ Fire Eater
+
+ Lightningstrike
+
+ Lightning Ward
+
+ Lightningproof
+
+ Lightning Eater
+
+ Waterstrike
+
+ Water Ward
+
+ Waterproof
+
+ Water Eater
+
+ Icestrike
+
+ Ice Ward
+
+ Iceproof
+
+ Ice Eater
+
+ Darktouch
+
+ Darkstrike
+
+ Dark Ward
+
+ Darkproof
+
+ Silencetouch
+
+ Silencestrike
+
+ Silence Ward
+
+ Silenceproof
+
+ Sleeptouch
+
+ Sleepstrike
+
+ Sleep Ward
+
+ Sleepproof
+
+ Poisontouch
+
+ Poisonstrike
+
+ Poison Ward
+
+ Poisonproof
+
+ Stonetouch
+
+ Stonestrike
+
+ Stone Ward
+
+ Stoneproof
+
+ Deathtouch
+
+ Deathstrike
+
+ Death Ward
+
+ Deathproof
+
+ Zombietouch
+
+ Zombiestrike
+
+ Zombie Ward
+
+ Zombieproof
+
+ Slowtouch
+
+ Slowstrike
+
+ Slow Ward
+
+ Slowproof
+
+ Confuse Ward
+
+ Confuseproof
+
+ Berserk Ward
+
+ Berserkproof
+
+ Curse Ward
+
+ Curseproof
+
+ SOS NulBlaze
+
+ SOS NulShock
+
+ SOS NulTide
+
+ SOS NulFrost
+
+ SOS Shell
+
+ SOS Protect
+
+ SOS Reflect
+
+ SOS Haste
+
+ SOS Regen
+
+ Strength +3% / +5% / +10% / +20%
+
+ Magic +3% / +5% / +10% / +20%
+
+ Defense +3% / +5% / +10% / +20%
+
+ Magic Def +3% / +5% / +10% / +20%
+
+ HP +5% / +10% / +20% / +30%
+
+ MP +5% / +10% / +20% / +30%
+
+ Counter-Attack
+
+ Evade & Counter
+
+ Magic Counter
+
+ Magic Booster
+
+ Auto-Potion
+
+ Auto-Med
+
+ Auto-Phoenix
+
+ Alchemy
+
+ Half MP Cost
+
+ One MP Cost
+
+ Double AP / Triple AP
+
+ No AP
+
+ Overdrive ? AP
+
+ SOS Overdrive
+
+ Double Overdrive / Triple Overdrive
+
+ Gillionaire
+
+ Pickpocket
+
+ Master Thief
+
+ HP Stroll / MP Stroll
+
+ No Encounters
+
+ Break HP Limit
+
+ Break MP Limit
+
+ Break Damage Limit
+
+ Capture
+
+ Auto-Shell
+
+ Auto-Protect
+
+ Auto-Haste
+
+ Auto-Regen
+
+ Auto-Reflect
+
+ Displays data about the character's current
+target, such as HP, elemental affinities,
+status ailments, and immunities.
+
+
+
+
+
+ Allows the wielder to damage armored' enemies
+normally.
+
+
+
+
+ Lets the wielder act first at the beginning of
+a battle.
+
+
+
+
+ Increases the probability of pre-emptive
+strikes and lowers the probability of being
+ambushed if wielded by one of the three
+characters on the front line.
+
+
+
+
+ Adds fire element to attacks and skills.
+
+
+
+
+
+ Halves damage from fire attacks and magic.
+
+
+
+
+
+ Grants immunity to fire damage.
+
+
+
+
+
+ Converts fire damage to HP.
+
+
+
+
+
+ Adds lightning element to attacks and skills.
+
+
+
+
+
+ Halves damage from lightning attacks and
+magic.
+
+
+
+
+ Grants immunity to lightning damage.
+
+
+
+
+
+ Converts lightning damage to HP.
+
+
+
+
+
+ Adds water element to attacks and skills.
+
+
+
+
+
+ Halves damage from water attacks and magic.
+
+
+
+
+
+ Grants immunity to water damage.
+
+
+
+
+
+ Converts water damage to HP.
+
+
+
+
+
+ Adds ice element to attacks and skills.
+
+
+
+
+
+ Halves damage from ice attacks and magic.
+
+
+
+
+
+ Grants immunity to ice damage.
+
+
+
+
+
+ Converts ice damage to HP.
+
+
+
+
+
+ Sometimes adds darkness' to attacks and
+skills.
+
+
+
+
+ Almost always adds darkness' to attacks and
+skills.
+
+
+
+ Helps prevent darkness'.
+Characters afflicted with darkness are
+unable to strike enemies accurately.
+
+
+
+ Grants almost complete immunity
+to darkness'.
+
+
+
+
+ Sometimes adds silence' to attacks and skills.
+
+
+
+
+
+ Almost always adds silence' to attacks and
+skills.
+
+
+
+ Helps prevent silence'.
+Silenced characters cannot cast spells.
+
+
+
+
+ Grants almost complete immunity to silence'.
+
+
+
+
+
+ Sometimes adds sleep' to attacks and skills.
+
+
+
+
+
+ Almost always adds sleep' to attacks and
+skills.
+
+
+
+ Helps prevent sleep'.
+Sleeping characters cannot act until
+awakened.
+
+
+
+ Grants almost complete immunity to sleep'.
+
+
+
+
+
+ Sometimes adds poison' to attacks and skills.
+
+
+
+
+
+ Almost always adds poison' to attacks and
+skills.
+
+
+
+ Helps prevent poison'.
+A character afflicted with poison loses
+1/4 of his maximum HP after each turn.
+
+
+
+ Grants almost complete immunity to poison'.
+
+
+
+
+
+ Sometimes adds petrification' to attacks and
+skills.
+
+
+
+
+ Almost always adds petrification' to attacks
+and skills.
+
+
+
+
+ Helps prevent petrification'.
+Petrified characters cannot act until the
+battle ends or the petrification is cured.
+
+
+
+ Grants almost complete immunity to
+petrification'.
+
+
+
+
+ Sometimes adds death' to attacks and skills.
+
+
+
+
+
+ Almost always adds death' to attacks and
+skills.
+
+
+
+
+ Helps prevent death'.
+Death will instantly KO characters unless
+they're protected.
+
+
+
+ Grants almost complete immunity to death'.
+
+
+
+
+
+ Sometimes adds zombie' to attacks and skills.
+
+
+
+
+
+ Almost always adds zombie' to attacks and
+skills.
+
+
+
+ Helps prevent zombification'.
+Zombified characters take damage from
+healing spells and items.
+
+
+
+ Grants almost complete immunity to
+zombification'.
+
+
+
+
+ Sometimes adds slow' to attacks and skills.
+
+
+
+
+
+ Almost always adds slow' to attacks and
+skills.
+
+
+
+ Helps prevent slow'.
+Slowed characters cannot act as often as 
+usual.
+
+
+
+ Grants almost complete immunity to slow'.
+
+
+
+
+
+
+ Helps prevent confusion'.
+Confused characters will keep attacking allies
+until the confusion is cured or wears off.
+
+
+ Grants almost complete immunity to
+confusion'.
+
+
+
+
+ Helps prevent berserk'.
+Berserk characters will attack enemies
+relentlessly until they are cured or KO'd.
+
+
+ Grants almost complete immunity to berserk'.
+
+
+
+
+
+ Helps prevent curse'.
+
+
+
+
+
+ Grants almost complete immunity
+to curse'. Cursed characters cannot use
+Overdrives, and their Overdrive gauges
+freeze.
+
+
+
+
+ Blocks fire damage by casting NulBlaze on the
+wearer whenever his or her HP falls below
+half. Once cast, NulBlaze remains in effect
+until the wearer's HP climbs above half again.
+
+
+ Blocks lightning damage by casting NulShock on
+the wearer whenever his or her HP falls below
+half. Once cast, NulShock remains in effect
+until the wearer's HP climbs above half again.
+
+
+ Blocks water damage by casting NulTide on
+the wearer whenever his or her HP falls below
+half. Once cast, NulTide remains in effect
+until the wearer's HP climbs above half again.
+
+
+ Blocks ice damage by casting NulFrost on the
+wearer whenever his or her HP falls below
+half. Once cast, NulFrost remains in effect
+until the wearer's HP climbs above half again.
+
+
+ Enhances Magic Defense by casting Shell
+on the wearer whenever his or her HP
+falls below half. The effect lasts until
+the wearer's HP climbs above half again.
+
+
+ Enhances Defense by casting Protect on
+the wearer whenever his or her HP falls
+below half. The effect lasts until the
+wearer's HP climbs above half again.
+
+
+ Bounces spells away from the wearer by
+casting Reflect whenever his or her HP
+falls below half. The effect lasts until
+the wearer's HP climbs above half again.
+
+
+ Accelerates the wearer by casting
+Haste whenever his or her HP falls
+below half. The effect lasts until the
+wearer's HP climbs above half again.
+
+
+ Gradually restores the wearer's HP by
+casting Regen whenever his or her HP
+falls below half. The effect lasts until
+the wearer's HP climbs above half again.
+
+
+ Increases the damage output of physical
+attacks by the percentage displayed. The
+benefits are cumulative, so a weapon with
+Strength +3% and Strength +5% would inflict
+8% more damage than usual.
+
+ Increases the effectiveness of both black
+and white magic. The benefits are cumulative,
+so a weapon with Magic +3% and Magic +5%
+would make the wielder's spells 8% more
+effective than usual.
+
+ Reduces the damage inflicted on the wielder
+by physical attacks. The benefits are
+cumulative, so a character wearing armor
+with Defense +3% and Defense +5% would
+take 8% less physical damage than usual.
+
+ Reduces the damage inflicted on the wielder
+by magic attacks. The benefits are cumulative,
+so a character wearing armor with
+Magic Def +3% and Magic Def +5% would take
+8% less magical damage than usual.
+
+ Increases the wearer's maximum HP. The
+benefits are cumulative, so armor with
+HP +5% and HP +10% would boost its wearer's
+maximum HP by 15% as long as it is worn.
+
+
+ Increases the wearer's maximum MP. The
+benefits are cumulative, so armor with
+MP +5% and MP +10% would boost its wearer's
+maximum MP by 15% as long as it is worn.
+
+
+ Makes the character automatically retaliate
+whenever he is physically attacked.
+
+
+
+
+ Makes the character automatically evade
+physical attacks whenever possible, and then
+retaliate.
+
+
+
+ Makes the character automatically retaliate
+whenever he is attacked with magic.
+
+
+
+
+ Increases the effectiveness of all black and
+white magic by spending more MP.
+
+
+
+
+ Makes the character automatically use healing
+items after losing more than half of his
+maximum HP. Characters use Potions first,
+then Hi-Potions, and finally X-Potions, until all
+restorative items are used up.
+
+ Makes the character automatically cure his
+own status ailments with the corresponding
+item, like Antidotes for poison and Eye Drops
+for darkness. Characters will use Remedies if
+they lack the corresponding item. If no
+suitable items are in stock, nothing happens.
+ Makes the character automatically revive
+KO'd allies with Phoenix Downs. Only works
+when Phoenix Downs are in stock. Does not
+automatically revive the user of this ability
+himself.
+
+ Doubles the amount of HP and MP that healing
+items restore. Works well with Auto-Potion.
+
+
+
+
+ Reduces the MP cost of all abilities by half.
+Effective only during battles.
+
+
+
+
+ Reduces the MP cost of all abilities to one.
+Effective only during battles.
+
+
+
+
+ Doubles or triples the amount of AP earned
+for each enemy defeated while the wielder
+is present in battle.
+
+
+
+ Causes the character to earn no AP after
+each battle.
+
+
+
+
+ Suppresses the Overdrive gauge in exchange
+for more AP. Although the Overdrive gauge
+stops charging, Overdrives are still usable
+if the gauge happens to be full.
+
+
+
+ Doubles the charge rate of the wielder's
+Overdrive gauge whenever his or her HP
+falls below half. This effect lasts until
+the wielder's HP climbs above half again.
+
+
+ Makes the character's Overdrive gauge
+charge at double or triple normal speed.
+
+
+
+
+ Doubles the amount of Gil received after
+each battle. Only works if a character
+with this ability has participated in battle.
+
+
+
+ Improves the character's chances of
+stealing rare items from enemies.
+
+
+
+
+ Allows the character to steal only
+rare items from enemies.
+
+
+
+
+ Gradually restores the character's HP or MP
+as he moves around.
+
+
+
+
+ Prevents most random enemy encounters.
+
+
+
+
+
+ Allows the character's HP to exceed
+9,999 as long as the armor with
+this ability is worn.
+
+
+
+ Allows the character's MP to exceed
+999 as long as the armor with
+this ability is worn.
+
+
+
+ Allows the character to inflict more
+than 9,999 points of physical or
+magical damage as long as the weapon
+with this ability is wielded.
+
+
+ Captures enemies when dealing the
+finishing blow. Some enemies cannot be
+captured.
+
+
+
+ Raises the character's Magic Defense by
+automatically casting Shell' each battle.
+
+
+
+
+ Raises the character's Defense by
+automatically casting Protect' each battle.
+
+
+
+
+ Accelerates the character by
+automatically casting Haste' each battle.
+
+
+
+
+ Gradually restores the character's HP
+by casting Regen' each battle.
+
+
+
+
+ Deflects spells cast on the character by
+generating a constant Reflect effect in
+battle.
+
+
+
+ Command Abilities: Page 1 of 6
+
+ Command Abilities: Page 1 of 6
+
+ Command Abilities: Page 2 of 6
+
+ Command Abilities: Page 2 of 6
+
+ Command Abilities: Page 3 of 6
+
+ Command Abilities: Page 3 of 6
+
+ Command Abilities: Page 4 of 6
+
+ Command Abilities: Page 4 of 6
+
+ Command Abilities: Page 5 of 6
+
+ Command Abilities: Page 5 of 6
+
+ Command Abilities: Page 6 of 6
+
+ Command Abilities: Page 6 of 6
+
+ Dark Attack / Dark Buster
+
+ Silence Attack / Silence Buster
+
+ Sleep Attack / Sleep Buster
+
+ Delay Attack / Delay Buster
+
+ Zombie Attack / Triple Foul
+
+ Power Break / Magic Break
+
+ Armor Break / Mental Break
+
+ Mug / Quick Hit
+
+ Steal / Use
+
+ Flee / Pray
+
+ Cheer / Aim
+
+ Focus / Reflex
+
+ Luck / Jinx
+
+ Lancet
+
+ Guard / Sentinel
+
+ Spare Change / Threaten
+
+ Provoke / Entrust
+
+ Copycat / Doublecast
+
+ Bribe
+
+ Cure / Cura / Curaga
+
+ Esuna / Scan
+
+ NulBlaze / NulShock
+
+ NulTide / NulFrost
+
+ Life / Full-Life
+
+ Haste / Hastega
+
+ Slow / Slowga
+
+ Shell / Protect
+
+ Reflect / Dispel
+
+ Regen / Holy
+
+ Auto-Life
+
+ Fire / Fira / Firaga
+
+ Thunder / Thundara / Thundaga
+
+ Water / Watera / Waterga
+
+ Blizzard / Blizzara / Blizzaga
+
+ Bio / Demi
+
+ Death / Drain
+
+ Osmose / Flare
+
+ Ultima
+
+ Dark Attack
+
+ Dark Buster
+
+ Silence Attack
+
+ Silence Buster
+
+ Sleep Attack
+
+ Sleep Buster
+
+ Delay Attack
+
+ Delay Buster
+
+ Zombie Attack
+
+ Triple Foul
+
+ Power Break
+
+ Magic Break
+
+ Armor Break
+
+ Mental Break
+
+ Mug
+
+ Quick Hit
+
+ Steal
+
+ Use
+
+ Flee
+
+ Pray
+
+ Cheer
+
+ Aim
+
+ Focus
+
+ Reflex
+
+ Luck
+
+ Jinx
+
+ Lancet
+
+ Defend
+
+ Guard
+
+ Sentinel
+
+ Spare Change
+
+ Threaten
+
+ Provoke
+
+ Entrust
+
+ Copycat
+
+ Doublecast
+
+ Bribe
+
+ Cure / Cura / Curaga
+
+ Esuna
+
+ Scan
+
+ NulBlaze
+
+ NulShock
+
+ NulTide
+
+ NulFrost
+
+ Life
+
+ Full-Life
+
+ Haste
+
+ Hastega
+
+ Slow
+
+ Slowga
+
+ Shell
+
+ Protect
+
+ Reflect
+
+ Dispel
+
+ Regen
+
+ Holy
+
+ Auto-Life
+
+ Fire / Fira / Firaga
+
+ Thunder / Thundara / Thundaga
+
+ Water / Watera / Waterga
+
+ Blizzard / Blizzara / Blizzaga
+
+ Bio
+
+ Demi
+
+ Death
+
+ Drain
+
+ Osmose
+
+ Flare
+
+ Ultima
+
+ Skill, 5 MP
+
+If successful, this ability inflicts darkness'
+on the target for three turns, greatly
+reducing the accuracy of its physical attacks.
+
+ Skill, 10 MP
+
+Inflicts darkness' on a target for one turn.
+Success is virtually guaranteed, unless
+the target has some form of resistance.
+
+ Skill, 5 MP
+
+If successful, this ability inflicts silence'
+on the target for three turns, preventing
+it from casting any spells.
+
+ Skill, 10 MP
+
+Inflicts silence' on a target for one turn.
+Success is virtually guaranteed, unless
+the target has some form of resistance.
+
+ Skill, 5 MP
+
+If successful, this ability puts the target
+to sleep' until either three turns pass or
+it is hit by a physical attack.
+
+ Skill, 10 MP
+
+Puts a target to sleep' for one turn.
+Success is virtually guaranteed, unless
+the target has some form of resistance.
+
+ Skill, 8 MP
+
+Slightly delays the target's next turn.
+
+
+
+ Skill, 18 MP
+
+Greatly delays the target's next turn.
+
+
+
+ Skill, 10 MP
+
+Inflicts the target with zombie' status,
+causing restorative spells and items to
+damage the target.
+
+ Skill, 24 MP
+
+If successful, this ability inflicts silence',
+darkness', and sleep' status ailments on the
+target for three turns.
+
+ Skill, 8 MP
+
+Lowers the target's Strength, thereby
+reducing the damage inflicted by its
+physical attacks.
+
+ Skill, 8 MP
+
+Lowers the target's Magic, thereby reducing
+the damage inflicted by its magic attacks.
+
+
+ Skill, 12 MP
+
+Lowers the target's Defense, leaving it
+vulnerable to greater physical damage.
+Also negates the target's armor', allowing
+non-piercing weapons to deal normal damage.
+ Skill, 12 MP
+
+Lowers the target's Magic Defense, leaving it
+vulnerable to greater magical damage.
+
+
+ Skill, 10 MP
+
+Steal items from an enemy while simultaneously
+unleashing a physical attack.
+
+
+ Skill, 36 MP
+
+Strike a target quickly with reduced recovery
+time. The damage inflicted is no greater than
+that of a standard attack, but the character's
+next turn comes up much sooner.
+ Special, No MP cost
+
+Steal items from an enemy.
+Also useful for destroying machina by
+dismantling their vital parts.
+
+ Special, No MP cost
+
+Use powerful offensive, defensive,
+or healing items in stock.
+
+
+ Special, No MP cost
+
+Aid the party's escape from battle.
+
+
+
+ Special, No MP cost
+
+Restores some of the party's HP.
+
+
+
+ Special, No MP cost
+
+Raises the party's Strength and Defense.
+Party members deal greater damage to enemies
+while sustaining less damage themselves.
+
+ Special, No MP cost
+
+Raises the party's Accuracy.
+
+
+
+ Special, No MP cost
+
+Raises the party's Magic and Magic Defense.
+Party members deal greater magical damage
+to enemies while sustaining less damage
+themselves.
+ Special, No MP cost
+
+Raises the party's Evasion.
+
+
+
+ Special, No MP cost
+
+Raises the party's Luck, thereby enhancing the
+party's Accuracy, Evasion, and critical hit rate.
+
+
+ Special, No MP cost
+
+Lowers all enemies' Luck, thereby reducing
+their Accuracy, Evasion, and critical hit rate.
+
+
+ Special, No MP cost
+
+Transfers HP and MP from the target to the
+character. Kimahri can also use this ability
+to learn enemy skills.
+
+ Special, No MP cost
+
+Intercept physical attacks that are directed at
+any party member, and take damage in place of
+the intended target. Cannot intercept magic
+attacks or attacks that strike the entire party.
+ Special, No MP cost
+
+While maintaining a defensive stance, intercept
+physical attacks that are directed at any party
+member. Cannot intercept magic attacks or
+attacks that strike the entire party.
+ Special, No MP cost
+
+Attack by throwing gil. The damage inflicted
+is proportional to the amount thrown.
+
+
+ Special, 12 MP
+
+Immobilizes the target with fear.
+
+
+
+ Special, 4 MP
+
+Draws the target's attacks towards
+the character.
+
+
+ Special, 8 MP
+
+Transfers the character's entire Overdrive
+charge to an ally's gauge.
+
+
+ Special, 28 MP
+
+Mimic the action of the last ally to take a turn
+in battle, even if it requires an ability the
+character has not yet learned.
+Summoning and Overdrives cannot be copied.
+ Special, No MP cost
+
+Cast two black magic spells in a row.
+
+
+
+ Special, No MP cost
+
+Pay off enemies in return for safe passage.
+Offer more gil for a more favorable response.
+
+
+ White Magic, 4 MP / 10 MP / 20 MP
+
+Restores the target's HP. There are three
+levels of potency. Cure restores a small
+amount of HP, Cura a substantial amount
+of HP, and Curaga a massive amount of HP.
+The caster's Magic attribute influences
+the strength of all three spells.
+ White Magic, 5 MP
+
+Cures the target's status ailments.
+Removes poison, darkness, silence, sleep,
+petrification, confusion, berserk, and slow.
+Ineffective against zombie, curse, Doom, and KO.
+
+ White Magic, 1 MP
+
+Displays key information about the target,
+such as its HP, attributes, immunities,
+weaknesses, and methods of attack.
+
+ White Magic, 2 MP
+
+Grants each party member immunity from one
+fire attack. Nullifies fire-based physical
+attacks as well as spells like Fira.
+
+
+ White Magic, 2 MP
+
+Grants each party member immunity from one
+lightning attack. Nullifies lightning-based
+physical attacks as well as spells like Thundara.
+
+ White Magic, 2 MP
+
+Grants each party member immunity from one
+water attack. Nullifies water-based physical
+attacks as well as spells like Watera.
+
+
+ White Magic, 2 MP
+
+Grants each party member immunity from one
+ice attack. Nullifies ice-based physical
+attacks as well as spells like Blizzara.
+
+ White Magic, 18 MP
+
+Revives a KO'd ally.
+
+
+
+ White Magic, 60 MP
+
+Revives a KO'd ally and restores his HP
+to maximum.
+
+
+ White Magic, 8 MP
+
+Accelerates the target so that his turns in
+battle come up sooner than normal.
+
+
+
+ White Magic, 30 MP
+
+Accelerates the entire party so that all
+members' turns in battle come up sooner
+than normal.
+
+ White Magic, 12 MP
+
+Slows the target down.
+
+
+
+ White Magic, 20 MP
+
+Slows all enemies down.
+
+
+
+ White Magic, 10 MP
+
+Helps the target better withstand magic
+attacks by raising his Magic Defense.
+
+
+
+ White Magic, 12 MP
+
+Protects the target from physical
+attacks by increasing his Defense.
+
+
+ White Magic, 14 MP
+
+Bounces spells cast at the target towards
+the enemy. Deflects both damaging and
+healing spells alike.
+
+
+ White Magic, 12 MP
+
+Negates any spell effects that are currently
+active on the target, such as Shell, Protect,
+Haste, and Reflect.
+
+ White Magic, 40 MP
+
+Gradually restores the target's HP for a time.
+
+
+
+
+ White Magic, 85 MP
+
+Deals holy damage to the target.
+
+
+
+ White Magic, 97 MP
+
+Automatically revives an ally the next time
+he is KO'd. The target will instantly awaken
+from KO with a small amount of HP.
+Effective only once per casting.
+
+ Black Magic, 4 MP / 8 MP / 16 MP
+
+Deals fire damage to the target. There are
+three levels of potency. Fire inflicts a
+relatively small amount of fire damage, Fira a
+more impressive amount of fire damage, and 
+Firaga a massive amount of fire damage.
+The caster's Magic attribute influences
+the strength of all three spells.
+
+ Black Magic, 4 MP / 8 MP / 16 MP
+
+Deals lightning damage to the target. There
+are three levels of potency. Thunder inflicts
+a relatively small amount of lightning damage,
+Thundara a more impressive amount of
+lightning damage, and Thundaga a massive
+amount of lightning damage.
+The caster's Magic attribute influences
+the strength of all three spells.
+
+ Black Magic, 4 MP / 8 MP / 16 MP
+
+Deals water damage to the target. There are
+three levels of potency. Water inflicts
+a relatively small amount of water damage,
+Watera a more impressive amount of water
+damage, and Waterga a massive amount of
+water damage.
+The caster's Magic attribute influences
+the strength of all three spells.
+
+ Black Magic, 4 MP / 8 MP / 16 MP
+
+Deals ice damage to the target. There are
+three levels of potency. Blizzard inflicts a
+relatively small amount of ice damage, Blizzara
+a more impressive amount of ice damage, and
+Blizzaga a massive amount of ice damage.
+The caster's Magic attribute influences
+the strength of all three spells.
+
+ Black Magic, 10 MP
+
+Poisons the target, which drains HP from it
+after every turn it takes in battle.
+
+
+
+ Black Magic, 32 MP
+
+Reduces the current HP of all enemies by 1/4.
+
+
+
+ Black Magic, 20 MP
+
+Can instantly KO the target.
+
+
+
+ Black Magic, 12 MP
+
+Transfers HP from the target to the caster.
+
+
+
+ Black Magic, No MP cost
+
+Transfers MP from the target to the caster.
+
+
+
+ Black Magic, 54 MP
+
+Deals non-elemental damage to the target.
+Works well on enemies that resist or
+absorb certain elements.
+
+ Black Magic, 90 MP
+
+Deals non-elemental damage to all enemies.
+Useful against enemies that resist or
+absorb certain elements.
+
+ 0
+ 4
+ 3
+ 1
+ 2
+ 5
+ 
+ 
+
+ 
+ ,
+ C? ? ?6
+ 
+
+  
+ 
+ 
+
+ 
+ y?
+ 
+ Overdrive Modes
+
+ Overdrive modes determine how each character's
+
+ Overdrive gauge charges up. For example, a Stoic'
+
+ charges up whenever enemies damage him, while a
+ Warrior' charges up each time he damages enemies,
+ and a Healer' charges up by healing allies.
+ All characters start out as Stoic, but learn new
+ modes depending on their actions in battle.
+ For example, a character who often restores
+ allies' HP will learn Healer.
+ 0's Overdrives
+
+ 4's Overdrives
+
+ 3's Overdrives
+
+ 1's Overdrives
+
+ 2's Overdrives
+
+ 5's Overdrives
+
+ 6's Overdrives
+
+ Swordplay
+
+  When activated, a cursor moves left and right while
+  the clock ticks down. Stop the cursor in the middle
+  with 1 for maximum damage.
+
+  Some Overdrives, like Spiral Cut', hit just one
+  enemy. Others, like Slice & Dice', hit all enemies.
+
+  Try to use each Overdrive to its fullest.
+
+ 
+
+ 
+
+ 
+
+ Slots
+
+  When activated, three reels start spinning while
+
+  the clock ticks down. Hit 1 to stop each reel.
+ Different combinations yield different results.
+
+  Element Reels'
+
+  Match up ice, fire, water, and lightning symbols.
+
+  A two of a kind fires an elemental shot at one enemy.
+
+  A three of a kind fires an elemental shot at all enemies.
+
+  Attack Reels'
+
+  Line up symbols for cumulative attacks.
+
+ 4 starts with Element Reels', and can learn up to
+three other Overdrives.
+
+ Ronso Rage
+
+  Learn enemy techniques with the Lancet' ability
+
+  and unleash them in battle.
+
+   Fire Breath' burns all enemies with fire damage.
+
+   Aqua Breath' deals water damage to all enemies.
+
+   White Wind' restores the party's HP.
+
+ 
+
+  Use Lancet on fiends to learn more.
+
+ 
+
+ 
+
+ Grand Summon
+
+  Summon an aeon with a fully charged Overdrive
+
+  gauge. After the aeon unleashes an Overdrive
+
+  attack, its gauge returns to the state it was in
+
+  prior to the Grand Summon. This means that a
+
+  fully charged aeon called by a Grand Summon
+
+  can unleash two consecutive Overdrives.
+
+  
+
+  
+
+ Bushido
+
+  Powerful techniques that require great concentration.
+
+  When activated, a series of commands appear.
+  Enter all commands before the time runs out
+  for maximum damage. If you mess up you'll have
+  to start over from the very beginning.
+
+ 
+
+  Some Overdrives, like Shooting Star', hit just one
+  enemy. Others, like Dragon Fang', hit all enemies.
+
+  Try to use each Overdrive to its fullest.
+
+ Fury
+
+  Smite all enemies with a barrage of black magic.
+
+   Fire Fury' unleashes Fire' on all enemies.
+
+   Thunder Fury' zaps all enemies with Thunder'.
+
+ 
+
+
+ 
+ Once the countdown begins, rotate the right
+
+ 
+ analog stick (or repeat inputting . ()
+
+ 
+ as fast as you can to increase the number
+
+ 
+ of spells cast at the enemy.
+
+ 
+
+ Mix
+
+  Combine two items from your inventory
+
+  for a myriad of uncanny effects. Some
+
+  outcomes are logical.
+
+  For example, mixing two Potions will
+
+  restore HP, and mixing two Bomb Fragments
+
+  will inflict fire damage.
+
+  Have fun creating your own combinations.
+
+  
+
+  
+
+ Warrior
+
+ Comrade
+
+ Stoic
+
+ Saint
+
+ Tactician
+
+ Victim
+
+ Dancer
+
+ Avenger
+
+ Slayer
+
+ Hero
+
+ Rook
+
+ Victor
+
+ Coward
+
+ Ally
+
+ Sufferer
+
+ Daredevil
+
+ Loner
+
+ Rise Gauge rises when damaging enemy.
+
+ Learn Number of times damaging enemy.
+
+ The gauge rises when the character damages the enemy.
+
+ Rise Gauge rises when allies receive damage.
+
+ Learn Number of times allies damaged.
+
+ The gauge rises when allies receive damage.
+
+ 
+
+ Rise Gauge rises when damaged.
+
+ Learn Number of times damaged.
+
+ The gauge rises when the character receives damage.
+
+ 
+
+ Rise Gauge rises when healing allies.
+
+ Learn Number of times healing allies.
+
+ The gauge rises when healing allies.
+
+ 
+
+ Rise Gauge rises when status attack successful.
+
+ Learn Number of successful status attacks.
+
+ The gauge rises when status attack is successful.
+
+ 
+
+ Rise Gauge rises when receiving status ailments.
+
+ Learn Number of times receiving status ailments
+
+ The gauge rises when receiving status ailments.
+
+ 
+
+ Rise Gauge rises when evading enemy attacks
+
+ Learn Number of enemy attacks evaded
+
+ The gauge rises when successfully evading enemy attacks.
+
+ 
+
+ Rise Guage rises when allies are KO'd
+
+ Learn Number of times allies KO'd
+
+ The gauge rises when allies are KO'd.
+
+ Only effective if allies are KO'd by enemy.
+
+ Rise Gauge rises when defeating enemy
+
+ Learn Number of enemies defeated
+
+ The gauge rises when defeating enemy.
+
+ 
+
+ Rise Gauge rises when defeating enemy with high HP
+
+ Learn Number of enemies with high HP defeated
+
+ The gauge rises when deafeating an enemy with high HP.
+
+ 
+
+ Rise Gauge rises when magically blocking attacks
+
+ Learn Number of successful blocks
+
+ The gauge rises when magically blocking enemy attacks.
+
+ 
+
+ Rise Gauge rises when victorious in battle
+
+ Learn Number of victories
+
+ The gauge rises when victorious in battle.
+
+ Must be in battle party at the end of battle.
+
+ Rise Gauge rises when fleeing from battle
+
+ Rise Number of battles fled
+
+ The gauge rises when successfully fleeing from battle.
+
+ 
+
+ Rise Gauge rises when turn comes
+
+ Learn Number of turns
+
+ The gauge rises when the character's turn comes in battle.
+
+ 
+
+ Rise Gauge rises when fighting with status ailments
+
+ Learn Number of turns with status ailments
+
+ The gauge rises when turn comes
+while fighting with status ailments.
+
+ 
+
+ ise Gauge rises when fighting with low HP
+
+ Learn Number of turns fought with low HP
+
+ The gauge rises when turn comes while fighting with low HP.
+
+ 
+
+ Rise Gauge rises when fighting alone
+
+ Learn Number of turns fighting alone
+
+ The gauge rises when turn comes
+while fighting alone.
+
+ 
+
+ Distill Power / Distill Mana
+
+ Distill Speed / Distill Ability
+
+ Ribbon
+
+ Distill Power
+
+ Distill Mana
+
+ Distill Speed
+
+ Distill Ability
+
+ Ribbon
+
+ Adds Power Distiller effect to attacks
+and skills.
+ Adds Mana Distiller effect to attacks
+and skills.
+ Adds Speed Distiller effect to attacks
+and skills.
+ Adds Ability Distiller effect to attacks
+and skills.
+ Grants almost complete immunity to
+all status ailments'.
+ Extract Power / Extract Mana
+
+ Extract Speed / Extract Ability
+
+ Full Break / Mug
+
+ Nab Gil / Quick Hit
+
+ Lancet / Guard
+
+ Sentinel / Spare Change
+
+ Threaten / Provoke
+
+ Entrust / Copycat
+
+ Pilfer Gil / Quick Pockets
+
+ Doublecast / Bribe
+
+ Extract Power
+
+ Extract Mana
+
+ Extract Speed
+
+ Extract Ability
+
+ Full Break
+
+ Nab Gil
+
+ Pilfer Gil
+
+ Quick Pockets
+
+ Skill, 1 MP
+
+Adds Power Distiller effect to attacks and
+skills. Like the item of the same name, this
+makes an enemy drop Power Spheres.
+
+ Skill, 1 MP
+
+Adds Mana Distiller effect to attacks and
+skills. Like the item of the same name, this
+makes an enemy drop Mana Spheres.
+
+ Skill, 1 MP
+
+Adds Speed Distiller effect to attacks and
+skills. Like the item of the same name, this
+makes an enemy drop Speed Spheres.
+
+ Skill, 1 MP
+
+Adds Ability Distiller effect to attacks and
+skills. Like the item of the same name, this
+makes an enemy drop Ability Spheres.
+ Skill, 99 MP
+
+Lowers the target's Strength, Defense, Magic,
+and Magic Defense. Also negates armor'.
+
+ Skill, 30 MP
+
+Steal gil from an enemy while simultaneously
+unleashing a physical attack.
+
+
+ Skill, 20 MP
+
+Steal gil from an enemy.
+
+ Special, 70 MP
+
+Use an item quickly with reduced recovery
+time. The character's next turn comes up
+much sooner than when using items normally.

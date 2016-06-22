@@ -1,0 +1,99 @@
+Datto
+ Letty
+ Jassu
+ Botta
+ Keepa
+ Bickson
+ Abus
+ Graav
+ Doram
+ Balgerda
+ Raudy
+ Larbeight
+ Isken
+ Vuroja
+ Kulukan
+ Deim
+ Nizarut
+ Eigaar
+ Blappa
+ Berrik
+ Judda
+ Lakkam
+ Nimrook
+ Basik Ronso
+ Argai Ronso
+ Gazna Ronso
+ Nuvy Ronso
+ Irga Ronso
+ Zamzi Ronso
+ Giera Guado
+ Zazi Guado
+ Nav Guado
+ Auda Guado
+ Pah Guado
+ Noy Guado
+ Rin
+ Tatts
+ Kyou
+ Shuu
+ Nedus
+ Biggs
+ Wedge
+ Ropp
+ Linna
+ Mep
+ Zalitz
+ Naida
+ Durren
+ Jumal
+ Svanda
+ Vilucha
+ Shaami
+ Zev Ronso
+ Yuma Guado
+ Kiyuri
+ Brother
+ Mifurey
+ Miyu
+ Noname1
+ Noname2
+  is disoriented!
+ 's HP is drained!
+  resists drain!
+  learns a new tech!
+ 's Techcopy failed!
+ 's level is too low!
+ 's CA is halved!
+ 's BL is halved!
+ 's AT is halved!
+ 's SH is halved!
+ 's PA is halved!
+ 's EN is halved!
+  resists wither!
+  resists sleep!
+  resists poison!
+  is poisoned!
+  wakes back up!
+  falls asleep!
+  rushes!
+  is out of shot range!
+  throws it back in!
+  catches the ball!
+  claims the ball!
+  fumbles the ball!
+  can't catch it! Goal!
+  catches the ball.
+  gets a hand on it!
+  tackles hard!
+  can't Techcopy!
+  volley shoots!
+  
+  on defense!
+  misses!
+  grabs the ball!
+  throws a pass!
+  can't block it!
+  catches the pass!
+  shoots!
+  loses a tech!

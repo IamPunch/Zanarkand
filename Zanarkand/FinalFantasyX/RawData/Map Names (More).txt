@@ -1,0 +1,699 @@
+ 
+ None
+ None
+ Zanarkand - Stadium
+ Zanarkand Stad.
+ Zanarkand - Stadium
+ Zanarkand Stad.
+ Zanarkand - Stadium
+ Zanarkand Stad.
+ Zanarkand - Harbor
+ Zanarkand Harb.
+ Zanarkand - Harbor
+ Zanarkand Harb.
+ Boathouse - Cabin
+ Boathouse Cabin
+ Zanarkand Ruins
+ Zanarkand Ruins
+ Zanarkand - Harbor
+ Zanarkand Harb.
+ Submerged Ruins
+ Submerged Ruins
+ Ruins - Underwater Hall
+ Ruins-UnderHall
+ Ruins - Corridor
+ Ruins-Corridor
+ Ruins - Hall
+ Ruins-Hall
+ Ruins - Hall
+ Ruins-Hall
+ Ruins - Stairs
+ Ruins-Stairs
+ Ruins - Small Room
+ Ruins-Room
+ Ruins - Antechamber
+ Ruins-Ante
+ Adrift
+ Adrift
+ Ruins - Fayth
+ Ruins-Fayth
+ Salvage Ship - Deck
+ Salvage-Deck
+ Salvage Ship - Surface
+ Salvage-Sea
+ Salvage Ship
+ Salvage Ship
+ Underwater Ruins
+ Sea Ruins
+ Underwater Ruins
+ Sea Ruins
+ Underwater Ruins
+ Sea Ruins
+ Besaid - Port
+ Besaid-Port
+ Besaid - Beach
+ Besaid-Beach
+ Besaid - Port
+ Besaid-Port
+ Besaid - Beach
+ Besaid-Beach
+ Besaid - Crossroads
+ Besaid-Crossrd.
+ Besaid - Valley
+ Besaid-Valley
+ Besaid - Ancient Road
+ Besaid-Road
+ Besaid - Waterfall Way
+ Besaid-Falls
+ Besaid - Promontory
+ Besaid-Promont.
+ Besaid - Village Slope 
+ Besaid-Slope
+ Besaid Village
+ Besaid Village
+ Besaid Village
+ Besaid Village
+ Besaid - Crusaders Lodge
+ Besaid-Crusaders
+ Besaid - Crusaders Lodge
+ Besaid-Crusaders
+ Besaid - House
+ Besaid-House
+ Besaid - House
+ Besaid-House
+ Besaid - Shop
+ Besaid-Shop
+ Besaid - House
+ Besaid-House
+ Besaid - Great Hall
+ Besaid Temple
+ Besaid - Trials
+ Besaid Temple
+ Besaid - Monks' Chamber
+ Besaid Temple
+ Besaid - Nuns' Chamber
+ Besaid Temple
+ Besaid - Antechamber
+ Besaid Temple
+ Besaid - Fayth
+ Besaid Temple
+ S.S. Liki - Deck
+ S.S. Liki-Deck
+ Kilika-Besaid Ferry
+ Kili-Bes Ferry
+ S.S. Liki - Deck
+ Liki-Deck
+ S.S. Liki - Bridge
+ Liki-Bridge
+ S.S. Liki - Corridor
+ Liki-Corridor
+ S.S. Liki - Cabin
+ Liki-Cabin
+ S.S. Liki - Power Room
+ Liki-Power
+ S.S. Liki - Deck
+ Liki-Deck
+ S.S. Liki - Deck
+ Liki-Deck
+ Kilika - Offshore
+ Kilika-Offshore
+ Kilika Port
+ Kilika Port
+ Kilika - Dock
+ Kilika-Dock
+ Kilika - Dock
+ Kilika-Dock
+ Kilika - Dock
+ Kilika-Dock
+ Kilika - Tavern
+ Kilika-Tavern
+ Kilika - Ruined Square
+ Kilika-Square
+ Kilika - Residential Area
+ Kilika-Village
+ Kilika - Inn
+ Kilika-House
+ Kilika - Residential Area
+ Kilika-Inn
+ Kilika - House
+ Kilika-House
+ Kilika - House
+ Kilika-House
+ Kilika Woods
+ Kilika Woods
+ Kilika Woods
+ Kilika Woods
+ Kilika Woods
+ Kilika Woods
+ Kilika - Pilgrimage Road
+ Kilika Temple
+ Kilika Temple
+ Kilika Temple
+ Kilika Temple
+ Kilika Temple
+ Kilika - Great Hall
+ Kilika Temple
+ Kilika - Monks' Chambers
+ Kilika Temple
+ Kilika - Monks' Chambers
+ Kilika Temple
+ Kilika - Lift
+ Kilika Temple
+ Kilika - Trials
+ Kilika Temple
+ Kilika - Antechamber
+ Kilika Temple
+ Kilika - Fayth
+ Kilika Temple
+ S.S. Winno - Deck
+ Winno-Deck
+ Luca-Kilika Ferry
+ Luca-Kili Ferry
+ S.S. Winno - Deck
+ Winno-Deck
+ S.S. Winno - Bridge
+ Winno-Bridge
+ S.S. Winno - Corridor
+ Winno-Corridor
+ S.S. Winno - Corridor
+ Winno-Corridor
+ S.S. Winno - Corridor
+ Winno-Corridor
+ S.S. Winno - Cabin
+ Winno-Cabin
+ S.S. Winno - Power Room
+ Winno-Power
+ S.S. Winno - Bridge
+ Winno-Bridge
+ Luca Stadium - Main Gate
+ Stadium-Gate
+ Luca - Number 1 Dock
+ Luca-No. 1 Dock
+ Luca - Number 2 Dock
+ Luca-No. 2 Dock
+ Luca - Number 3 Dock
+ Luca-No. 3 Dock
+ Luca - Number 4 Dock
+ Luca-No. 4 Dock
+ Luca - Number 5 Dock
+ Luca-No. 5 Dock
+ Stadium - Stands
+ Stadium-Seats
+ Stadium - VIP Seats
+ Stadium-VIP
+ Stadium - Pool
+ Stadium-Pool
+ Theater
+ Luca Theater
+ Theater - Entrance
+ Luca Theater
+ Theater - Reception
+ Luca Theater
+ Theater - Main Hall
+ Luca Theater
+ Stadium - Basement A
+ Luca Theater
+ Stadium - Locker Room
+ Luca Theater
+ Stadium - Basement B
+ Luca Theater
+ Luca - Number 4 Dock
+ Luca-No. 4 Dock
+ Luca - Bridge
+ Luca-Bridge
+ Stadium
+ Stadium
+ Luca - Square
+ Luca-Square
+ Luca - Cafe
+ Luca-Cafe
+ Luca - Cafe
+ Luca-Cafe
+ Luca - City Limits
+ Luca-City Lim.
+ Luca - Cafe
+ Luca-Cafe
+ Highroad - South End
+ Highroad-South
+ Highroad - Agency, Front
+ Highroad-Rin's
+ Highroad - Agency, Front
+ Highroad-Rin's
+ Highroad - Agency
+ Highroad-Rin's
+ Highroad - Newroad, South
+ Newroad-South
+ Highroad - Oldroad, South
+ Oldroad-South
+ Highroad - Newroad, North
+ Newroad-North
+ Highroad - Oldroad, North
+ Oldroad-North
+ Highroad - North End
+ Highroad-North
+ Highroad - South
+ Highroad-South
+ Highroad - Central
+ Highroad-Center
+ Mushroom Rock
+ Mushroom Rock
+ Mushroom Rock - Valley
+ Mushroom Rock
+ Mushroom Rock - Ridge
+ Mushroom Rock
+ Mushroom Rock - Ridge
+ Mushroom Rock
+ Djose Highroad
+ Djose Highroad
+ Mushroom Rock - Precipice
+ Mushroom Rock
+ Underwater - Chasing Sin
+ Chasing Sin
+ Mushroom Rock - Aftermath
+ Mushroom Rock
+ Mushroom Rock - Beach
+ Mushroom Rock
+ Mushroom Rock - Beach
+ Mushroom Rock
+ Djose - Pilgrimage Road
+ Djose Temple
+ Djose Temple
+ Djose Temple
+ Djose - Inn
+ Djose Temple
+ Djose - Great Hall
+ Djose Temple
+ Djose - Monks' Chamber
+ Djose Temple
+ Djose - Nuns' Chamber
+ Djose Temple
+ Djose - Trials
+ Djose Temple
+ Djose - Antechamber
+ Djose Temple
+ Djose - Antechamber
+ Djose Temple
+ Djose - Fayth
+ Djose Temple
+ Moonflow - South Bank Road
+ Moonflow-South
+ Moonflow - South Bank
+ Moonflow-South
+ Moonflow - South Wharf
+ Moonflow-South
+ Moonflow - South Wharf
+ Moonflow-South
+ Moonflow - South Wharf
+ Moonflow-South
+ Moonflow - South Wharf
+ Moonflow-South
+ Moonflow - South Wharf
+ Moonflow-South
+ Moonflow - South Wharf
+ Moonflow-South
+ Moonflow
+ Moonflow
+ Riding the Shoopuf
+ On the Shoopuf
+ Moonflow - North Wharf
+ Moonflow-North
+ Moonflow - North Wharf
+ Moonflow-North
+ Moonflow - North Wharf
+ Moonflow-North
+ Moonflow - North Wharf
+ Moonflow-North
+ Moonflow - North Bank
+ Moonflow-North
+ Moonflow - North Bank Road
+ Moonflow-North
+ Guadosalam
+ Guadosalam
+ Guadosalam - Inn
+ Guado-Inn
+ Guadosalam - Shop
+ Guado-Shop
+ Guadosalam - House
+ Guado-House
+ Guadosalam - House
+ Guado-House
+ Mansion - Entrance
+ Mansion-Front
+ Mansion - Great Hall
+ Mansion-Hall
+ Zanarkand - Yunalesca
+ Yunalesca
+ Road to Farplane
+ Farplane Road
+ Farplane Gates
+ Farplane Gates
+ Farplane Gates
+ Farplane Gates
+ Farplane Gates
+ Farplane Gates
+ Farplane Gates
+ Farplane Gates
+ Farplane Gates
+ Farplane Gates
+ The Farplane
+ The Farplane
+ Thunder Plains - South
+ Thunder-South
+ Thunder Plains - Agency
+ Thunder-Rin's
+ Thunder Plains - Agency Room
+ Thunder-Rin's
+ Thunder Plains - North
+ Thunder-North
+ Thunder Plains - Agency Front
+ Thunder-Rin's
+ Thunder Plains - Agency Hall
+ Thunder-Rin's
+ Thunder Plains - Agency
+ Thunder-Rin's
+ Thunder Plains - Agency Room
+ Thunder-Rin's
+ Thunder Plains - Agency Front
+ Thunder-Rin's
+ Macalania Woods - South
+ Woods-South
+ Macalania Woods - Central
+ Woods-Center
+ Macalania Woods - North
+ Woods-North
+ Macalania Woods - Spring
+ Woods-Wellspring
+ Macalania Woods - Lake Road
+ Woods-Lake Road
+ Macalania Woods - To Bevelle
+ Woods-To Bevelle
+ Macalania Woods - To Bevelle
+ Woods-To Bevelle
+ Macalania Woods - To Thunder
+ Woods-To Thunder
+ Macalania Woods - To Thunder
+ Woods-To Thunder
+ Macalania Woods - Campsite
+ Woods-Campsite
+ Macalania Woods - Campsite
+ Woods-Campsite
+ Macalania Woods - Campsite
+ Woods-Campsite
+ Macalania Woods - Spring
+ Woods-Spring
+ Macalania Woods - Spring
+ Woods-Spring
+ Lake Macalania - Agency Front
+ Lake-Rin's
+ Lake Macalania - Agency
+ Lake-Rin's
+ Lake Macalania
+ Lake Macalania
+ Lake Macalania - Crevasse
+ Lake-Crevasse
+ Lake Macalania - Lake Bottom
+ Lake-Bottom
+ Macalania - Road
+ Maca Temple
+ Macalania - Hall
+ Maca Temple
+ Macalania - Monks' Chamber
+ Maca Temple
+ Macalania - Nuns' Chamber
+ Maca Temple
+ Macalania - Trials
+ Maca Temple
+ Macalania - Antechamber
+ Maca Temple
+ Macalania - Fayth
+ Maca Temple
+ Oasis
+ Oasis
+ Sanubia Desert - East
+ Desert-East
+ Sanubia Desert - Central
+ Desert-Center
+ Sanubia Desert - West
+ Desert-West
+ Home
+ Home
+ Home - Entrance
+ Home-Entrance
+ Home - Entrance
+ Home-Entrance
+ Home - Entrance
+ Home-Entrance
+ Home - Main Corridor
+ Home-Corridor
+ Home - Environment Controls
+ Home-Controls
+ Home - Airship Dock
+ Home-Dock
+ Home - Living Quarters
+ Home-Quarters
+ Home - Living Quarters
+ Home-Quarters
+ Airship - Cabin
+ Airship-Cabin
+ Airship - Lift
+ Airship-Lift
+ Airship - Corridor
+ Airship-Hall
+ Airship - Cargo Bay Entrance
+ Airship-Cargo
+ Airship - Cargo Bay
+ Airship-Cargo
+ Airship - Corridor
+ Airship-Hall
+ Airship - Corridor
+ Airship-Hall
+ Airship - Bridge Entrance
+ Airship-Bridge
+ Airship - Bridge
+ Airship-Bridge
+ Airship - Corridor
+ Airship-Hall
+ Airship - Bottom
+ Airship-Bottom
+ Airship - Corridor
+ Airship-Hall
+ Airship
+ Airship
+ Airship - Elevator Lift
+ Airship-Lift
+ Airship - Deck
+ Airship-Deck
+ Airship - Bridge
+ Airship-Bridge
+ Airship - Bridge
+ Airship-Bridge
+ Bevelle - Via Purifico
+ Bevelle-Via
+ Bevelle - Via Purifico
+ Bevelle-Via
+ Bevelle - Main Gate
+ Bevelle-Gate
+ Highbridge
+ Highbridge
+ Bevelle - Tower of Light
+ Bevelle-Tower
+ Bevelle - Passage of Cleansing
+ Bevelle-Passage
+ Bevelle - Priests' Passage
+ Bevelle-Passage
+ Bevelle - Priests' Passage
+ Bevelle-Passage
+ Bevelle - Priests' Passage
+ Bevelle-Passage
+ Bevelle - The Inquisition
+ Bevelle-Court
+ Bevelle - Dungeons
+ Bevelle-Dungeon
+ Bevelle - Dungeons
+ Bevelle-Dungeon
+ Bevelle - Dungeons
+ Bevelle-Dungeon
+ Bevelle - Via Purifico
+ Bevelle-Via
+ Bevelle - The Two Fates
+ Bevelle-Dungeon
+ Bevelle - Trials
+ Bevelle-Trials
+ Bevelle - Trials
+ Bevelle-Trials
+ Bevelle - Trials
+ Bevelle-Trials
+ Bevelle - Antechamber
+ Bevelle-Ante
+ Bevelle - Fayth
+ Bevelle-Fayth
+ Bevelle - Priests' Passage
+ Bevelle-Passage
+ Calm Lands - South
+ Calm-South
+ Calm Lands - North
+ Calm-North
+ Calm Lands - Central
+ Calm-Central
+ Calm Lands - Near Bridge
+ Calm-Bridge
+ Calm Lands - Near Bridge
+ Calm-Bridge
+ Calm Lands - Gorge Bottom
+ Calm-Gorge
+ Calm Lands - Gorge Cave
+ Calm-Gorge Cave
+ Calm Lands - Gorge Bottom
+ Calm-Gorge
+ Calm Lands - Gorge Cave
+ Calm-Gorge Cave
+ Cavern of the Stolen Fayth
+ Stolen Fayth
+ Chamber of the Stolen Fayth
+ Stolen Fayth
+ Remiem Temple
+ Remiem Temple
+ Remiem - Great Hall
+ Remiem Temple
+ Gagazet - Mountain Gate
+ Gagazet-Gate
+ Gagazet - Mountain Trail
+ Gagazet-Trail
+ Gagazet - Prominence
+ Gagazet-Promin.
+ Gagazet - Fayth Cluster
+ Gagazet-Fayth
+ Gagazet - Fayth Cluster
+ Gagazet-Fayth
+ Gagazet - Fayth Cluster
+ Gagazet-Fayth
+ Gagazet - Mountain Cave
+ Gagazet-Cave
+ Gagazet - Submerged Passage
+ Gagazet-Passage
+ Gagazet - Summit Region
+ Gagazet-Summit
+ Road to the Zanarkand Ruins
+ Zanarkand Road
+ Zanarkand Ruins
+ Zanarkand Ruins
+ Zanarkand Ruins
+ Zanarkand Ruins
+ Zanarkand Ruins - Overpass
+ Zanarkand Ruins
+ Dome
+ Dome
+ Dome - Front
+ Dome-Front
+ Dome - Front
+ Dome-Front
+ Dome - Front
+ Dome-Front
+ Dome - Interior
+ Dome-Interior
+ Dome - Corridor
+ Dome-Corridor
+ Dome - Cloister of Trials
+ Dome-Trials
+ Dome - Chamber of the Fayth
+ Dome-Fayth
+ Dome - Great Hall
+ Dome-Great Hall
+ Dome - Great Hall
+ Dome-Great Hall
+ Dome - The Beyond
+ Dome-The Beyond
+ Airship - Deck
+ Airship-Deck
+ Airship - Deck
+ Airship-Deck
+ Airship - Deck
+ Airship-Deck
+ Airship - Deck
+ Airship-Deck
+ Sin - Pyreclouds
+ Sin-Pyreclouds
+ Sin - Near Airship
+ Within Sin
+ Sin - Near Airship
+ Within Sin
+ Sin - Sea of Sorrow
+ Within Sin
+ Sin - Garden of Pain
+ Within Sin
+ Sin - City of Dying Dreams
+ Within Sin
+ Sin - The Nucleus
+ Within Sin
+ Sin - Dream's End
+ Within Sin
+ Sin - Dream's End
+ Within Sin
+ Sin - Dream's End
+ Within Sin
+ Sin - Tower of the Dead
+ Within Sin
+ Omega Ruins
+ Omega Ruins
+ Omega Ruins
+ Omega Ruins
+ Mushroom Rock - Plateau
+ Mushroom Rock
+ Calm Lands - Arena
+ Calm-Arena
+ Ruins - Underwater Passage
+ Ruins-Passage
+ Salvage Ship - Underwater
+ Salvage-Sea
+ Dome - Trials
+ Dome-Trials
+ Bevelle - Priests' Passage
+ Bevelle-Passage
+ Gagazet - Summit Region
+ Gagazet-Summit
+ Road to Zanarkand
+ Zanarkand Road
+ Unknown Sea
+ Unknown Sea
+ Near Luca
+ Near Luca
+ Luca - Before Opening Match
+ Luca-Before Game
+ Luca - Back on the Pilgrimage
+ Luca-Pilgrimage
+ Lake Macalania - Crevasse
+ Lake-Crevasse
+ Zanarkand - Overpass
+ Zanarkand-Road
+ Zanarkand - Overpass
+ Zanarkand-Road
+ Luca - After the Finals
+ Luca-Blitz End
+ Bevelle - Imprisoned
+ Bevelle-Prison
+ Macalania Woods - North
+ Woods-North
+ Zanarkand - Harbor
+ Zanarkand-Harb.
+ Zanarkand - Harbor
+ Zanarkand-Harb.
+ Zanarkand Stadium
+ Zanarkand Stad.
+ Zanarkand Stadium
+ Zanarkand Stad.
+ Remiem - Fayth
+ Remiem Temple
+ Airship - Bridge
+ Airship-Bridge
+ Airship - Cabin
+ Airship-Cabin
+ Zanarkand - Overpass
+ Zanarkand-Road
+ The Farplane
+ The Farplane
+ Luca - Cafe
+ Luca-Cafe
+ Zanarkand - The First Battle
+ Zanarkand-Fight
+ Mushroom Rock - Valley
+ Mushroom Rock

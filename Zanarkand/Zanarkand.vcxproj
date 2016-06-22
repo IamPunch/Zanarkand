@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{113DFAD8-2AB0-4D2C-AC63-B5F840C12DA2}</ProjectGuid>
+    <RootNamespace>Zanarkand</RootNamespace>
+    <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="FinalFantasyX\MemoryData\CharacterData.cpp" />
+    <ClCompile Include="FinalFantasyX\Objects\Characters\Aeons\Aeon.cpp" />
+    <ClCompile Include="FinalFantasyX\Objects\Characters\Aeons\Members\Anima.cpp" />
+    <ClCompile Include="FinalFantasyX\Objects\Characters\Aeons\Members\Bahamut.cpp" />
+    <ClCompile Include="FinalFantasyX\Objects\Characters\Aeons\Members\Cindy.cpp" />
+    <ClCompile Include="FinalFantasyX\Objects\Characters\Aeons\Members\Ifrit.cpp" />
+    <ClCompile Include="FinalFantasyX\Objects\Characters\Aeons\Members\Ixion.cpp" />
+    <ClCompile Include="FinalFantasyX\Objects\Characters\Aeons\Members\Mindy.cpp" />
+    <ClCompile Include="FinalFantasyX\Objects\Characters\Aeons\Members\Sandy.cpp" />
+    <ClCompile Include="FinalFantasyX\Objects\Characters\Aeons\Members\Shiva.cpp" />
+    <ClCompile Include="FinalFantasyX\Objects\Characters\Aeons\Members\Valefor.cpp" />
+    <ClCompile Include="FinalFantasyX\Objects\Characters\Aeons\Members\Yojimbo.cpp" />
+    <ClCompile Include="FinalFantasyX\Objects\Characters\Guardians\Guardian.cpp" />
+    <ClCompile Include="FinalFantasyX\Objects\Characters\Guardians\Members\Auron.cpp" />
+    <ClCompile Include="FinalFantasyX\Objects\Characters\Guardians\Members\Kimahri.cpp" />
+    <ClCompile Include="FinalFantasyX\Objects\Characters\Guardians\Members\Lulu.cpp" />
+    <ClCompile Include="FinalFantasyX\Objects\Characters\Guardians\Members\Rikku.cpp" />
+    <ClCompile Include="FinalFantasyX\Objects\Characters\Guardians\Members\Seymour.cpp" />
+    <ClCompile Include="FinalFantasyX\Objects\Characters\Guardians\Members\Tidus.cpp" />
+    <ClCompile Include="FinalFantasyX\Objects\Characters\Guardians\Members\Wakka.cpp" />
+    <ClCompile Include="FinalFantasyX\Objects\Characters\Guardians\Members\Yuna.cpp" />
+    <ClCompile Include="FinalFantasyX\Objects\Miscellaneous\Miscellaneous.cpp" />
+    <ClCompile Include="FinalFantasyX\Process\Process.cpp" />
+    <ClCompile Include="FinalFantasyX\Values\_Ability.cpp" />
+    <ClCompile Include="FinalFantasyX\Values\_AutoAbility.cpp" />
+    <ClCompile Include="FinalFantasyX\Values\_CharEncoding.cpp" />
+    <ClCompile Include="FinalFantasyX\Values\_Item.cpp" />
+    <ClCompile Include="FinalFantasyX\Values\_KeyItem.cpp" />
+    <ClCompile Include="FinalFantasyX\Values\_Overdrive.cpp" />
+    <ClCompile Include="FinalFantasyX\Values\_OverdriveMode.cpp" />
+    <ClCompile Include="FinalFantasyX\Values\_PartyStatus.cpp" />
+    <ClCompile Include="Zanarkand.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="FinalFantasyX\MemoryData\CharacterData.h" />
+    <ClInclude Include="FinalFantasyX\MemoryData\DebugData.h" />
+    <ClInclude Include="FinalFantasyX\MemoryData\ItemData.h" />
+    <ClInclude Include="FinalFantasyX\Objects\Characters\Aeons\Aeon.h" />
+    <ClInclude Include="FinalFantasyX\Objects\Characters\Aeons\Members\Anima.h" />
+    <ClInclude Include="FinalFantasyX\Objects\Characters\Aeons\Members\Bahamut.h" />
+    <ClInclude Include="FinalFantasyX\Objects\Characters\Aeons\Members\Cindy.h" />
+    <ClInclude Include="FinalFantasyX\Objects\Characters\Aeons\Members\Ifrit.h" />
+    <ClInclude Include="FinalFantasyX\Objects\Characters\Aeons\Members\Ixion.h" />
+    <ClInclude Include="FinalFantasyX\Objects\Characters\Aeons\Members\Mindy.h" />
+    <ClInclude Include="FinalFantasyX\Objects\Characters\Aeons\Members\Sandy.h" />
+    <ClInclude Include="FinalFantasyX\Objects\Characters\Aeons\Members\Shiva.h" />
+    <ClInclude Include="FinalFantasyX\Objects\Characters\Aeons\Members\Valefor.h" />
+    <ClInclude Include="FinalFantasyX\Objects\Characters\Aeons\Members\Yojimbo.h" />
+    <ClInclude Include="FinalFantasyX\Objects\Characters\Guardians\Guardian.h" />
+    <ClInclude Include="FinalFantasyX\Objects\Characters\Guardians\Members\Auron.h" />
+    <ClInclude Include="FinalFantasyX\Objects\Characters\Guardians\Members\Kimahri.h" />
+    <ClInclude Include="FinalFantasyX\Objects\Characters\Guardians\Members\Lulu.h" />
+    <ClInclude Include="FinalFantasyX\Objects\Characters\Guardians\Members\Rikku.h" />
+    <ClInclude Include="FinalFantasyX\Objects\Characters\Guardians\Members\Seymour.h" />
+    <ClInclude Include="FinalFantasyX\Objects\Characters\Guardians\Members\Tidus.h" />
+    <ClInclude Include="FinalFantasyX\Objects\Characters\Guardians\Members\Wakka.h" />
+    <ClInclude Include="FinalFantasyX\Objects\Characters\Guardians\Members\Yuna.h" />
+    <ClInclude Include="FinalFantasyX\Objects\Debug\Debug.h" />
+    <ClInclude Include="FinalFantasyX\Objects\Items\Item.h" />
+    <ClInclude Include="FinalFantasyX\Objects\Miscellaneous\Miscellaneous.h" />
+    <ClInclude Include="FinalFantasyX\Offset.h" />
+    <ClInclude Include="FinalFantasyX\Process\Process.h" />
+    <ClInclude Include="FinalFantasyX\Utility\Utility.h" />
+    <ClInclude Include="FinalFantasyX\Values\Values.h" />
+    <ClInclude Include="FinalFantasyX\Values\_Ability.h" />
+    <ClInclude Include="FinalFantasyX\Values\_AutoAbility.h" />
+    <ClInclude Include="FinalFantasyX\Values\_CharEncoding.h" />
+    <ClInclude Include="FinalFantasyX\Values\_Item.h" />
+    <ClInclude Include="FinalFantasyX\Values\_KeyItem.h" />
+    <ClInclude Include="FinalFantasyX\Values\_Overdrive.h" />
+    <ClInclude Include="FinalFantasyX\Values\_OverdriveMode.h" />
+    <ClInclude Include="FinalFantasyX\Values\_PartyStatus.h" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

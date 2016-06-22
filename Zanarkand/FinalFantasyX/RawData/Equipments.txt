@@ -1,0 +1,2380 @@
+Caladbolg
+ Nirvana
+ Masamune
+ Spirit Lance
+ World Champion
+ Onion Knight
+ Godhand
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Brotherhood
+ Staff
+ Dull Blade
+ Spear
+ Official Ball
+ Moogle
+ Claw
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Taming Sword
+ Herding Staff
+ Beastmaster
+ Taming Spear
+ Catcher
+ Trapper Mog
+ Iron Grip
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Crystal Sword
+ Arc Arcana
+ Conqueror
+ Quadforce
+ Four-on-One
+ Moomba Quartet
+ Deus Ex Machina
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Excalibur
+ Abraxas
+ Heaven's Cloud
+ Gungnir
+ Grand Slam
+ Soul of Mog
+ Kaiser Knuckles
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Ragnarok
+ Heavenly Axis
+ Muramasa
+ Luin
+ Blowout
+ Space Soul
+ Victorix
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Balmung
+ Judgment
+ Alkaid
+ Gae Bolg
+ Rout
+ Space Master
+ Unlimited
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Save the Queen
+ Seraphim Rod
+ Peacemaker
+ Venus Gospel
+ Tie Breaker
+ Space King
+ Warmonger
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Heartbreaker
+ Rod of Roses
+ Genji Blade
+ Highwind
+ Winning Streak
+ Space Force
+ Overload
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Lionheart
+ Nimbus Rod
+ Dragonkiller
+ Berserker
+ Scoring Spree
+ Space Energy
+ Override
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Durandal
+ Wonder Wing
+ Painkiller
+ Horn of the Ronso
+ Triple Score
+ Comet Cactuar
+ Golden Arm
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Ascalon
+ Wing Wand
+ Divider
+ Chariot
+ Double Score
+ Star Cactuar
+ Golden Hand
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Ambitious
+ Wonder Wand
+ The Nameless
+ Transmuter
+ Rookie Star
+ Lord Cactuar
+ Ironside
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Hrunting
+ Laevatein
+ Ogrekiller
+ Kain's Lance
+ Buzzerbeater
+ Space Power
+ Battle Freak
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Longsword
+ Staff
+ Dull Blade
+ Spear
+ Official Ball
+ Moogle
+ Claw
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Astral Sword
+ Astral Rod
+ Murasame
+ Astral Spear
+ Overtime
+ Magical Cactuar
+ Infinity
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Apocalypse
+ Chaos Rod
+ Riot Blade
+ Chaos Lance
+ Penalty Master
+ Chaotic Cait Sith
+ Tempest Claw
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Longsword
+ Staff
+ Dull Blade
+ Spear
+ Official Ball
+ Moogle
+ Claw
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Longsword
+ Staff
+ Dull Blade
+ Spear
+ Official Ball
+ Moogle
+ Claw
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Master Sword
+ Power Staff
+ Master Ogre
+ Giant Spear
+ Ace Striker
+ Space Warrior
+ Spartan
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Runemaster
+ Shining Staff
+ Master Djinn
+ Titan Lance
+ Ace Wizard
+ Space Mage
+ Brunhilde
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Warlock
+ Faerie Staff
+ Matoya's Blade
+ Eldritch Lance
+ Over the Top
+ Mana Mog
+ Valkyrie
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Arc Sword
+ Magistral Rod
+ Inducer
+ Shamanic Spear
+ Halftime
+ Cactuar Wizard
+ Magical Rave
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Gilventure
+ El Dorado
+ Gilmonger
+ Prospector
+ Free Agent
+ Space Bandit
+ Stickyfingers
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Tri-Steel
+ Tri-Rod
+ Ichimonji
+ Trident
+ Tricolor
+ Moomba Trio
+ Rising Sun
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Helter-Skelter
+ Wicked Wand
+ Corruptor
+ Vicious Lance
+ Triple Penalty
+ Abaddon Cait Sith
+ Typhoon Claw
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Vendetta
+ Nemesis Rod
+ Ashura
+ Dragoon Lance
+ Turnover
+ Vengeful Cactuar
+ Untouchable
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Avenger
+ Defender
+ Kotetsu
+ Rebel Lance
+ Rematch
+ Raging Cactuar
+ Tit-for-Tat
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ P-Steel
+ P-Staff
+ P-Blade
+ P-Lance
+ P-Ball
+ P-Mog
+ P-Claw
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ M-Steel
+ M-Staff
+ M-Blade
+ M-Lance
+ M-Ball
+ M-Mog
+ M-Claw
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ S-Steel
+ S-Staff
+ S-Blade
+ S-Lance
+ S-Ball
+ S-Mog
+ S-Claw
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ A-Steel
+ A-Staff
+ A-Blade
+ A-Lance
+ A-Ball
+ A-Mog
+ A-Claw
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Prism Steel
+ Prism Rod
+ Prism Blade
+ Prism Spear
+ Prism Ball
+ Prism Cactuar
+ Prism Claw
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Mirage Sword
+ Mirage Rod
+ Mirage Blade
+ Mirage Lance
+ Mirage Ball
+ Booster Cactuar
+ Mirage Claw
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Lifesaver
+ Healing Rod
+ Lifegiver
+ Healer Spear
+ Comeback
+ Medical Mog
+ Survivor
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Sonic Steel
+ Wind Rod
+ Sonic Blade
+ Sonic Lance
+ Breakaway
+ Swift Cactuar
+ Vanguard
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Vigilante
+ Conductor
+ Sentry
+ Detector
+ First Goal
+ Cactuar Spy
+ Sonar
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Dance Macabre
+ Punisher
+ Assassin Blade
+ Thanatos Lance
+ Sudden Death
+ Wicked Cait Sith
+ Executioner
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Largamente
+ Impasse
+ Blockade
+ Net Spear
+ Timeout
+ Chronos Cait Sith
+ Clockwork
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Gravestone
+ Calcite Staff
+ Stillblade
+ Rock Buster
+ Stone Cold
+ Stone Cait Sith
+ Colossus
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Sidewinder
+ Bizarre Staff
+ Venomous Blade
+ Venom Spike
+ Violation
+ Toxic Cait Sith
+ Manticore Claw
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Nightmare
+ Staff of Thorns
+ Dozing Blade
+ Hypnos Spear
+ Sleeper
+ Dreamy Cait Sith
+ Lights Out
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Mage Masher
+ Reticent Staff
+ Tacit Blade
+ Mage Hunter
+ Muffler
+ Mute Cait Sith
+ Mage Husher
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Nightbringer
+ Darkness Staff
+ Dark Blade
+ Darkbringer
+ Blackout
+ Dark Cait Sith
+ Jammer
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Knight Sword
+ Monk Staff
+ Ogre Blade
+ Knight Lance
+ Power Play
+ Power Mog
+ Iron Claw
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Wizard Sword
+ Mage's Staff
+ Djinn Blade
+ Wizard Lance
+ Virtuoso
+ Magician Mog
+ The Ogre
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Double-Edge
+ Dual Rod
+ Dual Blade
+ Twin Lance
+ Double Header
+ Moomba Duo
+ Dual Claw
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Razzmatazz
+ Ominous Rod
+ Chaos Blade
+ Calamity Spear
+ Double Penalty
+ Ominous Cait Sith
+ Hurricane Claw
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Deathbringer
+ Death Wand
+ Critical Blade
+ Matador Spear
+ Rough Play
+ Fatal Cait Sith
+ Ninja Claw
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Stunning Steel
+ Entangling Rod
+ Stunner
+ Web Lance
+ Delay of Game
+ Late Cait Sith
+ Clock Hand
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Basilisk Steel
+ Break Rod
+ Gorgon Gaze
+ Break Lance
+ T.K.O.
+ Fossil Cait Sith
+ Break Knuckles
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Poison Steel
+ Beladonna Wand
+ Spider's Kiss
+ Snakehead
+ Rulebreaker
+ Noxious Cait Sith
+ Poison Claw
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Lullaby Steel
+ Lullaby Rod
+ Peaceful Slumber
+ Dream Lance
+ Dream Team
+ Sleepy Cait Sith
+ Daydreamer
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Muted Steel
+ Rod of Silence
+ Soundless Scream
+ Silent Spear
+ Noisebreaker
+ Quiet Cait Sith
+ Tongue Holder
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Twilight Steel
+ Rod of Darkness
+ Blurry Moon
+ Dusk Lance
+ Blind Pass
+ Blinding Cait Sith
+ Eye Poker
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Hunter's Sword
+ Rod of Wisdom
+ Hunter's Blade
+ Hunter's Spear
+ Scout
+ Cactuar Scope
+ Hawkeye
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Flametongue
+ Rod of Fire
+ Fire Blade
+ Heat Lance
+ Fire Ball
+ Fire Moomba
+ Hot Knuckles
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Ice Brand
+ Rod of Ice
+ Frost Blade
+ Ice Lance
+ Ice Ball
+ Ice Moomba
+ Ice Claw
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Lightning Steel
+ Rod of Lightning
+ Thunder Blade
+ Thunder Spear
+ Thunder Ball
+ Thunder Moomba
+ Shocking Fist
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Liquid Steel
+ Rod of Water
+ Water Blade
+ Tidal Spear
+ Water Ball
+ Water Moomba
+ Tidal Knuckles
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Variable Steel
+ Malleable Staff
+ Shiranui
+ Shapeshifter
+ All-Rounder
+ Morphing Mog
+ Flexible Arm
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Force Sabre
+ Force Rod
+ Basara Blade
+ Force Lance
+ Ovation
+ Moomba Force
+ Force Knuckles
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Baroque Sword
+ Ductile Rod
+ Shimmering Blade
+ Halberd
+ Switch Hitter
+ Variable Mog
+ Devastator
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Sorcery Sword
+ Sorcery Rod
+ Spiritual Blade
+ Magic Lance
+ Trickster
+ Moomba Mage
+ Magic Knuckles
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Soldier's Sabre
+ Full Metal Rod
+ Knight Blade
+ Full Metal Spear
+ Striker
+ Moomba Warrior
+ Buster Knuckles
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Rune Steel
+ Rune Rod
+ Rune Blade
+ Rune Lance
+ Rune Ball
+ Rune Mog
+ Magic Claw
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Enchanted Sword
+ Enchanted Rod
+ Magic Blade
+ Enchanted Lance
+ Magic Ball
+ Magical Mog
+ Magic Glove
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Fencing Sabre
+ Rod of Striking
+ Warblade
+ Striking Spear
+ Hyper Ball
+ Buster Mog
+ Buster Claw
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Warrior's Sword
+ Rod of Beating
+ Nodachi
+ Heavy Spear
+ Power Ball
+ Attack Mog
+ Buster Glove
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Slasher
+ Spiked Rod
+ Katana
+ Harpoon
+ Center Forward
+ Stinger Mog
+ Barbed Knuckles
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Longsword
+ Staff
+ Dull Blade
+ Spear
+ Official Ball
+ Moogle
+ Claw
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Longsword
+ Staff
+ Dull Blade
+ Spear
+ Official Ball
+ Moogle
+ Claw
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Longsword
+ Staff
+ Dull Blade
+ Spear
+ Official Ball
+ Moogle
+ Claw
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Longsword
+ Staff
+ Dull Blade
+ Spear
+ Official Ball
+ Moogle
+ Claw
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Endless Road
+ Solomon Ring
+ Overlord
+ Pride of the Ronso
+ Indomitable
+ Samantha Soul
+ Dreadnought
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Genji Shield
+ Arcane Ring
+ Genji Bracer
+ Genji Armlet
+ Super Goalie
+ Minerva Bangle
+ Atlas
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Emblem
+ Mythical Ring
+ Dragon Lord
+ Sage's Armlet
+ High Spirits
+ Mythical Bangle
+ Celestial
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Crystal Shield
+ Sophia Ring
+ Glutton
+ Crystal Armlet
+ Final Four
+ Draupnir
+ Invincible
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Aegis Shield
+ Aegis Ring
+ Resistant
+ Aegis Armlet
+ Great Four
+ Aegis Bangle
+ Armada
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Golem Shield
+ Sheltering Ring
+ Warder
+ Adamantite
+ The Guardian
+ Precious Bangle
+ Triumph
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Revive Shield
+ Savior Ring
+ Immortal
+ Orichalcum
+ Automatic
+ Imperial Bangle
+ Intrepid
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Rescue Shield
+ Healing Ring
+ Healer
+ Safe Passage
+ First Aid
+ Auto Bangle
+ Goliath
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Paladin Shield
+ Forbidding Ring
+ Undefeated
+ Ronso Armlet
+ Keeper
+ Black Ribbon
+ Argonaut
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Diamond Shield
+ Diamond Ring
+ Diamond Bracer
+ Diamond Armlet
+ Diamond Armguard
+ Diamond Bangle
+ Diamond Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Ruby Shield
+ Ruby Ring
+ Ruby Bracer
+ Ruby Armlet
+ Ruby Armguard
+ Ruby Bangle
+ Ruby Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Dynasty Shield
+ Fortitude Ring
+ Battle Bracer
+ Enhanced Armlet
+ Power Ace
+ Queen's Bangle
+ Warlord
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Magister Shield
+ Magical Ring
+ Magical Bracer
+ Magical Armlet
+ Magic Ace
+ Magister Bangle
+ Dominator
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Collector's Shield
+ Collector Ring
+ Collector Bracer
+ Collector Armlet
+ Best Play
+ Collector Bangle
+ Buccaneer
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Treasure Shield
+ Treasure Ring
+ Treasure Bracer
+ Treasure Armlet
+ Great Play
+ Treasure Bangle
+ Corsair
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Shield of Hope
+ Ring of Hope
+ Bracer of Hope
+ Armlet of Hope
+ Benchwarmer
+ Bangle of Hope
+ Targe of Hope
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Assault Shield
+ Assault Ring
+ Assault Bracer
+ Assault Armlet
+ Triple Save
+ Assault Bangle
+ Assault Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Phantom Shield
+ Phantom Ring
+ Phantom Bracer
+ Phantom Armlet
+ Element Save
+ Phantom Bangle
+ Phantom Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Recovery Shield
+ Recovery Ring
+ Recovery Bracer
+ Recovery Armlet
+ Armsling
+ Recovery Bangle
+ Recovery Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Spiritual Shield
+ Spiritual Ring
+ Spiritual Bracer
+ Spiritual Armlet
+ Spiritual Armguard
+ Spiritual Bangle
+ Spiritual Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Phoenix Shield
+ Phoenix Ring
+ Phoenix Bracer
+ Phoenix Armlet
+ Miracle Comeback
+ Phoenix Bangle
+ Phoenix Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Curative Shield
+ Curative Ring
+ Curative Bracer
+ Curative Armlet
+ Top Shape
+ Curative Bangle
+ Curative Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Rainbow Shield
+ Rainbow Ring
+ Rainbow Bracer
+ Rainbow Armlet
+ Miracle Save
+ Rainbow Bangle
+ Phalanx
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Shining Shield
+ Shining Ring
+ Shining Bracer
+ Shining Armlet
+ Last-Ditch
+ Shining Bangle
+ Tercio
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Faerie Shield
+ Faerie Ring
+ Faerie Bracer
+ Faerie Armlet
+ Triple Guard
+ Faerie Bangle
+ Talisman
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Peaceful Shield
+ Peaceful Ring
+ Peaceful Bracer
+ Peaceful Armlet
+ Off-Season
+ Peaceful Bangle
+ Peaceful Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Shaman Shield
+ Shaman Ring
+ Shaman Bracer
+ Shaman Armlet
+ Shaman Armguard
+ Shaman Bangle
+ Shaman Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Barrier Shield
+ Barrier Ring
+ Barrier Bracer
+ Barrier Armlet
+ Hat Trick
+ Barrier Bangle
+ Victorious
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Star Shield
+ Star Ring
+ Star Bracer
+ Star Armlet
+ Pep Talk
+ Star Bangle
+ Star Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Marching Shield
+ Marching Ring
+ Marching Bracer
+ Marching Armlet
+ Auto Armguard
+ Marching Bangle
+ Marching Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Moon Shield
+ Moon Ring
+ Moon Bracer
+ Moon Armlet
+ Danger Armguard
+ Moon Bangle
+ Moon Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Regen Shield
+ Regen Ring
+ Regen Bracer
+ Regen Armlet
+ Second Wind
+ Regen Bangle
+ Regen Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Haste Shield
+ Haste Ring
+ Haste Bracer
+ Haste Armlet
+ Fast Break
+ Haste Bangle
+ Haste Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Reflect Shield
+ Reflect Ring
+ Reflect Bracer
+ Reflect Armlet
+ Reflect Armguard
+ Reflect Bangle
+ Reflect Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Shell Shield
+ Shell Ring
+ Shell Bracer
+ Shell Armlet
+ Shell Armguard
+ Shell Bangle
+ Shell Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Protect Shield
+ Protect Ring
+ Protect Bracer
+ Protect Armlet
+ Protect Armguard
+ Protect Bangle
+ Protect Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Buckler
+ Ring
+ Bracer
+ Armlet
+ Armguard
+ Bangle
+ Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Platinum Shield
+ Platinum Ring
+ Platinum Bracer
+ Platinum Armlet
+ Platinum Armguard
+ Platinum Bangle
+ Centurion
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Sapphire Shield
+ Sapphire Ring
+ Sapphire Bracer
+ Sapphire Armlet
+ Sapphire Armguard
+ Sapphire Bangle
+ Echelon
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Knight's Shield
+ Power Ring
+ Knight's Bracer
+ Knight's Armlet
+ Power Armguard
+ Power Bangle
+ Knight's Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Wizard Shield
+ Wizard Ring
+ Wizard Bracer
+ Wizard Armlet
+ Energy Armguard
+ Wizard Bangle
+ Wizard Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Elemental Shield
+ Elemental Ring
+ Elemental Bracer
+ Elemental Armlet
+ Elemental Armguard
+ Elemental Bangle
+ Elemental Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Defending Shield
+ Defending Ring
+ Defending Bracer
+ Defending Armlet
+ Low Risk
+ Savior Bangle
+ Reliant
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Crimson Shield
+ Crimson Ring
+ Crimson Bracer
+ Crimson Armlet
+ Crimson Armguard
+ Crimson Bangle
+ Crimson Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Snow Shield
+ Snow Ring
+ Snow Bracer
+ Snow Armlet
+ Snow Armguard
+ Snow Bangle
+ Snow Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Ochre Shield
+ Ochre Ring
+ Ochre Bracer
+ Ochre Armlet
+ Ochre Armguard
+ Ochre Bangle
+ Ochre Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Cerulean Shield
+ Cerulean Ring
+ Cerulean Bracer
+ Cerulean Armlet
+ Cerulean Armguard
+ Cerulean Bangle
+ Cerulean Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Medical Shield
+ Medical Ring
+ Medical Bracer
+ Medical Armlet
+ Medical Armguard
+ Medical Bangle
+ Medical Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Lucid Shield
+ Lucid Ring
+ Lucid Bracer
+ Lucid Armlet
+ Lucid Armguard
+ Lucid Bangle
+ Lucid Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Serene Shield
+ Serene Ring
+ Serene Bracer
+ Serene Armlet
+ Serene Armguard
+ Serene Bangle
+ Dauntless
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Light Shield
+ Light Ring
+ Light Bracer
+ Light Armlet
+ Light Armguard
+ Light Bangle
+ Light Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Soul Shield
+ Soul Ring
+ Soul Bracer
+ Soul Armlet
+ Soul Armguard
+ Soul Bangle
+ Soul Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Blessed Shield
+ Blessed Ring
+ Blessed Bracer
+ Blessed Armlet
+ Blessed Armguard
+ Blessed Bangle
+ Blessed Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Soft Shield
+ Soft Ring
+ Soft Bracer
+ Soft Armlet
+ Soft Armguard
+ Soft Bangle
+ Soft Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Serum Shield
+ Serum Ring
+ Serum Bracer
+ Serum Armlet
+ Serum Armguard
+ Serum Bangle
+ Serum Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Alert Shield
+ Alert Ring
+ Alert Bracer
+ Alert Armlet
+ Alert Armguard
+ Alert Bangle
+ Alert Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Echo Shield
+ Echo Ring
+ Echo Bracer
+ Echo Armlet
+ Echo Armguard
+ Echo Bangle
+ Echo Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Bright Shield
+ Bright Ring
+ Bright Bracer
+ Bright Armlet
+ Bright Armguard
+ Bright Bangle
+ Bright Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Red Shield
+ Red Ring
+ Red Bracer
+ Red Armlet
+ Red Armguard
+ Red Bangle
+ Red Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ White Shield
+ White Ring
+ White Bracer
+ White Armlet
+ White Armguard
+ White Bangle
+ White Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Yellow Shield
+ Yellow Ring
+ Yellow Bracer
+ Yellow Armlet
+ Yellow Armguard
+ Yellow Bangle
+ Yellow Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Blue Shield
+ Blue Ring
+ Blue Bracer
+ Blue Armlet
+ Blue Armguard
+ Blue Bangle
+ Blue Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ NulTide Shield
+ NulTide Ring
+ NulTide Bracer
+ NulTide Armlet
+ NulTide Armguard
+ NulTide Bangle
+ NulTide Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ NulBlaze Shield
+ NulBlaze Ring
+ NulBlaze Bracer
+ NulBlaze Armlet
+ NulBlaze Armguard
+ NulBlaze Bangle
+ NulBlaze Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ NulShock Shield
+ NulShock Ring
+ NulShock Bracer
+ NulShock Armlet
+ NulShock Armguard
+ NulShock Bangle
+ NulShock Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ NulFrost Shield
+ NulFrost Ring
+ NulFrost Bracer
+ NulFrost Armlet
+ NulFrost Armguard
+ NulFrost Bangle
+ NulFrost Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Adept's Shield
+ Adept's Ring
+ Adept's Bracer
+ Adept's Armlet
+ Adept's Armguard
+ Adept's Bangle
+ Adept's Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Tetra Shield
+ Tetra Ring
+ Tetra Bracer
+ Tetra Armlet
+ Tetra Armguard
+ Tetra Bangle
+ Tetra Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Mythril Shield
+ Mythril Ring
+ Mythril Bracer
+ Mythril Armlet
+ Mythril Armguard
+ Mythril Bangle
+ Mythril Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Gold Shield
+ Gold Ring
+ Gold Bracer
+ Gold Armlet
+ Gold Armguard
+ Gold Bangle
+ Gold Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Emerald Shield
+ Emerald Ring
+ Emerald Bracer
+ Emerald Armlet
+ Emerald Armguard
+ Emerald Bangle
+ Emerald Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Soldier's Shield
+ Soldier's Ring
+ Soldier's Bracer
+ Soldier's Armlet
+ Soldier's Armguard
+ Vita Bangle
+ Soldier's Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Mage's Shield
+ Mage's Ring
+ Mage's Bracer
+ Mage's Armlet
+ Mage's Armguard
+ Mage's Bangle
+ Mage's Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Silver Shield
+ Silver Ring
+ Silver Bracer
+ Silver Armlet
+ Silver Armguard
+ Silver Bangle
+ Silver Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Onyx Shield
+ Onyx Ring
+ Onyx Bracer
+ Onyx Armlet
+ Onyx Armguard
+ Onyx Bangle
+ Onyx Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Sorcery Shield
+ Sorcery Ring
+ Sorcery Bracer
+ Sorcery Armlet
+ Sorcery Armguard
+ Sorcery Bangle
+ Sorcery Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Warrior's Shield
+ Tough Ring
+ Warrior's Bracer
+ Warrior's Armlet
+ Warrior's Armguard
+ Tough Bangle
+ Warrior's Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Glorious Shield
+ Glorious Ring
+ Glorious Bracer
+ Glorious Armlet
+ Glorious Armguard
+ Glorious Bangle
+ Glorious Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Metal Shield
+ Metal Ring
+ Metal Bracer
+ Metal Armlet
+ Metal Armguard
+ Metal Bangle
+ Metal Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Pearl Shield
+ Pearl Ring
+ Pearl Bracer
+ Pearl Armlet
+ Pearl Armguard
+ Pearl Bangle
+ Pearl Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Magic Shield
+ Magic Ring
+ Magic Bracer
+ Magic Armlet
+ Magic Armguard
+ Magic Bangle
+ Magic Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Seeker's Shield
+ Seeker's Ring
+ Seeker's Bracer
+ Seeker's Armlet
+ Seeker's Armguard
+ Seeker's Bangle
+ Seeker's Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Shield
+ Wide Ring
+ Guardian Bracer
+ Guardian Armlet
+ Guardian Armguard
+ Guardian Bangle
+ Guardian Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Buckler
+ Ring
+ Bracer
+ Armlet
+ Armguard
+ Bangle
+ Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Sanctuary
+ Holy Ring
+ Solidity
+ Acropolis
+ Shutout
+ Eternity
+ Impervious
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Buckler
+ Ring
+ Bracer
+ Armlet
+ Armguard
+ Bangle
+ Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Buckler
+ Ring
+ Bracer
+ Armlet
+ Armguard
+ Bangle
+ Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Buckler
+ Ring
+ Bracer
+ Armlet
+ Armguard
+ Bangle
+ Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Buckler
+ Ring
+ Bracer
+ Armlet
+ Armguard
+ Bangle
+ Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Buckler
+ Ring
+ Bracer
+ Armlet
+ Armguard
+ Bangle
+ Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Buckler
+ Ring
+ Bracer
+ Armlet
+ Armguard
+ Bangle
+ Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Buckler
+ Ring
+ Bracer
+ Armlet
+ Armguard
+ Bangle
+ Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Buckler
+ Ring
+ Bracer
+ Armlet
+ Armguard
+ Bangle
+ Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Buckler
+ Ring
+ Bracer
+ Armlet
+ Armguard
+ Bangle
+ Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Buckler
+ Ring
+ Bracer
+ Armlet
+ Armguard
+ Bangle
+ Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ Buckler
+ Ring
+ Bracer
+ Armlet
+ Armguard
+ Bangle
+ Targe
+ -
+ -
+ -
+ -
+ -
+ -
+ -
