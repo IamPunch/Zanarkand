@@ -79,7 +79,7 @@ std::string getChangedTreasure(std::vector<bool>& v) {
 		int buffer = Process::memoryReadInt(_Treasure[i].offset);
 		int updatedBit = (int) getBit(buffer, _Treasure[i].bitIndex);
 		if (v[i] != updatedBit) {
-			std::cout << updatedBit << std::endl;
+			//std::cout << updatedBit << std::endl;
 			std::string ID = int_to_hex(_Treasure[i].offset) + "_" + std::to_string(_Treasure[i].bitIndex);
 			nlohmann::json treasureJson = {
 				{ "ID", ID },

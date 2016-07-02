@@ -22,7 +22,7 @@ int main() {
 		{ "object", nlohmann::json::parse(allJSONTreasure) }
 	};  
 	std::string jsonRequest = requestObject.dump();
-	int respond = postRequest("http://localhost:3000/", jsonRequest);
+	int respond = postRequest("http://104.236.224.196/", jsonRequest);
 	while (1) {
 		std::string changedJSONTresure = getChangedTreasure(trackTreasure);
 		if (changedJSONTresure.compare("[]") != 0) {
@@ -31,7 +31,7 @@ int main() {
 				{ "object", nlohmann::json::parse(changedJSONTresure) }
 			};
 			jsonRequest = requestObject.dump();
-			respond = postRequest("http://localhost:3000/", jsonRequest);
+			respond = postRequest("http://104.236.224.196/", jsonRequest);
 		}
 		Sleep(100);
 	}
