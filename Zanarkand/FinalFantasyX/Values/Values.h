@@ -7,4 +7,5 @@
 #include "_Ability.h"
 #include "_AutoAbility.h"
 #include "_Overdrive.h"
+#include "_Treasure.h"
 #endif

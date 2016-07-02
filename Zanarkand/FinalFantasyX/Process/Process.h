@@ -16,6 +16,7 @@ public:
     static int memoryReadInt(int memoryAddress);
     static int memoryReadByte(int memoryAddress);
     static int memoryRead2Bytes(int memoryAddress);
+	static void pressKey(char key);
     static uint8_t* memoryReadChunk(int memoryAddress, int size);
 };
 

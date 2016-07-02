@@ -115,3 +115,16 @@ uint8_t* Process::memoryReadChunk(int memoryAddress, int size) {
     }
     return buffer;
 }
+
+void Process::pressKey(char key) {
+	HWND hWnd = FindWindow(NULL, "Untitled - Notepad");
+	SetForegroundWindow(hWnd);
+	DWORD dwPID = NULL;
+	//SendMessage(hWnd, WM_KEYDOWN, key, IntPtr.Zero);
+	if (hWnd != NULL) {
+		std::cout << hWnd << std::endl;
+		SendMessage(hWnd, WM_KEYDOWN, 'V', 1);
+		SendMessage(hWnd, WM_KEYUP, 'V', 1);
+		//std::cout << a << std::endl;
+	}
+}
